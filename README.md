@@ -1,17 +1,16 @@
 List of github repos with (possible) ggplot2 themes
 ===================================================
 
+**Last generated on** 2020-03-06 16:19:34 (UTC)
+
 <table class="table table-striped table-hover table-responsive" style="margin-left: auto; margin-right: auto;">
-<caption>
-Last generated on 2020-03-06 16:14:30 UTC
-</caption>
 <thead>
 <tr>
 <th style="text-align:left;">
 name
 </th>
 <th style="text-align:left;">
-url
+repo\_url
 </th>
 <th style="text-align:left;">
 description
@@ -33,7 +32,7 @@ updated
 <tbody>
 <tr>
 <td style="text-align:left;">
-cttobin/ggthemr
+ggthemr
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/cttobin/ggthemr" class="uri">https://github.com/cttobin/ggthemr</a>
@@ -42,10 +41,8 @@ cttobin/ggthemr
 Themes for ggplot2.
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2013-10-06T18:50:41Z
@@ -56,7 +53,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-jrnold/ggthemes
+ggthemes
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/jrnold/ggthemes" class="uri">https://github.com/jrnold/ggthemes</a>
@@ -68,7 +65,6 @@ Additional themes, scales, and geoms for ggplot2
 <a href="https://jrnold.github.io/ggthemes" class="uri">https://jrnold.github.io/ggthemes</a>
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2012-09-07T00:00:07Z
@@ -79,7 +75,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-ricardo-bion/ggtech
+ggtech
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/ricardo-bion/ggtech" class="uri">https://github.com/ricardo-bion/ggtech</a>
@@ -91,7 +87,6 @@ ggplot2 tech themes, scales, and geoms
 <a href="https://twitter.com/ricardobion" class="uri">https://twitter.com/ricardobion</a>
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2015-04-02T19:00:39Z
@@ -102,7 +97,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-wilkelab/cowplot
+cowplot
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/wilkelab/cowplot" class="uri">https://github.com/wilkelab/cowplot</a>
@@ -114,7 +109,6 @@ cowplot: Streamlined Plot Theme and Plot Annotations for ggplot2
 <a href="https://wilkelab.org/cowplot/" class="uri">https://wilkelab.org/cowplot/</a>
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2014-10-05T16:34:22Z
@@ -125,7 +119,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-calligross/ggthemeassist
+ggthemeassist
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/calligross/ggthemeassist" class="uri">https://github.com/calligross/ggthemeassist</a>
@@ -136,7 +130,6 @@ A RStudio addin for ggplot2 theme tweaking
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2016-02-20T09:57:16Z
@@ -147,7 +140,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-hrbrmstr/hrbrthemes
+hrbrthemes
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/hrbrmstr/hrbrthemes" class="uri">https://github.com/hrbrmstr/hrbrthemes</a>
@@ -171,7 +164,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-gadenbuie/ggpomological
+ggpomological
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/gadenbuie/ggpomological" class="uri">https://github.com/gadenbuie/ggpomological</a>
@@ -194,7 +187,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-nanxstats/ggsci
+ggsci
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/nanxstats/ggsci" class="uri">https://github.com/nanxstats/ggsci</a>
@@ -217,7 +210,7 @@ GNU General Public License v3.0
 </tr>
 <tr>
 <td style="text-align:left;">
-r4ecology/ggplot2-theme
+ggplot2-theme
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/r4ecology/ggplot2-theme" class="uri">https://github.com/r4ecology/ggplot2-theme</a>
@@ -229,7 +222,6 @@ figures
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2015-10-02T19:00:44Z
@@ -240,7 +232,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-alex23lemm/theme\_fivethirtyeight
+theme\_fivethirtyeight
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/alex23lemm/theme_fivethirtyeight" class="uri">https://github.com/alex23lemm/theme_fivethirtyeight</a>
@@ -249,10 +241,8 @@ alex23lemm/theme\_fivethirtyeight
 ggplot2 theme that mimics themes of fivethirtyeight.com plots
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2014-07-29T08:47:00Z
@@ -263,7 +253,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-datarootsio/artyfarty
+artyfarty
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/datarootsio/artyfarty" class="uri">https://github.com/datarootsio/artyfarty</a>
@@ -285,7 +275,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-moldach/vapoRwave
+vapoRwave
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/moldach/vapoRwave" class="uri">https://github.com/moldach/vapoRwave</a>
@@ -307,7 +297,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-metrumresearchgroup/ggedit
+ggedit
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/metrumresearchgroup/ggedit" class="uri">https://github.com/metrumresearchgroup/ggedit</a>
@@ -329,7 +319,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-briandconnelly/ggplot2bdc
+ggplot2bdc
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/briandconnelly/ggplot2bdc" class="uri">https://github.com/briandconnelly/ggplot2bdc</a>
@@ -351,7 +341,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-nsgrantham/ggdark
+ggdark
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/nsgrantham/ggdark" class="uri">https://github.com/nsgrantham/ggdark</a>
@@ -373,7 +363,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-ukgovdatascience/govstyle
+govstyle
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/ukgovdatascience/govstyle" class="uri">https://github.com/ukgovdatascience/govstyle</a>
@@ -396,7 +386,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-guiastrennec/ggplus
+ggplus
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/guiastrennec/ggplus" class="uri">https://github.com/guiastrennec/ggplus</a>
@@ -405,10 +395,8 @@ guiastrennec/ggplus
 A set of additional functions for ggplot2
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2015-08-13T22:22:15Z
@@ -419,7 +407,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-schochastics/Rokemon
+Rokemon
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/schochastics/Rokemon" class="uri">https://github.com/schochastics/Rokemon</a>
@@ -428,7 +416,6 @@ schochastics/Rokemon
 Pokemon themed R package
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 Other
@@ -442,7 +429,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-Ryo-N7/tvthemes
+tvthemes
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/Ryo-N7/tvthemes" class="uri">https://github.com/Ryo-N7/tvthemes</a>
@@ -465,7 +452,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-vankesteren/firatheme
+firatheme
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/vankesteren/firatheme" class="uri">https://github.com/vankesteren/firatheme</a>
@@ -474,7 +461,6 @@ vankesteren/firatheme
 a ggplot2 theme with fira font
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 Other
@@ -488,7 +474,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-UrbanInstitute/urbnthemes
+urbnthemes
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/UrbanInstitute/urbnthemes" class="uri">https://github.com/UrbanInstitute/urbnthemes</a>
@@ -501,7 +487,6 @@ development
 <a href="https://UrbanInstitute.github.io/urbnthemes/" class="uri">https://UrbanInstitute.github.io/urbnthemes/</a>
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2018-03-09T13:49:18Z
@@ -512,7 +497,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-bcgov/envreportutils
+envreportutils
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/bcgov/envreportutils" class="uri">https://github.com/bcgov/envreportutils</a>
@@ -535,7 +520,7 @@ Apache License 2.0
 </tr>
 <tr>
 <td style="text-align:left;">
-hrbrmstr/imprint
+imprint
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/hrbrmstr/imprint" class="uri">https://github.com/hrbrmstr/imprint</a>
@@ -558,7 +543,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-nielsvanberkel/theme\_ubicomp
+theme\_ubicomp
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/nielsvanberkel/theme_ubicomp" class="uri">https://github.com/nielsvanberkel/theme_ubicomp</a>
@@ -567,7 +552,6 @@ nielsvanberkel/theme\_ubicomp
 Theme for ggplot2 and helper functions
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 MIT License
@@ -581,7 +565,7 @@ MIT License
 </tr>
 <tr>
 <td style="text-align:left;">
-briandconnelly/lato
+lato
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/briandconnelly/lato" class="uri">https://github.com/briandconnelly/lato</a>
@@ -590,7 +574,6 @@ briandconnelly/lato
 Minimal and flexible ‘ggplot2’ themes using ‘Lato’ Typeface
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 Other
@@ -604,7 +587,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-sjessa/ggmin
+ggmin
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/sjessa/ggmin" class="uri">https://github.com/sjessa/ggmin</a>
@@ -616,7 +599,6 @@ Powerpoint)
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2017-06-29T20:57:41Z
@@ -627,7 +609,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-jrnold/ggtufte
+ggtufte
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/jrnold/ggtufte" class="uri">https://github.com/jrnold/ggtufte</a>
@@ -636,7 +618,6 @@ jrnold/ggtufte
 Geoms and themes for ggplot2 inspired by Tufte
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 Other
@@ -650,7 +631,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-hrbrmstr/ggexpanse
+ggexpanse
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/hrbrmstr/ggexpanse" class="uri">https://github.com/hrbrmstr/ggexpanse</a>
@@ -672,7 +653,7 @@ Other
 </tr>
 <tr>
 <td style="text-align:left;">
-condwanaland/ggpubs
+ggpubs
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/condwanaland/ggpubs" class="uri">https://github.com/condwanaland/ggpubs</a>
@@ -681,10 +662,8 @@ condwanaland/ggpubs
 Publication ready themes for ggplot2
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
-NA
 </td>
 <td style="text-align:left;">
 2017-02-28T00:25:27Z
@@ -695,7 +674,7 @@ NA
 </tr>
 <tr>
 <td style="text-align:left;">
-bhaskarvk/fontMPlus
+fontMPlus
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/bhaskarvk/fontMPlus" class="uri">https://github.com/bhaskarvk/fontMPlus</a>

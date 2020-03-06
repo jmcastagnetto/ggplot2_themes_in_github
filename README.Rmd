@@ -16,7 +16,7 @@ res <- gh(
 
 github_ggplot2_themes <- tibble(
   name = character(),
-  url = character(),
+  repo_url = character(),
   description = character(),
   homepage = character(),
   license = character(),
@@ -25,7 +25,7 @@ github_ggplot2_themes <- tibble(
 )
 
 fix_null <- function(x) {
-  ifelse(is_null(x), NA, x)
+  ifelse(is_null(x), "", x)
 }
 
 for (item in res$items) {
@@ -36,8 +36,8 @@ for (item in res$items) {
   github_ggplot2_themes <- bind_rows(
     github_ggplot2_themes,
     tibble(
-      name = item$full_name,
-      url = item$html_url,
+      name = item$name,
+      repo_url = item$html_url,
       description = fix_null(item$description),
       homepage = fix_null(item$homepage),
       license = fix_null(item$license$name),
@@ -47,15 +47,21 @@ for (item in res$items) {
   )
 }
 last_generated <- now(tzone = "UTC")
+# save csv
+write_csv(
+  github_ggplot2_themes,
+  path = "ggplot2_themes_in_github.csv"
+)
 ```
 
 # List of github repos with (possible) ggplot2 themes
 
+**Last generated on** `r last_generated` (UTC)
+
 
 ```{r echo=FALSE, results="asis"}
 kable(github_ggplot2_themes,
-      format = "html",
-      caption = paste("Last generated on", last_generated, "UTC")
+      format = "html"
       ) %>% 
   kable_styling(
     bootstrap_options = c("striped", "hover", "responsive")
