@@ -1,0 +1,66 @@
+---
+output: md_document
+always_allow_html: true
+---
+
+```{r echo=FALSE, include=FALSE}
+library(tidyverse)
+library(gh)
+library(kableExtra)
+library(lubridate)
+
+# get all repos that mention "ggplot2" and "theme"
+res <- gh(
+  "GET /search/repositories?q=ggplot2+theme"
+)
+
+github_ggplot2_themes <- tibble(
+  name = character(),
+  url = character(),
+  description = character(),
+  homepage = character(),
+  license = character(),
+  created = character(),
+  updated = character()
+)
+
+fix_null <- function(x) {
+  ifelse(is_null(x), NA, x)
+}
+
+for (item in res$items) {
+  # filter off this repo
+  if (item$full_name == "jmcastagnetto/ggplot2_themes_in_github") {
+    next
+  }
+  github_ggplot2_themes <- bind_rows(
+    github_ggplot2_themes,
+    tibble(
+      name = item$full_name,
+      url = item$html_url,
+      description = fix_null(item$description),
+      homepage = fix_null(item$homepage),
+      license = fix_null(item$license$name),
+      created = item$created_at,
+      updated = item$updated_at,
+    )
+  )
+}
+last_generated <- now(tzone = "UTC")
+```
+
+# List of github repos with (possible) ggplot2 themes
+
+
+```{r echo=FALSE, results="asis"}
+kable(github_ggplot2_themes,
+      format = "html",
+      caption = paste("Last generated on", last_generated, "UTC")
+      ) %>% 
+  kable_styling(
+    bootstrap_options = c("striped", "hover", "responsive")
+  )
+
+```
+
+*License*: MIT
