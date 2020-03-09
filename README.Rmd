@@ -65,7 +65,8 @@ repos_no_themes <- c(
   "GeekOnAcid/geom_rug2",
   "cemalley/data-viz",
   "onlyphantom/rgraphics",
-  "sethbilliau/HODP-styleguide"
+  "sethbilliau/HODP-styleguide",
+  "uplotnik/TidyVerseAssignment.md"
 )
 
 for (item in res_items) {
