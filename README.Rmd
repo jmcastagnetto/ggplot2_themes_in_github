@@ -8,30 +8,33 @@ library(gh)
 library(lubridate)
 library(knitr)
 
+query = "ggplot+theme"
+get_repos <- function(query) {
+  qstr <- glue::glue("GET /search/repositories?q={query}")
+  accept_hdr <- "application/vnd.github.mercy-preview+json"
+  res <- gh(qstr, .accept = accept_hdr)
+  pages <- ceiling(res$total_count / 30)
+  items <- c(res$items)
+  for (i in 2:pages) {
+    res <- gh(qstr, page = i, .accept = accept_hdr)
+    Sys.sleep(10) # to avoid hitting the API limit
+    items <- c(items, res$items)
+  }
+  return(items)
+}
+
 # get all repos that mention "ggplot2" and "theme"
-res1 <- gh("GET /search/repositories?q=ggplot2+theme")
-total_repos1 <- res1$total_count
-pages <- ceiling(total_repos1 / 30)
+res1 <- get_repos("ggplot2+theme")
+Sys.sleep(30) # to avoid hitting the API limit
+res2 <- get_repos("ggplot2+style")
+Sys.sleep(30) # to avoid hitting the API limit
+# topic search
+# ggplot2-theme and ggplot2-themes
+res3 <- get_repos("topic:ggplot2-themes")
+Sys.sleep(30) # to avoid hitting the API limit
+res4 <- get_repos("topic:ggplot2-theme")
 
-res_items <- c(res1$items)
-
-for (i in 2:pages) {
-  res1 <- gh("GET /search/repositories?q=ggplot2+theme",
-             page = i)
-  res_items <- c(res_items, res1$items)
-}
-
-res2 <- gh("GET /search/repositories?q=ggplot2+style")
-total_repos2 <- res2$total_count
-pages <- ceiling(total_repos2 / 30)
-
-res_items <- c(res_items, res2$items)
-
-for (i in 2:pages) {
-  res2 <- gh("GET /search/repositories?q=ggplot2+style", 
-             page = i)
-  res_items <- c(res_items, res2$items)
-}
+res_items <- c(res1, res2, res3, res4)
 
 fix_null <- function(x) {
   ifelse(is_null(x), "", x)
