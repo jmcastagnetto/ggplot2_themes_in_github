@@ -9,15 +9,29 @@ library(lubridate)
 library(knitr)
 
 # get all repos that mention "ggplot2" and "theme"
-res1 <- gh(
-  "GET /search/repositories?q=ggplot2+theme"
-)
+res1 <- gh("GET /search/repositories?q=ggplot2+theme")
+total_repos1 <- res1$total_count
+pages <- ceiling(total_repos1 / 30)
 
-res2 <- gh(
-  "GET /search/repositories?q=ggplot2+style"
-)
+res_items <- c(res1$items)
 
-res_items <- c(res1$items, res2$items)
+for (i in 2:pages) {
+  res1 <- gh("GET /search/repositories?q=ggplot2+theme",
+             page = i)
+  res_items <- c(res_items, res1$items)
+}
+
+res2 <- gh("GET /search/repositories?q=ggplot2+style")
+total_repos2 <- res2$total_count
+pages <- ceiling(total_repos2 / 30)
+
+res_items <- c(res_items, res2$items)
+
+for (i in 2:pages) {
+  res2 <- gh("GET /search/repositories?q=ggplot2+style", 
+             page = i)
+  res_items <- c(res_items, res2$items)
+}
 
 fix_null <- function(x) {
   ifelse(is_null(x), "", x)
@@ -55,7 +69,7 @@ repos_no_themes <- c(
 )
 
 for (item in res_items) {
-  # filter off this repo
+  # filter off repos w/o themes/styles
   if (item$full_name %in% repos_no_themes) {
     next
   }
