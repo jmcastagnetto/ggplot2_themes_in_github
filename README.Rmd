@@ -66,7 +66,8 @@ repos_no_themes <- c(
   "cemalley/data-viz",
   "onlyphantom/rgraphics",
   "sethbilliau/HODP-styleguide",
-  "uplotnik/TidyVerseAssignment.md"
+  "uplotnik/TidyVerseAssignment.md",
+  "binmishr/Wrangling_and_Visualizing_Musical_Data_R"
 )
 
 for (item in res_items) {
