@@ -104,8 +104,8 @@ write_csv(
 
 # List of github repos with (possible) ggplot2 themes
 
-**Last generated on** `r last_generated` (UTC)
-
+- **Last generated on** `r last_generated` (UTC)
+- Here is the [data in CSV format](ggplot2_themes_in_github.csv)
 
 ```{r echo=FALSE, results}
 kable(github_ggplot2_themes %>% 
@@ -114,6 +114,5 @@ kable(github_ggplot2_themes %>%
       )
 ```
 
-Here is the [data in CSV format](ggplot2_themes_in_github.csv)
 
 *License*: MIT
