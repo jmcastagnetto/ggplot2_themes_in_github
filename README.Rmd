@@ -114,5 +114,6 @@ kable(github_ggplot2_themes %>%
       )
 ```
 
+If you find a repo that doesn't contain a theme, submit an issue so I can add it to the filter.
 
 *License*: MIT
