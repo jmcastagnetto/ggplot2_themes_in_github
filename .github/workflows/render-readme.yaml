@@ -26,8 +26,7 @@ jobs:
         uses: r-lib/actions/setup-r@v1
 
       - name: Install packages used in README.Rmd
-        run: sudo apt-get install -y r-cran-tidyverse r-cran-knitr r-cran-rmarkdown r-cran-gh r-cran-lubridate
-        #run: Rscript install-req-pkgs.R
+        uses: r-lib/actions/setup-r-dependencies@v2
 
       - name: Render README from RMarkdown
         run: Rscript build-readme.R
