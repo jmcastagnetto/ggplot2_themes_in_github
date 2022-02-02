@@ -33,5 +33,5 @@ jobs:
 
       - name: Commit results
         run: |
-          git commit ${RMD_PATH[*]/.Rmd/.md} -m 'Re-build README.md' || echo "No changes to commit"
+          git commit -m 'Re-build README.md' README.md || echo "No changes to commit"
           git push origin || echo "No changes to commit"
