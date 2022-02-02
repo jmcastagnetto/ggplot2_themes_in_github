@@ -27,14 +27,14 @@ jobs:
 
       - name: Install packages used in README.Rmd
         uses: r-lib/actions/setup-r-dependencies@v2
-          with:
-            cache-version: 2
-            needs: |
-              tidyverse
-              rmarkdown
-              knitr
-              gh
-              lubridate
+        with:
+          cache-version: 2
+          needs: |
+            tidyverse
+            rmarkdown
+            knitr
+            gh
+            lubridate
 
       - name: Render README from RMarkdown
         run: Rscript build-readme.R
