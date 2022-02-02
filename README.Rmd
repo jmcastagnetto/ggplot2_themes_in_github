@@ -114,4 +114,7 @@ kable(github_ggplot2_themes %>%
       )
 ```
 
+[Data in CSV format](ggplot2_themes_in_github.csv)
+
+
 *License*: MIT
