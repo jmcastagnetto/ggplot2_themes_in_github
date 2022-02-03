@@ -91,8 +91,8 @@ for (item in res_items) {
     )
   )
 }
-github_ggplot2_themes <- github_ggplot2_themes %>% 
-  distinct() %>% 
+github_ggplot2_themes <- github_ggplot2_themes %>%
+  distinct() %>%
   arrange(name, created)
 last_generated <- now(tzone = "UTC")
 # save csv
@@ -109,7 +109,7 @@ write_csv(
 - If you find a repo that doesn't contain a theme, submit an issue so I can add it to the filter
 
 ```{r echo=FALSE, results}
-kable(github_ggplot2_themes %>% 
+kable(github_ggplot2_themes %>%
   rownames_to_column("item"),
       format = "markdown"
       )
