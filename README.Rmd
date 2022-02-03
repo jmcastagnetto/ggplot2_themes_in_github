@@ -106,6 +106,7 @@ write_csv(
 
 **Last generated on** `r last_generated` (UTC)
 
+- This list is generated using the github API, so it relies on the descriptions and tags in each repository
 - Get the [data in CSV format](ggplot2_themes_in_github.csv)
 - If you find a repo that doesn't contain a theme, submit an issue so I can add it to the filter
 
