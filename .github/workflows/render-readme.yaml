@@ -1,0 +1,48 @@
+# Based on https://fromthebottomoftheheap.net/2020/04/30/rendering-your-readme-with-github-actions/
+on:
+  schedule:
+    - cron: '0 2 * * 0'  # run every sunday at 02:00
+  push:
+    paths:
+      - README.Rmd
+
+name: Render README
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Set up pandoc
+        uses: r-lib/actions/setup-pandoc@v1
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v1
+
+      - name: Add extra repositories for Ubuntu
+        run: |
+          sudo add-apt-repository -y universe
+          sudo add-apt-repository -y multiverse
+          sudo add-apt-repository -y restricted
+          sudo apt-get update
+
+      - name: Install packages used in README.Rmd
+        run: |
+          sudo apt-get -y install r-cran-tidyverse r-cran-rmarkdown r-cran-knitr r-cran-lubridate r-cran-gh
+
+      - name: Check that the installed libraries can be loaded
+        run: Rscript -e 'library(tidyverse); library(rmarkdown); library(knitr); library(lubridate); library(gh)'
+
+      - name: Render README from RMarkdown
+        run: Rscript build-readme.R
+
+      - name: Commit results
+        run: |
+          git commit -m 'Re-build README.md' README.md || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
