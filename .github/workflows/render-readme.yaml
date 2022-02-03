@@ -32,9 +32,20 @@ jobs:
           sudo add-apt-repository -y restricted
           sudo apt-get update
 
+      - name: Prepare according to https://cran.r-project.org/bin/linux/ubuntu/
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install --no-install-recommends software-properties-common dirmngr
+          sudo wget -qO- https://cloud.r-project.org/bin/linux/ubuntu/marutter_pubkey.asc | sudo tee -a /etc/apt/trusted.gpg.d/cran_ubuntu_key.asc
+          sudo add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/"
+          sudo apt-get -y --no-install-recommends r-base
+          sudo apt-get -y upgrade
+          sudo add-apt-repository -y ppa:c2d4u.team/c2d4u4.0+
+          sudo apt-get update
+
       - name: Install packages used in README.Rmd
         run: |
-          sudo apt-get -y install r-cran-tidyverse r-cran-rmarkdown r-cran-knitr r-cran-lubridate r-cran-gh
+          sudo apt-get install -y --no-install-recommends r-cran-tidyverse r-cran-rmarkdown r-cran-knitr r-cran-lubridate r-cran-gh
 
       - name: Check that the installed libraries can be loaded
         run: Rscript -e 'library(tidyverse); library(rmarkdown); library(knitr); library(lubridate); library(gh)'
