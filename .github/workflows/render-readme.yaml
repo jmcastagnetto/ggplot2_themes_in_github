@@ -38,7 +38,7 @@ jobs:
           sudo apt-get install --no-install-recommends software-properties-common dirmngr
           sudo wget -qO- https://cloud.r-project.org/bin/linux/ubuntu/marutter_pubkey.asc | sudo tee -a /etc/apt/trusted.gpg.d/cran_ubuntu_key.asc
           sudo add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/"
-          sudo apt-get -y --no-install-recommends r-base
+          sudo apt-get install -y --no-install-recommends r-base
           sudo apt-get -y upgrade
           sudo add-apt-repository -y ppa:c2d4u.team/c2d4u4.0+
           sudo apt-get update
