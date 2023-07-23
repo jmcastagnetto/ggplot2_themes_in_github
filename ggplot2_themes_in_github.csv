@@ -4,7 +4,6 @@ AQRCxray,https://github.com/jgiacomo/AQRCxray,Helpful functions and ggplot2 them
 AlecWebsiteThmr,https://github.com/Alec-Stashevsky/AlecWebsiteThmr,Custom ggplot2 theme for my personal website,,Other,2021-08-22T20:19:40Z,2022-12-02T07:13:03Z
 BensThemes,https://github.com/benchaffe/BensThemes,A package for R that contains the custom themes I use for ggplot2,,MIT License,2021-02-13T16:59:18Z,2021-02-14T15:38:01Z
 BicycleTheme2023,https://github.com/BicycleTx/BicycleTheme2023,Bicycle theme for ggplot2 objects,,,2023-03-17T15:46:02Z,2023-03-17T15:47:28Z
-CREG,https://github.com/nicoschoutteet/CREG,"Apply a custom, consistent theme to ggplot2 figures in line with CREG visual guide.",,,2022-11-21T10:11:14Z,2023-02-20T13:59:38Z
 Career-Guidance-Tool,https://github.com/divyargarg/Career-Guidance-Tool,"tidytuesday selection, Investigating US tuition fee",,,2019-10-28T16:53:13Z,2020-01-16T20:40:32Z
 Climate_Data_Visualization,https://github.com/jarred13/Climate_Data_Visualization,Visualizing historical temperatures and greenhouse gases,,,2022-04-08T02:21:27Z,2023-02-03T21:40:17Z
 ColourblindR,https://github.com/UBC-MDS/ColourblindR,An R package that creates themes that make plots accessible for people with colour blindness.,https://ubc-mds.github.io/ColourblindR/,Other,2019-02-05T23:59:35Z,2021-02-11T11:29:50Z
@@ -19,22 +18,26 @@ INBOtheme,https://github.com/RmeanyMAN/INBOtheme,A collection of ggplot2 themes,
 INBOtheme,https://github.com/inbo/INBOtheme,An R package with several ggplot2 themes,https://inbo.github.io/INBOtheme,GNU General Public License v3.0,2016-08-29T06:48:00Z,2021-12-20T02:51:59Z
 Implementing_k_NN_and_Data_Visualization_with_ggplot2,https://github.com/cariappa93/Implementing_k_NN_and_Data_Visualization_with_ggplot2,[Mini Project]: Implementing Lazy Learning k-NN on IRIS dataset and EDA using ggplot2 - R style visuals on Jupyter Notebook,,,2023-01-28T21:15:39Z,2023-03-03T00:04:57Z
 KITra,https://github.com/MBrede/KITra,Custom color palettes and themes for ggplot2 plots in the CI of the AI Transfer Hub SH.,,GNU General Public License v3.0,2023-01-19T09:47:17Z,2023-01-19T09:48:47Z
+LUthemes,https://github.com/nrennie/LUthemes,"R package for styling ggplot2 graphics with Lancaster University colours. Unofficial theme, not endorsed by the university.",,Other,2023-05-11T19:27:30Z,2023-05-11T21:41:23Z
 Langage_R_Data_Visualisation_Machine_Learning,https://github.com/NisrineBennor/Langage_R_Data_Visualisation_Machine_Learning,,,,2020-10-06T00:59:17Z,2020-12-01T14:15:32Z
 MGTheme,https://github.com/MGato24/MGTheme,A collection of additional themes for ggplot2 tailored to my needs,,GNU General Public License v3.0,2022-09-08T16:42:31Z,2022-09-11T21:21:09Z
-MKHthemes,https://github.com/MatthewHeun/MKHthemes,Themes for ggplot2 graphics,,Other,2018-07-08T00:39:14Z,2020-09-03T01:36:23Z
+MKHthemes,https://github.com/MatthewHeun/MKHthemes,Themes for ggplot2 graphics,,Other,2018-07-08T00:39:14Z,2023-05-09T00:43:25Z
+NCLRtemplates,https://github.com/ncl-icb-analytics/NCLRtemplates,R package with ggplot2 stuff with ICB / ICS colours and theme and templates for markdown reports,https://ncl-icb-analytics.github.io/NCLRtemplates/,Other,2023-06-07T10:03:09Z,2023-07-06T14:45:16Z
 NU_theme,https://github.com/MJPeyton/NU_theme,A custom theme for my ggplot2,,GNU General Public License v3.0,2019-01-04T16:08:40Z,2019-01-08T22:30:15Z
 Panel_Charts,https://github.com/bquillin12/Panel_Charts,A slightly altered version of my ggplot2 theme for MS Word documents that adjusts settings for insertion into 2-column matrix panels.,,Apache License 2.0,2019-06-17T20:06:14Z,2019-07-03T18:12:53Z
 PiePieGGPlotter,https://github.com/Hedaozi/PiePieGGPlotter,(Developing) A desktop application of adjusting ggplot2 theme and tamp theme.,,,2021-07-30T14:09:25Z,2022-09-19T08:56:46Z
 Publication,https://github.com/bquillin12/Publication,ggplot2 theme that I use for inserting ggplot2 objects into MS Word documents.,,GNU General Public License v3.0,2019-06-17T19:58:53Z,2019-09-05T19:57:26Z
+QSPthemes,https://github.com/dougtommet/QSPthemes,Quantitative Sciences Program ggplot2 themes,,Other,2020-02-05T18:35:34Z,2020-02-05T20:49:08Z
 R-Bootcamp,https://github.com/atse0612/R-Bootcamp,,,,2016-11-16T16:48:45Z,2017-03-08T16:09:56Z
 R-for-Data-Science,https://github.com/Bhrugu-scientist/R-for-Data-Science,"Welcome to R for Data Science Repository.  It includes the code in R required for dealing with matrices, data frames and creating beautiful visualizations.",,,2020-04-05T02:05:15Z,2021-07-23T09:11:21Z
 R_theme,https://github.com/guoxueyu/R_theme,Summary of common themes in ggplot2,,,2020-11-06T12:00:30Z,2020-11-06T13:15:33Z
+R_utilities,https://github.com/cortes-ciriano-lab/R_utilities,R common ggplot2 theme and popular colour palettes for lab usage,,MIT License,2023-05-15T10:21:40Z,2023-05-15T10:25:54Z
 Rokemon,https://github.com/schochastics/Rokemon,Pokemon themed R package ,,Other,2017-11-28T11:08:13Z,2023-03-03T10:07:25Z
-Rtistic,https://github.com/emilyriederer/Rtistic,"A hackathon-in-a-box / ""cookbook"" to help build an R package with custom RMarkdown themes and ggplot2 themes & palettes. This looks like a package but it is not intended to be installed as-is. It is a wireframe to be used by an individual or group to create their *own* package!",,Creative Commons Zero v1.0 Universal,2019-05-20T11:36:46Z,2023-03-25T22:15:39Z
+Rtistic,https://github.com/emilyriederer/Rtistic,"A hackathon-in-a-box / ""cookbook"" to help build an R package with custom RMarkdown themes and ggplot2 themes & palettes. This looks like a package but it is not intended to be installed as-is. It is a wireframe to be used by an individual or group to create their *own* package!",,Creative Commons Zero v1.0 Universal,2019-05-20T11:36:46Z,2023-07-11T18:18:02Z
 Scatterplot_algorithm,https://github.com/DanielANystrom/Scatterplot_algorithm,"The goal of this ongoing project is to develop a standardized scatterplot aesthetic in ggplot2, that relies on just a handful of variables that a user can easily edit, and declare, to quickly make scatterplots for several variable pairs using the same theme.",,,2020-07-31T02:37:10Z,2020-07-31T02:45:22Z
-SciencesPo,https://github.com/dmarcelinobr/SciencesPo,A tool set for analyzing political science data,http://CRAN.R-project.org/package=SciencesPo,,2015-01-05T17:33:39Z,2023-01-10T05:22:45Z
+SciencesPo,https://github.com/dmarcelinobr/SciencesPo,A tool set for analyzing political science data,http://CRAN.R-project.org/package=SciencesPo,,2015-01-05T17:33:39Z,2023-07-08T03:28:18Z
 SethsTheme,https://github.com/sethbilliau/SethsTheme,R package with Seth's custom ggplot2 theme,,,2021-06-17T03:51:55Z,2021-06-17T15:44:38Z
-StrategyUnitTheme,https://github.com/The-Strategy-Unit/StrategyUnitTheme,This package provides ggplot2 themes and colour palettes for use by The Strategy Unit.,https://the-strategy-unit.github.io/StrategyUnitTheme/,MIT License,2019-11-18T12:41:48Z,2023-02-21T09:57:38Z
+StrategyUnitTheme,https://github.com/The-Strategy-Unit/StrategyUnitTheme,This package provides ggplot2 themes and colour palettes for use by The Strategy Unit.,https://the-strategy-unit.github.io/StrategyUnitTheme/,MIT License,2019-11-18T12:41:48Z,2023-06-12T08:39:42Z
 TetrisChart,https://github.com/filmicaesthetic/TetrisChart,Function to create a Tetris-themed chart with ggplot2,,,2022-01-07T17:03:44Z,2022-12-30T07:10:16Z
 Tidy-Tuesday,https://github.com/patcasrom/Tidy-Tuesday,"A weekly project that builds off #makeovermonday style projects but aimed at the R ecosystem. An emphasis will be placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem.",,,2018-04-23T16:30:23Z,2018-04-23T16:51:33Z
 Uber-Data-Analysis-in-R,https://github.com/JulWebana/Uber-Data-Analysis-in-R,"Dans un projet de data analyse, la data storytelling est un élément important du machine learning grâce auquel les entreprises peuvent comprendre le contexte de diverses opérations.  Avec l'aide de la visualisation, les entreprises peuvent profiter de l'avantage de comprendre les données complexes et obtenir des informations qui les aideront à prendre des décisions. A travers ces lignes de codes vous apprendrez à mettre en œuvre le ggplot2 sur le jeu de données Uber Pickups et, à la fin, vous maîtriserez l'art de la visualisation des données en R. J’espère que ce projet vous plaira.  ********************************************************************************** Les bibliothèques importantes que nous utiliserons sont :  ggplot2: C'est l'épine dorsale de ce projet. ggplot2 est la bibliothèque de visualisation de données la plus populaire et la plus utilisée pour créer des graphiques de visualisation esthétiques.  ggthemes: C'est un complément à notre bibliothèque principale ggplot2. Avec ceci, nous pouvons mieux créer des thèmes et des échelles supplémentaires avec le paquet ggplot2 principal.  lubridate: Notre ensemble de données comprend plusieurs périodes de temps. Afin de comprendre nos données dans des catégories temporelles distinctes, nous utiliserons le package lubridate.  dplyr : C'est une extension facilitant le traitement et la manipulation de données contenues dans une ou plusieurs tables. Elle propose une syntaxe claire et cohérente, sous formes de verbes, pour la plupart des opérations de ce type. Voici une simple analogie. Si les données constituent un tissu, nous pouvons voir dplyr comme à la fois la paire de ciseaux pour en faire la coupe, et l’aiguille et le fil pour le coudre.  tidyr: Ce package nous aidera à mettre de l'ordre dans nos données. Le principe de base de tidyr est de mettre en ordre les colonnes où chaque variable est présente dans une colonne, chaque observation est représentée par une ligne et chaque valeur représente une cellule.  DT: C'est une interface de la bibliothèque JavaScript DataTables. Il rend accessible les fonctionnalités de la librairie originale en R. La principale fonction de DT est datatable. Cette fonction permet de construire rapidement et efficacement un tableau interactif en format HTML à partir d’un data frame ou d’une matrice.   Scales : Avec l'aide des échelles graphiques, nous pouvons automatiquement faire correspondre les données aux bonnes échelles avec des axes et des légendes bien placés.",,,2022-07-11T15:21:27Z,2023-01-20T10:36:20Z
@@ -48,12 +51,12 @@ anteo,https://github.com/TysonStanley/anteo,Tools for researchers using random f
 architekter,https://github.com/ThinkR-open/architekter,A tool to extract a {ggplot2} theme from a Figma file,,Other,2022-02-25T09:39:24Z,2022-03-31T17:20:57Z
 artyfarty,https://github.com/datarootsio/artyfarty,ggplot2 theme + palette presets,,Other,2016-10-04T15:14:13Z,2022-02-28T18:23:26Z
 autheme,https://github.com/giuliogiagnoni/autheme,Get pretty and consistent graphs (ggplot2) and tables (flextable) with a style that suit Aarhus University theme.,,MIT License,2021-11-16T19:44:25Z,2021-12-09T10:02:44Z
-awesome-ggplot2,https://github.com/erikgahner/awesome-ggplot2,"A curated list of awesome ggplot2 tutorials, packages etc.",,,2020-01-31T15:36:58Z,2023-04-08T11:27:43Z
-bbplot,https://github.com/bbc/bbplot,R package that helps create and export ggplot2 charts in the style used by the BBC News data team,,,2019-01-15T17:28:21Z,2023-04-09T07:00:54Z
+awesome-ggplot2,https://github.com/erikgahner/awesome-ggplot2,"A curated list of awesome ggplot2 tutorials, packages etc.",,,2020-01-31T15:36:58Z,2023-07-19T06:16:01Z
+bbplot,https://github.com/bbc/bbplot,R package that helps create and export ggplot2 charts in the style used by the BBC News data team,,,2019-01-15T17:28:21Z,2023-07-19T23:42:00Z
 bcggtheme,https://github.com/Tony-Chen-Melbourne/bcggtheme,A ggplot2 theme to create graphs in the style of BCG,,,2020-08-31T10:15:43Z,2020-10-19T01:48:27Z
 bestcolorgraphs,https://github.com/CocoPal/bestcolorgraphs,Best color themes for ggplot2,,Other,2020-12-04T20:51:45Z,2020-12-04T21:12:22Z
 biogeochemthemes,https://github.com/biogeochem/biogeochemthemes,This package holds the 'ggplot2' themes from members of the biogeochem lab.,,Other,2018-02-02T02:31:27Z,2020-04-22T13:49:54Z
-boeCharts,https://github.com/bank-of-england/boeCharts,Bank of England Chart Themes and Styles for 'ggplot2',,GNU General Public License v3.0,2020-05-26T19:44:40Z,2023-02-02T11:41:08Z
+boeCharts,https://github.com/bank-of-england/boeCharts,Bank of England Chart Themes and Styles for 'ggplot2',,GNU General Public License v3.0,2020-05-26T19:44:40Z,2023-06-23T12:40:53Z
 bw166ggtheme,https://github.com/bw166/bw166ggtheme,ggplot2 theme for bw166,,,2022-07-09T23:04:52Z,2022-07-18T19:55:35Z
 camptheme,https://github.com/campbead/camptheme,theme for ggplot2,,Other,2021-09-09T17:57:43Z,2021-11-17T00:59:35Z
 certeplot2,https://github.com/certe-medical-epidemiology/certeplot2,"R Package for fast and convenient plotting, by providing wrappers around 'tidyverse' packages such as 'ggplot2', while also providing plotting in the Certe organisational style",https://certe-medical-epidemiology.github.io/certeplot2,GNU General Public License v2.0,2021-10-30T13:02:51Z,2023-02-15T08:52:59Z
@@ -63,7 +66,7 @@ clean-ggplot-theme,https://github.com/aaronschiff/clean-ggplot-theme,My custom t
 clplot,https://github.com/olihawkins/clplot,A ggplot2 theme for the House of Commons Library.,,"BSD 3-Clause ""New"" or ""Revised"" License",2019-03-27T13:44:11Z,2020-03-19T16:20:51Z
 coffeegeeks,https://github.com/RMHogervorst/coffeegeeks,#rstatsforcoffeegeeks,,MIT License,2017-08-13T16:01:48Z,2017-09-16T15:00:37Z
 comotheme,https://github.com/como-ph/comotheme,CoMo Consortium Themes for R,,Other,2020-05-25T19:45:59Z,2020-06-19T13:32:04Z
-cowplot,https://github.com/wilkelab/cowplot,cowplot: Streamlined Plot Theme and Plot Annotations for ggplot2,https://wilkelab.org/cowplot/,,2014-10-05T16:34:22Z,2023-03-29T06:18:44Z
+cowplot,https://github.com/wilkelab/cowplot,cowplot: Streamlined Plot Theme and Plot Annotations for ggplot2,https://wilkelab.org/cowplot/,,2014-10-05T16:34:22Z,2023-07-21T21:49:01Z
 cowplot,https://github.com/cran/cowplot,:exclamation: This is a read-only mirror of the CRAN R package repository.  cowplot — Streamlined Plot Theme and Plot Annotations for 'ggplot2'. Homepage: https://wilkelab.org/cowplot/  Report bugs for this package: https://github.com/wilkelab/cowplot/issues,,,2015-06-03T18:43:46Z,2020-12-31T11:38:13Z
 cplthemes,https://github.com/californiapolicylab/cplthemes,California Policy Lab's ggplot2 theme,,,2021-07-09T20:56:54Z,2021-08-12T16:10:36Z
 crthemes,https://github.com/christyray/crthemes,A Standardized ggplot2 Theme for Visualizations,,Other,2021-12-11T04:28:44Z,2023-01-24T23:50:17Z
@@ -90,10 +93,11 @@ envreportutils,https://github.com/bcgov/envreportutils,An R package with ggplot2
 epinionDSB,https://github.com/jvieroe/epinionDSB,a DSB-styled ggplot2 visual identity for Epinion staff,,GNU General Public License v3.0,2021-09-24T08:52:42Z,2021-11-11T18:08:36Z
 ewenthemes,https://github.com/ewenme/ewenthemes,ggplot2 chart aesthetics and helpers,,Other,2019-05-27T20:03:15Z,2023-03-07T00:33:55Z
 fazhthemes,https://github.com/fazepher/fazhthemes,My personal {ggplot2} themes,https://fazepher.github.io/fazhthemes/,Other,2020-08-17T02:11:09Z,2020-08-17T17:17:04Z
+fedplot,https://github.com/sergiocorreia/fedplot,R package to create ggplot2 charts in the style used by the Fed's FSR,https://sergiocorreia.github.io/fedplot,Other,2023-05-17T05:13:32Z,2023-06-04T18:57:40Z
 fheatmap,https://github.com/sentisci/fheatmap,"R function to plot high quality, elegant heatmap using 'ggplot2' graphics .   Some of the important features of this package are, coloring of row/column side tree with   respect to the number of user defined cuts in the cluster, add annotations to both columns   and rows, option to input annotation palette for tree and column annotations and multiple    parameters to modify aesthetics (style, color, font) of texts in the plot. ",,,2015-05-06T15:40:08Z,2022-02-02T10:36:35Z
 fiegeVizr,https://github.com/quickcoffee/fiegeVizr,internal library for FIEGE ggplot2 theme,,,2020-07-29T13:04:45Z,2020-07-31T12:41:43Z
 fiero,https://github.com/jvieroe/fiero,customized ggplot2 themes,,,2021-10-30T14:10:53Z,2021-10-30T14:13:59Z
-firatheme,https://github.com/vankesteren/firatheme,a ggplot2 theme with fira font,,Other,2018-03-14T22:45:05Z,2023-04-05T22:05:32Z
+firatheme,https://github.com/vankesteren/firatheme,a ggplot2 theme with fira font,,Other,2018-03-14T22:45:05Z,2023-06-11T21:04:05Z
 fmeireles,https://github.com/meirelesff/fmeireles,My personal R package,,,2016-09-28T21:45:25Z,2017-02-17T12:04:06Z
 fontHind,https://github.com/bhaskarvk/fontHind,ggplot2 themes based on the Hind fonts,https://bhaskarvk.github.io/fontHind/,Other,2017-02-23T17:23:40Z,2023-01-28T06:13:57Z
 fontHind,https://github.com/cran/fontHind,:exclamation: This is a read-only mirror of the CRAN R package repository.  fontHind — Additional 'ggplot2' Themes Using 'Hind' Fonts. Homepage: https://github.com/bhaskarvk/fontHind  Report bugs for this package: https://github.com/bhaskarvk/fontHind/issues,,Other,2017-02-27T07:18:18Z,2020-07-09T01:02:22Z
@@ -107,15 +111,15 @@ ggOBI,https://github.com/markusntz/ggOBI,ggplot2 theme for OBI - final project f
 ggRetro,https://github.com/albert-ying/ggRetro,A ggplot2 theme with floating axes,,MIT License,2021-10-21T01:03:18Z,2021-11-12T07:04:59Z
 ggThemeAssist,https://github.com/cran/ggThemeAssist,:exclamation: This is a read-only mirror of the CRAN R package repository.  ggThemeAssist — Add-in to Customize 'ggplot2' Themes. Homepage: https://github.com/calligross/ggthemeassist  ,,,2016-03-09T14:22:40Z,2016-08-13T14:54:41Z
 ggThemeScanpy,https://github.com/GreshamLab/ggThemeScanpy,ggplot2 themes that match scanpy default outputs,,MIT License,2021-03-31T16:00:40Z,2021-05-02T21:10:35Z
-ggbeeswarm2,https://github.com/csdaw/ggbeeswarm2,Column scatter / beeswarm-style plots in ggplot2,,,2020-07-18T17:01:57Z,2022-08-09T00:04:37Z
+ggbeeswarm2,https://github.com/csdaw/ggbeeswarm2,Column scatter / beeswarm-style plots in ggplot2,,,2020-07-18T17:01:57Z,2023-04-22T12:56:15Z
 ggcertara,https://github.com/certara/ggcertara,A ggplot2 theme for Certara CSC-iDD,,,2019-02-05T19:40:49Z,2022-06-19T11:46:53Z
 ggclump,https://github.com/jimjam-slam/ggclump,An attempt to get d3-style physics simulation going in ggplot2.,,,2018-05-18T07:13:38Z,2018-05-18T07:23:59Z
-ggcolormeter,https://github.com/yjunechoe/ggcolormeter,A ggplot2 color/fill legend guide extension in the style of a dashboard meter,,Other,2022-06-13T08:46:02Z,2023-04-03T22:57:36Z
+ggcolormeter,https://github.com/yjunechoe/ggcolormeter,A ggplot2 color/fill legend guide extension in the style of a dashboard meter,,Other,2022-06-13T08:46:02Z,2023-06-16T17:42:09Z
 ggconf,https://github.com/caprice-j/ggconf,Concise appearance modification of ggplot2 ,,,2017-08-25T03:09:05Z,2020-02-12T10:07:30Z
 ggcorpthemer,https://github.com/mjfrigaard/ggcorpthemer,Creating a corporate theme for ggplot2,,,2022-02-07T17:49:49Z,2022-02-07T17:49:49Z
-ggdark,https://github.com/nsgrantham/ggdark,Dark mode for ggplot2 themes,,Other,2018-09-18T15:35:43Z,2023-03-29T12:32:24Z
+ggdark,https://github.com/nsgrantham/ggdark,Dark mode for ggplot2 themes,,Other,2018-09-18T15:35:43Z,2023-07-07T06:52:48Z
 ggdark,https://github.com/cran/ggdark,:exclamation: This is a read-only mirror of the CRAN R package repository.  ggdark — Dark Mode for 'ggplot2' Themes  ,,Other,2019-01-11T17:32:46Z,2020-07-09T01:04:21Z
-ggdc,https://github.com/datacamp/ggdc,Datacamp Themes for ggplot2.,,MIT License,2017-12-28T22:58:41Z,2023-03-18T02:15:06Z
+ggdc,https://github.com/datacamp/ggdc,Datacamp Themes for ggplot2.,,MIT License,2017-12-28T22:58:41Z,2023-05-31T01:53:59Z
 ggdecor,https://github.com/dmarcelinobr/ggdecor,Improve your data visualisation with ggplot2 in 1 minute,,,2019-04-03T10:18:39Z,2022-08-14T23:36:16Z
 ggdistribute,https://github.com/iamamutt/ggdistribute,ggplot2 extension for plotting distributions,,GNU General Public License v3.0,2018-05-09T04:47:08Z,2021-02-10T04:46:10Z
 ggduncan,https://github.com/duncan-clark/ggduncan,Personal ggplot2 theme,,,2019-10-09T20:46:24Z,2020-05-02T21:20:00Z
@@ -128,12 +132,13 @@ ggipp,https://github.com/benbel/ggipp,"  Package R pour ggplot2 qui permet de re
 ggiteam,https://github.com/city-of-baltimore/ggiteam,Office of Innovation's colors and themes for ggplot2 plots in R.,,,2018-03-18T01:12:20Z,2023-02-21T01:46:59Z
 ggkanlev,https://github.com/levikanwischer/ggkanlev,Personal themes for ggplot2,,,2020-12-30T00:43:17Z,2021-07-14T21:07:34Z
 gglaplot,https://github.com/Greater-London-Authority/gglaplot,Makes graphics in the GLA style using ggplot2,https://greater-london-authority.github.io/gglaplot/,,2019-01-14T12:28:38Z,2022-06-13T13:51:53Z
-gglgbtq,https://github.com/turtletopia/gglgbtq,Provides multiple palettes based on pride flags with tailored themes.,https://turtletopia.github.io/gglgbtq/,GNU General Public License v3.0,2022-08-06T11:02:28Z,2023-03-28T16:26:09Z
+gglgbtq,https://github.com/turtletopia/gglgbtq,Provides multiple palettes based on pride flags with tailored themes.,https://turtletopia.github.io/gglgbtq/,GNU General Public License v3.0,2022-08-06T11:02:28Z,2023-06-02T17:21:31Z
 ggmedsl,https://github.com/MEDSL/ggmedsl,R package for creating ggplot2 graphics using MEDSL style and colors,,Other,2019-02-26T18:18:39Z,2019-02-28T19:00:52Z
 ggmin,https://github.com/sjessa/ggmin,"Clean, minimalist theme for ggplot2 (+ a variant designed for Powerpoint)",,,2017-06-29T20:57:41Z,2018-04-10T09:33:40Z
 ggminthemes,https://github.com/ramorel/ggminthemes,A collection of {ggplot2} themes made for me by me--focused on clarity and minimalism,,,2020-04-29T15:39:27Z,2020-05-01T16:42:09Z
 ggmjs,https://github.com/datahub/ggmjs,A ggplot2 theme for the Milwaukee Journal Sentinel,,,2017-09-15T20:18:53Z,2022-07-17T01:35:12Z
 ggmnmlab,https://github.com/zachbrehm/ggmnmlab,R package for the McCall Lab ggplot2 color palette and theme.,https://github.com/zachbrehm/ggmnmlab,Other,2021-03-06T06:35:16Z,2021-03-23T18:24:31Z
+ggnba,https://github.com/ariespirgel/ggnba,"ggplot2 nba themes, scales, and geoms",,,2017-04-28T18:22:11Z,2017-04-28T18:24:18Z
 ggnuplot,https://github.com/hriebl/ggnuplot,Make your ggplots look like gnuplots,,Other,2020-02-08T00:01:24Z,2022-06-24T11:38:21Z
 ggoecd,https://github.com/jclopeztavera/ggoecd,ggplot2 extension with OECD-esque geoms and themes,,MIT License,2017-12-01T18:31:03Z,2018-11-17T01:52:51Z
 ggpkt,https://github.com/purplezippo/ggpkt,themes and graphs based on ggplot2,,,2018-11-15T02:03:28Z,2019-04-02T14:27:29Z
@@ -141,54 +146,56 @@ ggplot,https://github.com/Cord-Thomas/ggplot,A ggplot2 theme and color palettes 
 ggplot2,https://github.com/dracula/ggplot2,🧛🏻‍♂️ Dark theme for ggplot2 and R palette,https://draculatheme.com/ggplot2,MIT License,2021-11-28T00:24:17Z,2023-01-14T02:02:06Z
 ggplot2-Formatting-Introduction,https://github.com/JackGilligan/ggplot2-Formatting-Introduction,Formatting in ggplot2 using theme(),,,2018-11-06T18:01:50Z,2018-11-06T19:06:46Z
 ggplot2-ds-theme,https://github.com/dstoiko/ggplot2-ds-theme,"A minimalist theme for ggplot2 in R, using Consolas font",,,2016-04-19T16:33:31Z,2016-04-19T16:37:11Z
-ggplot2-reference,https://github.com/isabellabenabaye/ggplot2-reference,📊📄 ggplot2 theme elements reference sheet,https://isabella-b.com/blog/ggplot2-theme-elements-reference/,,2020-05-20T08:19:55Z,2022-11-30T12:24:04Z
+ggplot2-reference,https://github.com/isabellabenabaye/ggplot2-reference,📊📄 ggplot2 theme elements reference sheet,https://isabella-b.com/blog/ggplot2-theme-elements-reference/,,2020-05-20T08:19:55Z,2023-07-14T06:44:20Z
+ggplot2-theme-intro,https://github.com/yjunechoe/ggplot2-theme-intro,Introduction to ggplot2 theme(),https://yjunechoe.github.io/ggplot2-theme-intro/,,2023-07-20T15:27:03Z,2023-07-20T15:50:21Z
 ggplot2-theme-rgm,https://github.com/robmoss/ggplot2-theme-rgm,A plotting theme for ggplot2,,"BSD 2-Clause ""Simplified"" License",2015-03-11T01:53:16Z,2019-03-29T03:07:05Z
 ggplot2-themes,https://github.com/smc-ribes/ggplot2-themes,custom ggplot2 themes,,MIT License,2015-12-04T21:16:32Z,2015-12-04T21:16:32Z
 ggplot2_related_themes,https://github.com/Amz965/ggplot2_related_themes,Summary of ggplot2 related themes,,,2020-11-09T02:42:39Z,2020-12-13T09:14:01Z
 ggplot2_stuff,https://github.com/briandconnelly/ggplot2_stuff,"Themes, scripts, etc. for using ggplot2",,,2013-09-17T18:01:32Z,2014-04-23T15:15:48Z
+ggplot2_theme,https://github.com/skelly001/ggplot2_theme,Publication theme for ggplot2,,,2023-04-21T23:40:34Z,2023-04-21T23:40:35Z
 ggplot2_themes,https://github.com/chrisBow/ggplot2_themes,A selection of themes for ggplot2,,MIT License,2018-09-11T19:02:02Z,2021-06-10T07:28:27Z
 ggplot2bdc,https://github.com/briandconnelly/ggplot2bdc,Collection of themes and tools for modifying ggplot2 plots,,Other,2014-04-23T15:10:19Z,2022-04-14T23:19:09Z
 ggplotThemes,https://github.com/timcdlucas/ggplotThemes,My themes for use with ggplot2,,Do What The F*ck You Want To Public License,2015-07-21T14:05:09Z,2019-03-03T23:24:40Z
 ggplot_theme,https://github.com/brndngrhm/ggplot_theme,creating standard ggplot theme to use for my charts. Based on http://austinclemens.com/blog/2014/07/03/fivethirtyeight-com-style-graphs-in-ggplot2/,,,2015-12-23T19:01:07Z,2015-12-23T20:20:57Z
-ggplot_theme_Publication,https://github.com/koundy/ggplot_theme_Publication,This repo consists of three themes for the ggplot2 and new colour palettes. Enjoy the new themes!,,,2015-04-08T07:34:26Z,2023-02-23T11:01:13Z
+ggplot_theme_Publication,https://github.com/koundy/ggplot_theme_Publication,This repo consists of three themes for the ggplot2 and new colour palettes. Enjoy the new themes!,,,2015-04-08T07:34:26Z,2023-07-20T11:45:48Z
 ggplot_theme_publication,https://github.com/alan-feng/ggplot_theme_publication,Custom ggplot themes for research publications,,,2021-11-17T01:15:32Z,2023-01-31T19:17:53Z
 ggplot_themes,https://github.com/stomperusa/ggplot_themes,examples of themes available for ggplot2,,,2020-06-27T21:10:45Z,2020-06-28T18:04:29Z
 ggplot_themes,https://github.com/dchakro/ggplot_themes,An R function to generate themes for publication quality figures from ggplot2 in R,,Mozilla Public License 2.0,2020-08-25T04:56:48Z,2021-10-14T14:09:59Z
-ggpomological,https://github.com/gadenbuie/ggpomological,🍑 Pomological plot theme for ggplot2,http://garrickadenbuie.com/project/ggpomological/,Creative Commons Zero v1.0 Universal,2018-02-05T14:58:22Z,2023-04-01T15:02:55Z
+ggpomological,https://github.com/gadenbuie/ggpomological,🍑 Pomological plot theme for ggplot2,http://garrickadenbuie.com/project/ggpomological/,Creative Commons Zero v1.0 Universal,2018-02-05T14:58:22Z,2023-05-22T17:21:30Z
 ggptt,https://github.com/pttry/ggptt,A collection of ggplot2 themes and functions for use in PTT,,,2018-07-25T11:14:11Z,2023-04-08T19:21:21Z
 ggpubs,https://github.com/condwanaland/ggpubs,Publication ready themes for ggplot2,,,2017-02-28T00:25:27Z,2018-04-10T08:11:46Z
 ggschemes,https://github.com/kssrr/ggschemes,Some additional color schemes & themes for ggplot2.,,MIT License,2022-12-22T15:50:17Z,2022-12-22T15:57:33Z
-ggsci,https://github.com/nanxstats/ggsci,🦄 Scientific journal and sci-fi themed color palettes for ggplot2,https://nanx.me/ggsci/,GNU General Public License v3.0,2016-03-25T12:14:26Z,2023-04-09T14:01:51Z
+ggsci,https://github.com/nanxstats/ggsci,🦄 Scientific journal and sci-fi themed color palettes for ggplot2,https://nanx.me/ggsci/,GNU General Public License v3.0,2016-03-25T12:14:26Z,2023-07-21T02:14:42Z
 ggsci,https://github.com/cran/ggsci,":exclamation: This is a read-only mirror of the CRAN R package repository.  ggsci — Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'. Homepage: https://nanx.me/ggsci/, https://github.com/nanxstats/ggsci  Report bugs for this package: https://github.com/nanxstats/ggsci/issues",,,2016-04-04T06:41:52Z,2023-03-08T15:32:41Z
 ggshadow,https://github.com/marcmenem/ggshadow,"A collection of geoms for R's 'ggplot2' library.  geom_shadowpath(), geom_shadowline(),  geom_shadowstep() and geom_shadowpoint() functions draw a shadow below lines to make busy plots more aesthetically pleasing. geom_glowpath(), geom_glowline(), geom_glowstep() and geom_glowpoint() add a neon glow around lines to get a steampunk style.",,GNU General Public License v2.0,2020-04-16T21:16:20Z,2023-03-28T21:24:47Z
 ggshredR,https://github.com/hendersontrent/ggshredR,Builds theme and colour palette for ggplot2 based on 80s shred guitar aesthetics.,,MIT License,2020-04-15T23:18:12Z,2020-04-16T10:02:01Z
-ggsidekick,https://github.com/seananderson/ggsidekick,Helper function(s) for ggplot2. [Only theme_sleek() for now.],,,2017-02-22T16:44:16Z,2023-02-18T13:18:49Z
+ggsidekick,https://github.com/seananderson/ggsidekick,Helper function(s) for ggplot2. [Only theme_sleek() for now.],,,2017-02-22T16:44:16Z,2023-06-19T05:57:41Z
 ggspc,https://github.com/brownag/ggspc,"[experimental] Custom 'ggplot2' 'Stat', 'Geom', and 'theme' definitions for 'aqp' 'SoilProfileCollection' objects",,GNU General Public License v3.0,2023-02-02T01:14:50Z,2023-02-02T16:55:17Z
 ggsports,https://github.com/woobe/ggsports,"ggplot2 geoms, themes and scales for sports data visualisation.",,MIT License,2015-08-02T09:00:08Z,2015-08-02T13:31:50Z
 ggsportsfield,https://github.com/RobWHickman/ggsportsfield,ggplot2 annotations and themes for sports field markings,,MIT License,2018-09-20T09:38:50Z,2020-10-06T19:49:47Z
 ggsu,https://github.com/borstell/ggsu,ggplot2 theme following the visual identity of SU,,MIT License,2021-04-22T18:35:19Z,2021-04-22T22:03:03Z
 ggtailwind,https://github.com/willcanniford/ggtailwind,ggplot2 colour scheme package using the popular tailwind css,,MIT License,2019-11-10T21:20:25Z,2021-11-10T08:54:00Z
 ggtea,https://github.com/cran/ggtea,:exclamation: This is a read-only mirror of the CRAN R package repository.  ggtea — Palettes and Themes for 'ggplot2'  ,,,2021-11-10T00:54:13Z,2021-11-10T00:54:17Z
-ggtech,https://github.com/ricardo-bion/ggtech,"ggplot2 tech themes, scales, and geoms",https://twitter.com/ricardobion,,2015-04-02T19:00:39Z,2023-03-19T06:58:54Z
+ggtech,https://github.com/ricardo-bion/ggtech,"ggplot2 tech themes, scales, and geoms",https://twitter.com/ricardobion,,2015-04-02T19:00:39Z,2023-07-15T09:25:31Z
 ggtheme,https://github.com/jschoeley/ggtheme,Minimal Theme for ggplot2 with Additional Options,,,2015-03-14T23:31:30Z,2015-03-14T23:45:37Z
 ggtheme,https://github.com/sinarueeger/ggtheme,ggplot2 themes for presentation (poster + beamer),,,2019-06-06T08:41:04Z,2019-06-06T13:45:26Z
 ggtheme.ois,https://github.com/brilstl/ggtheme.ois,helper function to add ois style to ggplot2,,Other,2021-07-16T12:58:56Z,2021-11-16T12:17:36Z
-ggthemeassist,https://github.com/calligross/ggthemeassist,A RStudio addin for ggplot2 theme tweaking ,,,2016-02-20T09:57:16Z,2023-04-05T15:00:19Z
+ggthemeassist,https://github.com/calligross/ggthemeassist,A RStudio addin for ggplot2 theme tweaking ,,,2016-02-20T09:57:16Z,2023-07-12T19:14:47Z
 ggthemepark,https://github.com/NickGlaettli/ggthemepark,Additional themes for ggplot2,,,2022-01-16T16:49:46Z,2022-01-25T22:09:54Z
-ggthemes,https://github.com/jrnold/ggthemes,"Additional themes, scales, and geoms for ggplot2",https://jrnold.github.io/ggthemes,,2012-09-07T00:00:07Z,2023-04-09T20:19:39Z
+ggthemes,https://github.com/jrnold/ggthemes,"Additional themes, scales, and geoms for ggplot2",https://jrnold.github.io/ggthemes,,2012-09-07T00:00:07Z,2023-07-13T05:43:02Z
 ggthemes,https://github.com/cran/ggthemes,":exclamation: This is a read-only mirror of the CRAN R package repository.  ggthemes — Extra Themes, Scales and Geoms for 'ggplot2'. Homepage: https://github.com/jrnold/ggthemes  Report bugs for this package: https://github.com/jrnold/ggthemes",,,2014-03-13T04:52:17Z,2021-01-29T10:41:20Z
-ggthemr,https://github.com/Mikata-Project/ggthemr,Themes for ggplot2.,,,2013-10-06T18:50:41Z,2023-04-03T04:13:57Z
+ggthemr,https://github.com/Mikata-Project/ggthemr,Themes for ggplot2.,,,2013-10-06T18:50:41Z,2023-07-16T09:42:10Z
 ggtufte,https://github.com/jrnold/ggtufte,Geoms and themes for ggplot2 inspired by Tufte,,Other,2018-06-04T17:55:57Z,2019-11-16T02:35:43Z
 gguniversity,https://github.com/dougaltoms/gguniversity,ggplot2 themes based on UK university branding,,,2022-10-01T16:40:06Z,2022-10-07T16:53:43Z
 ggvisuals,https://github.com/mtrauernicht/ggvisuals,Beautiful and minimalistic templates for ggplot2 themes,,,2021-10-20T14:49:36Z,2021-10-21T07:34:24Z
 ggwb,https://github.com/EBukin/ggwb,ggplot2 theme with the WB colours,,Other,2019-01-31T10:14:19Z,2019-01-31T12:26:37Z
-gouvdown,https://github.com/spyrales/gouvdown,French government design system for R Markdown,https://spyrales.github.io/gouvdown/,European Union Public License 1.2,2020-04-23T15:03:35Z,2023-01-18T13:51:40Z
-govstyle,https://github.com/ukgovdatascience/govstyle,Theme for use with ggplot2 for creating government style visualisations,http://ukgovdatascience.github.io/govstyle/index.html,GNU General Public License v3.0,2016-05-31T17:05:33Z,2023-01-28T01:47:29Z
-grattantheme,https://github.com/grattan/grattantheme,Create ggplot2 charts in the Grattan Institute style,https://grattan.github.io/grattantheme/,Other,2018-10-24T22:12:41Z,2023-01-04T21:45:23Z
-hbwthemes,https://github.com/hwarden162/hbwthemes,Personal package for ggplot2 themes,,Other,2022-06-17T20:21:55Z,2022-06-17T20:31:22Z
+gouvdown,https://github.com/spyrales/gouvdown,French government design system for R Markdown,https://spyrales.github.io/gouvdown/,European Union Public License 1.2,2020-04-23T15:03:35Z,2023-04-13T21:18:18Z
+govstyle,https://github.com/ukgovdatascience/govstyle,Theme for use with ggplot2 for creating government style visualisations,http://ukgovdatascience.github.io/govstyle/index.html,GNU General Public License v3.0,2016-05-31T17:05:33Z,2023-04-20T15:35:23Z
+grattantheme,https://github.com/grattan/grattantheme,Create ggplot2 charts in the Grattan Institute style,https://grattan.github.io/grattantheme/,Other,2018-10-24T22:12:41Z,2023-06-22T00:21:40Z
+hdatools,https://github.com/hdadvisors/hdatools,Tools and ggplot2 themes for HDAdvisors / HousingForward Virginia projects,https://hdadvisors.github.io/hdatools/,,2022-11-02T16:47:35Z,2023-04-14T18:17:47Z
 hjplottools,https://github.com/alphabetac/hjplottools,A theme for use with ggplot2,,Other,2020-07-25T13:30:06Z,2021-10-06T13:15:59Z
-hrbragg,https://github.com/hrbrmstr/hrbragg,"Typography-centric Themes, Theme Components, and Utilities for 'ggplot2' and 'ragg'.",,Other,2021-02-16T06:09:01Z,2022-09-29T13:54:47Z
-hrbrthemes,https://github.com/hrbrmstr/hrbrthemes,":lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components",https://cinc.rud.is/web/packages/hrbrthemes/,Other,2017-02-11T17:03:01Z,2023-04-09T06:33:28Z
+hrbragg,https://github.com/hrbrmstr/hrbragg,"Typography-centric Themes, Theme Components, and Utilities for 'ggplot2' and 'ragg'.",,Other,2021-02-16T06:09:01Z,2023-06-05T22:06:26Z
+hrbrthemes,https://github.com/hrbrmstr/hrbrthemes,":lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components",https://cinc.rud.is/web/packages/hrbrthemes/,Other,2017-02-11T17:03:01Z,2023-07-23T15:58:08Z
 hrbrthemes,https://github.com/cran/hrbrthemes,":exclamation: This is a read-only mirror of the CRAN R package repository.  hrbrthemes — Additional Themes, Theme Components and Utilities for 'ggplot2'. Homepage: http://github.com/hrbrmstr/hrbrthemes  Report bugs for this package: https://github.com/hrbrmstr/hrbrthemes/issues",,Other,2017-02-26T05:06:09Z,2020-03-07T09:15:31Z
 ib,https://github.com/isabellabenabaye/ib,"📦 Personal R package, currently containing functions for ggplot2 and my personal ggplot2 theme",,Other,2020-08-09T09:07:55Z,2023-02-14T10:02:14Z
 imprint,https://github.com/hrbrmstr/imprint,Create Customized 'ggplot2' and 'R Markdown' Themes for Your Organization,,Other,2018-05-25T00:11:45Z,2022-03-31T17:59:38Z
@@ -198,79 +205,86 @@ jcolors,https://github.com/cran/jcolors,":exclamation: This is a read-only 
 jmcplot,https://github.com/jaredmusil/jmcplot,Helps create and export ggplot2 charts in the style used by JMC,,,2022-03-30T03:29:35Z,2022-03-30T03:37:49Z
 jptheme,https://github.com/MattCowgill/jptheme,ggplot2 theme for Apricitas blog,,Other,2021-12-08T02:27:54Z,2023-03-18T15:28:42Z
 jrh.gg.theme,https://github.com/jrhawley/jrh.gg.theme,ggplot2 theming functions,,GNU General Public License v3.0,2017-10-24T20:38:31Z,2017-10-24T20:38:31Z
-jtheme,https://github.com/jeremieboudreault/jtheme,R package that enhances ggplot2 theme and functions,,,2022-04-21T20:17:18Z,2023-01-18T16:19:37Z
+jtheme,https://github.com/jeremieboudreault/jtheme,[Archived] R package that enhances ggplot2 theme and functions,,,2022-04-21T20:17:18Z,2023-05-03T12:07:45Z
 kaplot,https://github.com/mkapur/kaplot,mostly custom ggplot2 themes,,,2020-04-30T21:55:25Z,2020-09-15T21:45:58Z
 kaththemes,https://github.com/katherine-taylor/kaththemes,Custom ggplot2 themes for Katherine Taylor,,Other,2021-08-23T02:22:57Z,2021-08-23T02:29:26Z
 ktheme,https://github.com/KTH-Library/ktheme,R package with styling assets and a ggplot2 theme and fonts to conform with the graphical profile for KTH,,GNU Affero General Public License v3.0,2020-01-08T15:23:05Z,2022-10-26T08:55:47Z
 kubrand,https://github.com/bvancilku/kubrand,KU Branding for ggplot2,https://bvancilku.github.io/kubrand/,GNU General Public License v3.0,2021-03-12T19:53:52Z,2022-07-20T22:36:21Z
 lato,https://github.com/briandconnelly/lato,Minimal and flexible 'ggplot2' themes using 'Lato' Typeface,,Other,2017-11-18T00:31:14Z,2023-01-19T21:05:24Z
 lazerhawk,https://github.com/m-clark/lazerhawk,An R package of miscellaneous functions.,,Other,2015-11-16T00:37:06Z,2022-01-06T09:41:42Z
+luigg,https://github.com/christopherkenny/luigg,Mario Themed 'ggplot2' Extensions,http://christophertkenny.com/luigg/,Other,2023-04-12T00:44:38Z,2023-04-25T20:20:50Z
 makeover_monday,https://github.com/mrafa3/makeover_monday,Repo for Makeover Monday exercises,,,2020-09-21T11:32:54Z,2021-01-27T20:51:58Z
-mdthemes,https://github.com/thomas-neitmann/mdthemes,Markdown Themes for 'ggplot2',,Other,2020-04-03T08:27:50Z,2023-02-24T22:07:15Z
+mdthemes,https://github.com/thomas-neitmann/mdthemes,Markdown Themes for 'ggplot2',,Other,2020-04-03T08:27:50Z,2023-04-28T16:25:37Z
 mdthemes,https://github.com/cran/mdthemes,:exclamation: This is a read-only mirror of the CRAN R package repository.  mdthemes — Markdown Themes for 'ggplot2'  ,,Other,2020-07-02T16:28:53Z,2020-07-02T16:29:02Z
-metallicaRt,https://github.com/johnmackintosh/metallicaRt,R package of colour palettes based on Metallica studio album covers. ,https://johnmackintosh.com/metallicaRt/,Other,2020-09-22T20:06:05Z,2022-04-27T22:11:12Z
+metallicaRt,https://github.com/johnmackintosh/metallicaRt,R package of colour palettes based on Metallica studio album covers. ,https://johnmackintosh.com/metallicaRt/,Other,2020-09-22T20:06:05Z,2023-06-23T17:28:44Z
 modthemes,https://github.com/marcboschmatas/modthemes,"A series of resources for ggplot2, including modernist-inspired themes, colour palettes and other styles. Very much Work in Progress",,GNU General Public License v3.0,2022-11-14T15:56:56Z,2022-11-18T18:15:16Z
 module-9-visualizing-R,https://github.com/daltonwesley/module-9-visualizing-R,"# First you need to install these packages install.packages(""lattice"") install.packages(""ggplot2"") library(lattice) library(ggplot2)  # Use the https://vincentarelbundock.github.io/Rdatasets/datasets.html link to get a dataset, below is the Cardiac Data for Domestic dogs which is the one I used # https://vincentarelbundock.github.io/Rdatasets/csv/boot/dogs.csv data_from_file <- read.table(file.choose(),header=T,sep="","")[,2:3]  # Plot the data via the built-in boxplot() function boxplot((lvp*100)~mvo,data_from_file, main=""Cardiac Data for Domestic Dogs"", xlab=""mvo"", ylab=""Percent lvp"", las=1, col=rainbow(6))  # Use the lattice package's bwplot() function to plot the data bwplot((lvp*100)~mvo, data=data_from_file, horizontal=FALSE, main=""lvp Rate"", xlab=""mvo"", ylab=""Percent lvp"", las=1, par.settings = list(box.rectangle = list(fill=rainbow(6))))  # Plotting data through ggplot2  # Here I needed to take the Time data and get it converted to factors data_for_gg <- data_from_file data_for_gg$mvo <- as.factor(data_for_gg$mvo)  # Take the data and plot it as a geom_boxplot() ggplot(data_for_gg, aes(x=mvo, y=lvp*100, fill=mvo)) + geom_boxplot() + labs(title=""Cardiac Data for Domestic Dogs"", x=""mvo"", y=""Percent lvp"") + theme_classic()",,,2021-03-15T03:25:19Z,2021-03-15T03:25:51Z
 mondriaRt,https://github.com/borstell/mondriaRt,Make Mondria(a)n-style artwork with Python and R/ggplot2,,,2020-04-26T19:49:05Z,2020-10-04T12:02:23Z
 mpinltheme,https://github.com/joerodd/mpinltheme,ggplot2 Theme Consistent with MPI for Psycholinguistics Corporate Identity,,,2019-03-07T13:37:43Z,2019-04-05T12:16:12Z
-mplstyle,https://github.com/smortezah/mplstyle,Matplotlib style sheets based on ggplot2 (R),,GNU General Public License v3.0,2021-04-30T14:18:43Z,2022-06-03T15:52:37Z
+mplstyle,https://github.com/smortezah/mplstyle,Matplotlib style sheets based on ggplot2 (in R),,GNU General Public License v3.0,2021-04-30T14:18:43Z,2023-04-16T22:51:12Z
 msthemes,https://github.com/mschnetzer/msthemes,Custom ggplot2 theme,,,2018-06-28T12:29:36Z,2022-12-08T12:47:39Z
 mthemer,https://github.com/sjewo/mthemer,A ggplot2 theme to match the mtheme latex beamer theme,,,2017-11-17T15:04:09Z,2020-06-05T13:33:10Z
 my-ggthemes,https://github.com/Elizemiku/my-ggthemes,A Rmarkdown document about themes of ggplot2,,,2017-03-23T16:25:45Z,2018-08-17T14:26:19Z
 my_ggthemes,https://github.com/dhammarstrom/my_ggthemes,Themes for ggplot2,,,2015-05-05T11:16:37Z,2015-05-05T11:55:18Z
 mythesisthemes,https://github.com/Rumenick/mythesisthemes,ggplot2 themes used in my Phd thesis,,GNU General Public License v3.0,2018-09-15T16:26:58Z,2018-09-15T19:59:34Z
 naglr,https://github.com/tnagler/naglr,Custom ggplot2 theme and colors,,GNU General Public License v3.0,2017-05-12T15:16:31Z,2022-05-07T02:29:50Z
+netflix-data-analysis,https://github.com/japnitahuja/netflix-data-analysis,Analysis of Movies and TV shows on Netflix in R,,MIT License,2023-03-31T23:14:03Z,2023-04-19T14:19:18Z
+netflix-data-visualisation,https://github.com/Ishwin9/netflix-data-visualisation,"Developed R Programming scripts for data analysis and visualization, with notable libraries including dplyr and tidy verse for data manipulation and ggplot2 for constructing graphs.",,MIT License,2023-04-26T00:46:36Z,2023-04-26T00:55:26Z
 nmthemes,https://github.com/maehler/nmthemes,Some additional themes for ggplot2,,MIT License,2017-11-08T15:47:24Z,2020-03-13T14:19:05Z
-noradplot,https://github.com/noradno/noradplot,Provides Norads colour palette and plot style for creating ggplot2 graphics.,,Other,2022-10-10T21:04:17Z,2023-02-28T11:08:43Z
+noradplot,https://github.com/noradno/noradplot,Provides Norads colour palette and plot style for creating ggplot2 graphics.,,Other,2022-10-10T21:04:17Z,2023-06-20T16:20:04Z
 nrsplot,https://github.com/DataScienceScotland/nrsplot,R package that helps create ggplot2 charts in the style used by National Records of Scotland,https://datasciencescotland.github.io/nrsplot/,,2019-03-12T09:28:22Z,2021-03-05T10:43:37Z
-omni,https://github.com/rfortherestofus/omni,"RMarkdown template, ggplot2 theme, and table function for OMNI Institute",https://rfortherestofus.github.io/omni/,Other,2020-03-07T01:35:34Z,2022-09-30T03:33:08Z
+oiplot,https://github.com/OpportunityInsights/oiplot,R package that helps create and export ggplot2 charts in the style used by the Opportunity Insights team.,,MIT License,2023-07-13T19:33:38Z,2023-07-13T19:54:14Z
+omni,https://github.com/rfortherestofus/omni,"RMarkdown template, ggplot2 theme, and table function for OMNI Institute",https://rfortherestofus.github.io/omni/,Other,2020-03-07T01:35:34Z,2023-07-05T17:14:29Z
 onroerenderfgoedtheme,https://github.com/OnroerendErfgoed/onroerenderfgoedtheme,ggplot2 theme ,,,2016-04-04T14:47:06Z,2016-11-30T15:10:06Z
 ouRstyle,https://github.com/PeterGrahamJersey/ouRstyle,Your colours and ggplot2 theme in R.,,MIT License,2019-06-08T09:53:18Z,2019-07-07T11:10:27Z
 p3themes,https://github.com/p3lab/p3themes,Using P3 themes for ggplot2 objects ,https://p3lab.github.io/p3themes/,Other,2021-03-31T19:07:03Z,2021-05-24T18:05:01Z
 peopleanalytics,https://github.com/eknud/peopleanalytics,A package with some basic HR functions and a Namely ggplot2 theme,,,2017-03-05T19:48:07Z,2019-02-12T18:36:52Z
-pilot,https://github.com/olihawkins/pilot,A minimal ggplot2 theme with an accessible discrete color palette.,,"BSD 3-Clause ""New"" or ""Revised"" License",2019-04-06T13:14:25Z,2023-04-01T14:19:25Z
+pilot,https://github.com/olihawkins/pilot,A minimal ggplot2 theme with an accessible discrete color palette.,,"BSD 3-Clause ""New"" or ""Revised"" License",2019-04-06T13:14:25Z,2023-05-30T10:14:37Z
 plotthemeR,https://github.com/quantum-dan/plotthemeR,Just storing my default plot theme setup for ggplot2.,,,2022-02-28T17:35:18Z,2022-02-28T17:35:48Z
 plotutils,https://github.com/L-Groeninger/plotutils,Setting a custom ggplot2 theme,,Other,2021-10-04T13:35:51Z,2021-10-04T15:41:20Z
+plummy,https://github.com/royfrancis/plummy,ggplot2 custom themes,http://royfrancis.github.io/plummy/,GNU General Public License v3.0,2023-05-05T16:05:02Z,2023-05-05T16:15:21Z
 posner_catalyst_presentation,https://github.com/mrafa3/posner_catalyst_presentation,Code for visualizations for the Posner Development Catalyst presentation and blog (February 2019),https://posnercenter.org/catalyst_entry/global-forecasting-a-tool-for-a-systems-thinking-approach-to-development/,,2020-09-15T15:38:29Z,2021-01-27T20:56:31Z
-quartomonothemer,https://github.com/kazuyanagimoto/quartomonothemer,Makes a Monotone Theme for Quarto Revealjs and ggplot2.,http://kazuyanagimoto.com/quartomonothemer/,Other,2023-02-06T23:04:48Z,2023-03-05T15:10:59Z
-randplot,https://github.com/RANDCorporation/randplot,A ggplot2 theme and color palettes for making graphics in the style that the RAND Communications Design team uses.,,Other,2021-09-02T16:43:08Z,2023-02-21T15:53:47Z
+quartomonothemer,https://github.com/kazuyanagimoto/quartomonothemer,"Makes a Monotone Theme for Quarto Revealjs, {ggplot2}, and {gt}.",http://kazuyanagimoto.com/quartomonothemer/,Other,2023-02-06T23:04:48Z,2023-05-25T21:27:01Z
+randplot,https://github.com/RANDCorporation/randplot,A ggplot2 theme and color palettes for making graphics in the style that the RAND Communications Design team uses.,,Other,2021-09-02T16:43:08Z,2023-04-27T15:56:18Z
 ratlas,https://github.com/atlas-aai/ratlas,Custom graphics and report generation for @atlas-aai,https://ratlas.netlify.app,,2018-09-26T16:14:04Z,2023-03-11T12:21:00Z
 rccthemes,https://github.com/cancercentrum/rccthemes,"RCC themes, scales and geoms for ggplot2",https://cancercentrum.github.io/rccthemes/,,2022-12-20T08:44:34Z,2022-12-20T09:01:26Z
-rcookbook,https://github.com/bbc/rcookbook,Reference manual for creating BBC-style graphics using the BBC's bbplot package built on top of R's ggplot2 library,,,2019-01-16T08:47:28Z,2023-03-29T21:17:38Z
+rcookbook,https://github.com/bbc/rcookbook,Reference manual for creating BBC-style graphics using the BBC's bbplot package built on top of R's ggplot2 library,,,2019-01-16T08:47:28Z,2023-06-21T02:40:43Z
 relper,https://github.com/vbfelix/relper,R Package: Miscellaneous functions to assist in data cleaning and visualization,https://vbfelix.github.io/relper/,Other,2020-05-09T22:04:20Z,2023-01-16T14:22:46Z
 retrowave_theme,https://github.com/jotunnch/retrowave_theme,"I want a dark theme for my ggplot2, and retrowave is all the rage these days",,,2019-08-02T19:08:30Z,2019-08-07T18:22:41Z
 rkicolors,https://github.com/lekroll/rkicolors,This R Package applies a RKI-like theme to a ggplot2 plot and also includes different color/fill palettes based on the RKI Corporate Design.,https://lekroll.github.io/rkicolors/,MIT License,2018-08-28T09:40:43Z,2018-08-30T08:44:16Z
-rltheme,https://github.com/mskyttner/rltheme,R package with styling assets and a ggplot2 theme and fonts to conform with the graphical profile for Redpill-Linpro,https://mskyttner.github.io/rltheme,GNU Affero General Public License v3.0,2020-01-28T09:22:02Z,2020-09-15T17:28:06Z
+rltheme,https://github.com/mskyttner/rltheme,R package with styling assets and a ggplot2 theme and fonts to conform with the graphical profile for Redpill-Linpro,https://mskyttner.github.io/rltheme,GNU Affero General Public License v3.0,2020-01-28T09:22:02Z,2023-05-30T16:28:09Z
 rnoaa,https://github.com/Cesar-Urteaga/rnoaa,"An R package to get, clean, and visualize earthquake data from the NOAA.",,GNU General Public License v3.0,2017-08-11T23:33:04Z,2017-09-16T17:33:07Z
 rockthemes,https://github.com/johnmackintosh/rockthemes,R colour palettes based on classic rock album covers. ,https://johnmackintosh.github.io/rockthemes/,GNU General Public License v3.0,2020-10-07T22:59:23Z,2022-12-08T02:37:45Z
 rphl,https://github.com/CityOfPhiladelphia/rphl,"R package with functions for common use in City of Philadelphia projects, including color palettes and graph themes compatible with ggplot2..",,MIT License,2019-10-11T14:23:54Z,2021-07-09T16:46:27Z
 s4ggthemes,https://github.com/stats4good/s4ggthemes,ggplot2 and highcharter themes for the S4G group,,GNU General Public License v3.0,2018-07-17T18:07:02Z,2018-07-17T18:39:03Z
 satrday-tw-ggtheme-intro,https://github.com/shihjyun/satrday-tw-ggtheme-intro,2020 10/16 SATRDAY TAIWAN : Create Your Own Plot Theme with ggplot2,,,2020-10-17T01:43:52Z,2020-10-17T01:49:11Z
-sccthemes,https://github.com/thomaszwagerman/sccthemes,R package that helps create and export ggplot2 graphics in the style used by the Suffolk County Council. Inspired by {bbplot},https://scc-planning.github.io/scc-cookbook/,Other,2022-09-28T12:56:57Z,2023-01-19T10:58:41Z
+sccthemes,https://github.com/SCC-Planning/sccthemes,R package that helps create and export ggplot2 graphics in the style used by the Suffolk County Council. Inspired by {bbplot},https://scc-planning.github.io/scc-cookbook/,Other,2022-09-28T12:56:57Z,2023-06-08T08:33:12Z
+schemeR,https://github.com/schuyler-smith/schemeR,my ggplot2 theme,,,2023-04-11T15:23:49Z,2023-04-11T16:27:32Z
 sciplots,https://github.com/garen-anderson/sciplots,Themes for ggplot2,,Other,2021-11-16T18:55:48Z,2021-11-16T20:08:04Z
 severance,https://github.com/ivelasq/severance,The severance package contains color palettes inspired by the show Severance,,Other,2022-09-09T04:56:04Z,2023-02-07T15:57:56Z
 sfthemes,https://github.com/amirmasoudabdol/sfthemes,"An accessible set of themes and color palettes optimized for light/dark appearances, and different screen sizes",https://sfthemes.amirmasoudabdol.name,Other,2020-08-17T15:05:47Z,2023-03-28T10:35:16Z
-sgplot,https://github.com/DataScienceScotland/sgplot,Standard Graphic Styles for use in Scottish Government,https://datasciencescotland.github.io/sgplot/,Other,2023-01-19T15:51:06Z,2023-04-06T13:49:49Z
-sgthemes,https://github.com/statgarten/sgthemes,Additional Statgarten style themes for ggplot2,,,2023-01-02T06:35:40Z,2023-01-03T08:00:23Z
+sgplot,https://github.com/DataScienceScotland/sgplot,Standard Graphic Styles for use in Scottish Government,https://datasciencescotland.github.io/sgplot/,Other,2023-01-19T15:51:06Z,2023-06-12T10:30:25Z
+sgthemes,https://github.com/statgarten/sgthemes,Additional Statgarten style themes for ggplot2,,,2023-01-02T06:35:40Z,2023-06-08T00:50:10Z
 shackettMisc,https://github.com/shackett/shackettMisc,Assorted functions for plotting (ggplot2 themes) and data     manipulation,,,2016-09-09T16:05:25Z,2016-09-09T16:07:37Z
 ssvTracks,https://github.com/jrboyd/ssvTracks,generate nice looking track style plots using seqsetvis (data.table and ggplot2),,,2022-07-12T19:09:05Z,2023-03-14T13:45:44Z
-statR,https://github.com/statistikZH/statR,ZH-color-scheme & theme_stat template for ggplot2.,https://statistikzh.github.io/statR/,GNU General Public License v3.0,2017-11-09T09:39:53Z,2023-02-14T07:16:36Z
+statR,https://github.com/statistikZH/statR,ZH-color-scheme & theme_stat template for ggplot2.,https://statistikzh.github.io/statR/,GNU General Public License v3.0,2017-11-09T09:39:53Z,2023-05-27T08:50:17Z
 statThemes,https://github.com/STATWORX/statThemes,Provides Themes For ggplot2 Graphics,https://statworx.github.io/statThemes/,Other,2022-05-10T21:12:12Z,2022-06-22T10:01:05Z
-stevethemes,https://github.com/svmiller/stevethemes,Steve's {ggplot2} themes and related theme elements,http://svmiller.com/stevethemes,Other,2023-01-22T14:52:33Z,2023-01-27T14:16:07Z
+stevethemes,https://github.com/svmiller/stevethemes,Steve's {ggplot2} themes and related theme elements,http://svmiller.com/stevethemes,Other,2023-01-22T14:52:33Z,2023-04-30T21:39:47Z
 stevethemes,https://github.com/cran/stevethemes,:exclamation: This is a read-only mirror of the CRAN R package repository.  stevethemes — Steve's 'ggplot2' Themes and Related Theme Elements. Homepage: http://svmiller.com/stevethemes/  Report bugs for this package: https://github.com/svmiller/stevethemes/issues,,Other,2023-02-01T03:38:40Z,2023-02-01T03:38:46Z
 syknappticThemes,https://github.com/knapply/syknappticThemes,Personal ggplot2 themes,,GNU General Public License v3.0,2018-01-28T19:47:44Z,2018-01-28T20:35:05Z
 tadaathemes,https://github.com/tadaadata/tadaathemes,Yet another ggplot2 theme package,https://tadaadata.github.io/tadaathemes,MIT License,2020-05-08T00:02:44Z,2020-11-09T16:52:35Z
-taylor,https://github.com/wjakethompson/taylor,"A comprehensive resource for data on Taylor Swift songs, and ggplot2 helper functions",https://taylor.wjakethompson.com,Other,2021-06-25T19:12:45Z,2023-03-17T20:28:45Z
+taylor,https://github.com/wjakethompson/taylor,"A comprehensive resource for data on Taylor Swift songs, and ggplot2 helper functions",https://taylor.wjakethompson.com,Other,2021-06-25T19:12:45Z,2023-07-08T13:07:18Z
+taylorswiftthemes,https://github.com/mfgeary/taylorswiftthemes,"Themes, scales, and geoms for `ggplot2` (Taylor's Version)",,Other,2023-04-17T21:42:03Z,2023-05-18T03:26:44Z
 tgamtheme,https://github.com/globeandmail/tgamtheme,The Globe and Mail's graphics theme for ggplot2,https://globeandmail.github.io/tgamtheme,Other,2021-01-20T17:43:12Z,2021-02-18T21:42:14Z
 tgamtheme,https://github.com/cran/tgamtheme,":exclamation: This is a read-only mirror of the CRAN R package repository.  tgamtheme — Globe and Mail Graphics Theme for 'ggplot2'. Homepage: https://github.com/globeandmail/tgamtheme, https://globeandmail.github.io/tgamtheme/  Report bugs for this package: https://github.com/globeandmail/tgamtheme/issues",,Other,2021-02-05T11:32:24Z,2021-02-05T11:32:31Z
-thematic,https://github.com/rstudio/thematic,"Theme ggplot2, lattice, and base graphics based on a few simple settings.",https://rstudio.github.io/thematic/,Other,2020-03-06T23:01:11Z,2023-03-18T05:31:34Z
+thematic,https://github.com/rstudio/thematic,"Theme ggplot2, lattice, and base graphics based on a few simple settings.",https://rstudio.github.io/thematic/,Other,2020-03-06T23:01:11Z,2023-04-13T16:43:31Z
 thematic,https://github.com/cran/thematic,":exclamation: This is a read-only mirror of the CRAN R package repository.  thematic — Unified and Automatic 'Theming' of 'ggplot2', 'lattice', and 'base' R Graphics. Homepage: https://rstudio.github.io/thematic/, https://github.com/rstudio/thematic#readme  ",,Other,2021-01-29T18:03:36Z,2021-10-14T18:50:51Z
 themeBayer,https://github.com/Connor-Bayer/themeBayer,An extension compatible with ggplot that adds theme colors for easy usage in R,,Other,2022-11-17T18:33:54Z,2023-03-30T05:46:30Z
 themeODA,https://github.com/cu-boulder/themeODA,A ggplot2 theme with CU Boulder branding,,,2020-11-02T18:39:48Z,2020-11-02T20:07:50Z
 themeTom,https://github.com/thmcmahon/themeTom,Tom's default ggplot2 theme,,,2017-07-18T01:13:54Z,2017-07-18T01:14:14Z
 theme_bray,https://github.com/fr-pscz/theme_bray,R package implementing a ggplot2 theme matching my LaTeX theme.,,Other,2021-10-18T16:38:05Z,2021-10-19T18:07:38Z
 theme_ebt,https://github.com/BurkyVIE/theme_ebt,A ggplot2 theme ,,,2019-04-19T06:06:05Z,2021-03-03T18:16:50Z
-theme_fivethirtyeight,https://github.com/alex23lemm/theme_fivethirtyeight,ggplot2 theme that mimics themes of fivethirtyeight.com plots,,,2014-07-29T08:47:00Z,2022-10-05T12:31:09Z
+theme_fivethirtyeight,https://github.com/alex23lemm/theme_fivethirtyeight,ggplot2 theme that mimics themes of fivethirtyeight.com plots,,,2014-07-29T08:47:00Z,2023-05-30T21:55:43Z
 theme_lessismore,https://github.com/allan-ripley/theme_lessismore,A minimalist ggPlot2 theme for publication ready plots.,,,2019-03-29T14:12:24Z,2019-03-29T19:38:43Z
 theme_mapc,https://github.com/aseemdeodhar/theme_mapc,Developing a ggplot2 theme consistent with MAPC's design language,,GNU General Public License v3.0,2020-12-06T14:52:21Z,2020-12-17T16:04:25Z
 theme_ubicomp,https://github.com/nielsvanberkel/theme_ubicomp,Theme for ggplot2 and helper functions,,MIT License,2017-02-03T08:59:40Z,2019-09-23T23:03:10Z
@@ -279,22 +293,25 @@ themedubois,https://github.com/brevinf1/themedubois,Simple ggplot2 Theme to Repl
 themejj,https://github.com/JanaJarecki/themejj,theme for ggplot2,,,2016-12-21T09:26:57Z,2020-09-02T09:29:56Z
 themepubr,https://github.com/Carolusian/themepubr,A ggplot2 theme,,,2017-10-24T15:11:39Z,2017-10-24T15:12:03Z
 themeresolved,https://github.com/beresolved/themeresolved,R package for a ggplot2 resolved theme in line with the company house style,,,2019-10-16T08:14:27Z,2022-10-11T10:18:49Z
-themes360info,https://github.com/360-info/themes360info,Helpers for creating graphics with ggplot2 that align with 360info style guides,,Creative Commons Attribution 4.0 International,2021-11-22T04:25:15Z,2022-02-24T00:12:55Z
+themes360info,https://github.com/360-info/themes360info,Helpers for creating graphics with ggplot2 that align with 360info style guides,,Creative Commons Attribution 4.0 International,2021-11-22T04:25:15Z,2023-05-29T19:57:10Z
 tidy_tuesday,https://github.com/mrafa3/tidy_tuesday,Repo for Tidy Tuesday exercises,,,2020-09-21T19:25:02Z,2022-12-17T04:23:32Z
 tpltheme,https://github.com/connorrothschild/tpltheme,📊 Custom theme in the style of the Texas Policy Lab,,,2019-07-15T16:56:17Z,2022-08-30T07:07:06Z
-tvthemes,https://github.com/Ryo-N7/tvthemes,ggplot2 themes and palettes based on your favorite TV shows,https://ryo-n7.github.io/tvthemes/,GNU General Public License v3.0,2019-03-31T04:54:54Z,2023-01-17T19:14:06Z
+tvthemes,https://github.com/Ryo-N7/tvthemes,ggplot2 themes and palettes based on your favorite TV shows,https://ryo-n7.github.io/tvthemes/,GNU General Public License v3.0,2019-03-31T04:54:54Z,2023-06-26T03:19:36Z
 tvthemes,https://github.com/cran/tvthemes,:exclamation: This is a read-only mirror of the CRAN R package repository.  tvthemes — TV Show Themes and Color Palettes for 'ggplot2' Graphics. Homepage: https://github.com/Ryo-N7/tvthemes  Report bugs for this package: https://github.com/Ryo-N7/tvthemes/issues,,,2019-09-03T09:03:46Z,2022-11-18T03:52:04Z
 twriTemplates,https://github.com/TxWRI/twriTemplates,Internal R package to standardize report and figure formats,https://txwri.github.io/twriTemplates/,Creative Commons Zero v1.0 Universal,2021-05-25T20:48:24Z,2022-02-07T17:59:23Z
 ucsftheme,https://github.com/anobel/ucsftheme,use official UCSF Color Themes in R and ggplot2,,,2018-03-05T23:58:24Z,2023-03-25T06:42:31Z
 uganda_food_security_report,https://github.com/mrafa3/uganda_food_security_report,"Code for ""Achieving Food Security in Uganda (August 2018)",https://s3-us-west-2.amazonaws.com/drupalwebsitepardee/pardee/public/Pardee_Food_Security_report_v1.pdf,,2020-09-17T20:27:46Z,2021-01-27T20:53:08Z
 unam.theme,https://github.com/alberto-mateos-mo/unam.theme,ggplot2 theme for UNAM community,,Creative Commons Attribution 4.0 International,2020-01-19T04:36:03Z,2020-07-31T03:26:18Z
 unhcrthemes,https://github.com/vidonne/unhcrthemes,UNHCR branded theme for ggplot2 and data visualization colour palettes,https://vidonne.github.io/unhcrthemes/,Other,2021-01-28T13:38:55Z,2023-02-24T09:39:30Z
-urbnthemes,https://github.com/UrbanInstitute/urbnthemes,Urban Institute's ggplot2 theme and tools,https://UrbanInstitute.github.io/urbnthemes/,,2018-03-09T13:49:18Z,2023-04-01T22:47:18Z
+urbnthemes,https://github.com/UrbanInstitute/urbnthemes,Urban Institute's ggplot2 theme and tools,https://UrbanInstitute.github.io/urbnthemes/,,2018-03-09T13:49:18Z,2023-05-05T05:17:11Z
 ussc_draft,https://github.com/USStudiesCentre/ussc_draft,A repository for drafting USSC ggplot2 themes and D3.js templates.,,Other,2018-05-02T00:28:53Z,2018-05-09T03:30:51Z
-vapoRwave,https://github.com/moldach/vapoRwave,📼👾🕹Vaporwave themes and color palettes for ggplot2💾👨‍🎤📺,,Other,2019-02-10T00:12:39Z,2023-03-29T12:23:01Z
+vapoRwave,https://github.com/moldach/vapoRwave,📼👾🕹Vaporwave themes and color palettes for ggplot2💾👨‍🎤📺,,Other,2019-02-10T00:12:39Z,2023-06-30T15:18:43Z
 visibly,https://github.com/m-clark/visibly,👓 Functions related to R visualizations,https://m-clark.github.io/visibly,Other,2018-06-10T15:52:32Z,2023-01-19T01:45:28Z
 visualizer,https://github.com/duttashi/visualizer,My experiments in data visualizations. Feel free to show your :heart: by giving a star :star:,,MIT License,2017-05-08T08:49:15Z,2021-04-27T07:13:40Z
+vthemes,https://github.com/Yu-Group/vthemes,An R package with modern themes for ggplot2 and R Markdown documents,https://yu-group.github.io/vthemes/,GNU General Public License v3.0,2022-03-05T01:09:58Z,2023-01-10T19:30:56Z
 waxtheme,https://github.com/Waxtiz/waxtheme,Personal ggplot2 theme and colors,,,2022-10-07T15:39:36Z,2022-10-24T09:36:15Z
+wfpthemes,https://github.com/WFP-VAM/wfpthemes,WFP branded theme for ggplot2 and data visualization colour palettes,,,2023-04-26T15:52:08Z,2023-05-27T14:47:49Z
 wwplot,https://github.com/lizardburns/wwplot,Wolverhamption Wanderers styled ggplot2 plots,,GNU General Public License v3.0,2022-01-04T14:38:17Z,2022-01-04T14:41:37Z
 xkcd,https://github.com/cran/xkcd,:exclamation: This is a read-only mirror of the CRAN R package repository.  xkcd — Plotting ggplot2 Graphics in an XKCD Style. Homepage:   ,,,2014-03-13T06:47:32Z,2022-05-02T16:07:34Z
+zewplot,https://github.com/benediktstelter/zewplot,"This package implements 'theme_zew', a ggplot2 theme which can be used to create plots in uniform style. Additionally, the package includes color palette functions in corporate colors. ",,,2023-04-28T15:53:40Z,2023-07-11T20:13:32Z
 zueritheme,https://github.com/StatistikStadtZuerich/zueritheme,zueritheme: Statistik Stadt Zurich ggplot2 theme ,,"BSD 3-Clause ""New"" or ""Revised"" License",2022-11-24T14:07:30Z,2023-03-01T09:42:23Z
