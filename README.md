@@ -1,26 +1,26 @@
 # List of github repos with (possible) ggplot2 themes
 
-**Last generated on** 2023-07-23 16:07:13.004946 (UTC)
+**Last generated on** 2025-12-05 16:15:05.245364 (UTC)
 
--   This list is generated using the github API, so it relies on the
-    descriptions and tags in each repository
--   Get the [data in CSV format](ggplot2_themes_in_github.csv)
--   If you find a repo that doesn’t contain a theme, submit an issue so
-    I can add it to the filter
+- This list is generated using the github API, so it relies on the
+  descriptions and tags in each repository
+- Get the [data in CSV format](ggplot2_themes_in_github.csv)
+- If you find a repo that doesn’t contain a theme, submit an issue so I
+  can add it to the filter
 
-<table>
+<table style="width:100%;">
 <colgroup>
 <col style="width: 0%" />
-<col style="width: 1%" />
 <col style="width: 2%" />
-<col style="width: 87%" />
-<col style="width: 4%" />
-<col style="width: 1%" />
+<col style="width: 3%" />
+<col style="width: 86%" />
+<col style="width: 3%" />
+<col style="width: 2%" />
 <col style="width: 0%" />
 <col style="width: 0%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th style="text-align: left;">item</th>
 <th style="text-align: left;">name</th>
 <th style="text-align: left;">repo_url</th>
@@ -32,7 +32,7 @@
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">1</td>
 <td style="text-align: left;">ACHDSggTheme</td>
 <td style="text-align: left;"><a
@@ -45,7 +45,7 @@ ACHDS theme to ggplot2 plots in R</td>
 <td style="text-align: left;">2021-09-29T09:11:09Z</td>
 <td style="text-align: left;">2022-02-04T10:08:32Z</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">2</td>
 <td style="text-align: left;">AQRCxray</td>
 <td style="text-align: left;"><a
@@ -58,7 +58,7 @@ working with XRF data at CNL.</td>
 <td style="text-align: left;">2019-03-05T21:19:15Z</td>
 <td style="text-align: left;">2022-11-09T18:28:43Z</td>
 </tr>
-<tr class="odd">
+<tr>
 <td style="text-align: left;">3</td>
 <td style="text-align: left;">AlecWebsiteThmr</td>
 <td style="text-align: left;"><a
@@ -71,8 +71,50 @@ website</td>
 <td style="text-align: left;">2021-08-22T20:19:40Z</td>
 <td style="text-align: left;">2022-12-02T07:13:03Z</td>
 </tr>
-<tr class="even">
+<tr>
 <td style="text-align: left;">4</td>
+<td
+style="text-align: left;">Alice-s_Adventures_in_Wonderland_Project</td>
+<td style="text-align: left;"><a
+href="https://github.com/CodonWalker/Alice-s_Adventures_in_Wonderland_Project"
+class="uri">https://github.com/CodonWalker/Alice-s_Adventures_in_Wonderland_Project</a></td>
+<td style="text-align: left;">The Project contains a brief analysis of
+similar authors on the theme of Alice’s Adventures in Wonderland</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2023-10-16T12:55:59Z</td>
+<td style="text-align: left;">2023-10-16T15:46:13Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">BFHtheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/johanreventlow/BFHtheme"
+class="uri">https://github.com/johanreventlow/BFHtheme</a></td>
+<td style="text-align: left;">R package for Bispebjerg og Frederiksberg
+Hospital ggplot2 themes and branding</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-10-13T22:07:02Z</td>
+<td style="text-align: left;">2025-11-30T20:39:55Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">BSOLTheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/Birmingham-and-Solihull-ICS/BSOLTheme"
+class="uri">https://github.com/Birmingham-and-Solihull-ICS/BSOLTheme</a></td>
+<td style="text-align: left;">A repository with Rmarkdown, Quarto and
+ggplot2 stylings</td>
+<td style="text-align: left;"><a
+href="https://birmingham-and-solihull-ics.github.io/BSOLTheme/"
+class="uri">https://birmingham-and-solihull-ics.github.io/BSOLTheme/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-11-28T08:51:08Z</td>
+<td style="text-align: left;">2025-08-15T06:58:57Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">7</td>
 <td style="text-align: left;">BensThemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/benchaffe/BensThemes"
@@ -84,20 +126,89 @@ themes I use for ggplot2</td>
 <td style="text-align: left;">2021-02-13T16:59:18Z</td>
 <td style="text-align: left;">2021-02-14T15:38:01Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">5</td>
+<tr>
+<td style="text-align: left;">8</td>
 <td style="text-align: left;">BicycleTheme2023</td>
 <td style="text-align: left;"><a
-href="https://github.com/BicycleTx/BicycleTheme2023"
-class="uri">https://github.com/BicycleTx/BicycleTheme2023</a></td>
-<td style="text-align: left;">Bicycle theme for ggplot2 objects</td>
+href="https://github.com/jdwells-bicycletx/BicycleTheme2023"
+class="uri">https://github.com/jdwells-bicycletx/BicycleTheme2023</a></td>
+<td style="text-align: left;">Bicycle Colors (2023) for ggplot2
+Figures</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">2023-03-17T15:46:02Z</td>
-<td style="text-align: left;">2023-03-17T15:47:28Z</td>
+<td style="text-align: left;">2023-03-17T14:30:19Z</td>
+<td style="text-align: left;">2023-03-17T14:30:45Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">6</td>
+<tr>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">CGD-R-theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/zackgehan/CGD-R-theme"
+class="uri">https://github.com/zackgehan/CGD-R-theme</a></td>
+<td style="text-align: left;">A ggplot2 theme for CGD graphs</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-02-13T20:11:55Z</td>
+<td style="text-align: left;">2024-02-13T20:28:57Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">CGDRtheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/Center-for-Global-Development/CGDRtheme"
+class="uri">https://github.com/Center-for-Global-Development/CGDRtheme</a></td>
+<td style="text-align: left;">A ggplot2 theme applying CGD colors and
+graphic styles</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-06-12T21:21:34Z</td>
+<td style="text-align: left;">2025-09-28T04:07:28Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">11</td>
+<td style="text-align: left;">CREG</td>
+<td style="text-align: left;"><a
+href="https://github.com/nicoschoutteet/CREG"
+class="uri">https://github.com/nicoschoutteet/CREG</a></td>
+<td style="text-align: left;">Apply a custom, consistent theme to
+ggplot2 figures in line with CREG visual guide.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2022-11-21T10:11:14Z</td>
+<td style="text-align: left;">2024-11-04T09:02:48Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">CV-Insight-Charts</td>
+<td style="text-align: left;"><a
+href="https://github.com/edward-sims/CV-Insight-Charts"
+class="uri">https://github.com/edward-sims/CV-Insight-Charts</a></td>
+<td style="text-align: left;">I produced some info graphic-style charts
+for my CV - great for visualising your skills in a professional
+manner.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2018-05-25T07:52:32Z</td>
+<td style="text-align: left;">2018-06-17T19:54:14Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">Canadian-Pipeline-Throughput</td>
+<td style="text-align: left;"><a
+href="https://github.com/hibazaidi/Canadian-Pipeline-Throughput"
+class="uri">https://github.com/hibazaidi/Canadian-Pipeline-Throughput</a></td>
+<td style="text-align: left;">The graphs analyze Canadian pipeline
+throughput and capacity trends using CER data. Visualizes Enbridge and
+TransMountain shipments by product and key points using ggplot2, dplyr,
+and custom themes. Includes secondary axis conversion to
+barrels/day.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-06-02T20:13:46Z</td>
+<td style="text-align: left;">2025-06-02T21:27:44Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">14</td>
 <td style="text-align: left;">Career-Guidance-Tool</td>
 <td style="text-align: left;"><a
 href="https://github.com/divyargarg/Career-Guidance-Tool"
@@ -109,8 +220,8 @@ tuition fee</td>
 <td style="text-align: left;">2019-10-28T16:53:13Z</td>
 <td style="text-align: left;">2020-01-16T20:40:32Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">7</td>
+<tr>
+<td style="text-align: left;">15</td>
 <td style="text-align: left;">Climate_Data_Visualization</td>
 <td style="text-align: left;"><a
 href="https://github.com/jarred13/Climate_Data_Visualization"
@@ -120,10 +231,26 @@ greenhouse gases</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2022-04-08T02:21:27Z</td>
-<td style="text-align: left;">2023-02-03T21:40:17Z</td>
+<td style="text-align: left;">2024-11-05T11:40:23Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">8</td>
+<tr>
+<td style="text-align: left;">16</td>
+<td style="text-align: left;">Coding-group-presentation</td>
+<td style="text-align: left;"><a
+href="https://github.com/emmaSkarstein/Coding-group-presentation"
+class="uri">https://github.com/emmaSkarstein/Coding-group-presentation</a></td>
+<td style="text-align: left;">“Moving beyond theme_grey()”, a
+presentation about ggplot2 themes held for the Coding group meeting at
+NTNU on October 6th 2021.</td>
+<td style="text-align: left;"><a
+href="https://emmaskarstein.github.io/Coding-group-presentation/"
+class="uri">https://emmaskarstein.github.io/Coding-group-presentation/</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2021-09-30T09:46:01Z</td>
+<td style="text-align: left;">2024-07-08T14:03:24Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">17</td>
 <td style="text-align: left;">ColourblindR</td>
 <td style="text-align: left;"><a
 href="https://github.com/UBC-MDS/ColourblindR"
@@ -135,10 +262,99 @@ href="https://ubc-mds.github.io/ColourblindR/"
 class="uri">https://ubc-mds.github.io/ColourblindR/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2019-02-05T23:59:35Z</td>
-<td style="text-align: left;">2021-02-11T11:29:50Z</td>
+<td style="text-align: left;">2024-10-21T21:03:46Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">9</td>
+<tr>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">Custom-themes-in-ggplot2</td>
+<td style="text-align: left;"><a
+href="https://github.com/binmishr/Custom-themes-in-ggplot2"
+class="uri">https://github.com/binmishr/Custom-themes-in-ggplot2</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2021-12-12T08:07:19Z</td>
+<td style="text-align: left;">2021-12-12T08:09:24Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">Custom_graphs</td>
+<td style="text-align: left;"><a
+href="https://github.com/xBlackBunnyx/Custom_graphs"
+class="uri">https://github.com/xBlackBunnyx/Custom_graphs</a></td>
+<td style="text-align: left;">This is a R package that add a custom
+theme and a palette set for ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Creative Commons Zero v1.0 Universal</td>
+<td style="text-align: left;">2025-03-06T15:53:35Z</td>
+<td style="text-align: left;">2025-07-20T18:42:19Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">DC-Style-Guide</td>
+<td style="text-align: left;"><a
+href="https://github.com/mjwashick/DC-Style-Guide"
+class="uri">https://github.com/mjwashick/DC-Style-Guide</a></td>
+<td style="text-align: left;">ggplot2 style script for D.C.
+government</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Creative Commons Zero v1.0 Universal</td>
+<td style="text-align: left;">2025-10-06T18:57:34Z</td>
+<td style="text-align: left;">2025-10-06T18:58:36Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">21</td>
+<td
+style="text-align: left;">Data-Mining-Visualization-Project-to-Identify-Jakarta-Green-Area-and-Polution</td>
+<td style="text-align: left;"><a
+href="https://github.com/Calistacen/Data-Mining-Visualization-Project-to-Identify-Jakarta-Green-Area-and-Polution"
+class="uri">https://github.com/Calistacen/Data-Mining-Visualization-Project-to-Identify-Jakarta-Green-Area-and-Polution</a></td>
+<td style="text-align: left;">Data storytelling project using R and
+ggplot2 to visualize polution index data in Jakarta. Analyzes the
+relationship between green open space (RTH) and air pollution (PM2.5)
+levels across administrative regions of Jakarta, presented through an
+infographic style data story.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-10-25T07:25:30Z</td>
+<td style="text-align: left;">2025-10-25T07:30:11Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;">Data-Visualization-in-R</td>
+<td style="text-align: left;"><a
+href="https://github.com/Joel-Kazadi/Data-Visualization-in-R"
+class="uri">https://github.com/Joel-Kazadi/Data-Visualization-in-R</a></td>
+<td style="text-align: left;">This tutorial covers data visualization
+using R with the package “ggplot2”. The following topics will be covered
+throughout the lesson: (i) the components of the ggplot2 graphics
+grammar, (ii) customizing graphics (annotation, themes and legends),
+(iii) creating interactive graphics and combined graphics, and so
+on.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-08-23T09:59:12Z</td>
+<td style="text-align: left;">2023-08-23T15:02:14Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">Data-Visulalization-Notes</td>
+<td style="text-align: left;"><a
+href="https://github.com/BibekSapkota1/Data-Visulalization-Notes"
+class="uri">https://github.com/BibekSapkota1/Data-Visulalization-Notes</a></td>
+<td style="text-align: left;">This repository features diverse
+visualization techniques using R, including basic plots, grid layouts,
+image preprocessing, Netflix analysis, PCA, themes, time trends, and
+univariate to multivariate analyses. Advanced tools like ggplot2, Qplot,
+faceting, and smoothing are also included for crafting impactful,
+insightful, and visually appealing.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-12-07T05:39:30Z</td>
+<td style="text-align: left;">2025-01-14T05:40:25Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">24</td>
 <td style="text-align: left;">Data-Wrangling</td>
 <td style="text-align: left;"><a
 href="https://github.com/som21-star/Data-Wrangling"
@@ -153,8 +369,21 @@ concept of tidyverse and ggplot2 package</td>
 <td style="text-align: left;">2020-02-14T05:22:48Z</td>
 <td style="text-align: left;">2020-02-14T05:23:53Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">10</td>
+<tr>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">Data_visualization_R</td>
+<td style="text-align: left;"><a
+href="https://github.com/minhosong88/Data_visualization_R"
+class="uri">https://github.com/minhosong88/Data_visualization_R</a></td>
+<td style="text-align: left;">Data Visualization project with Economist
+Corroption-Human Development Index</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-01-27T15:57:03Z</td>
+<td style="text-align: left;">2025-01-27T17:59:38Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">26</td>
 <td style="text-align: left;">Data_visualization_with_ggplot2</td>
 <td style="text-align: left;"><a
 href="https://github.com/Sazzadul-Eanan/Data_visualization_with_ggplot2"
@@ -165,8 +394,8 @@ class="uri">https://github.com/Sazzadul-Eanan/Data_visualization_with_ggplot2</a
 <td style="text-align: left;">2022-10-29T08:45:17Z</td>
 <td style="text-align: left;">2022-10-29T09:01:59Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">11</td>
+<tr>
+<td style="text-align: left;">27</td>
 <td style="text-align: left;">DavisLabPlotThemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/AndersonButler/DavisLabPlotThemes"
@@ -178,8 +407,21 @@ projects</td>
 <td style="text-align: left;">2022-02-02T17:58:54Z</td>
 <td style="text-align: left;">2022-02-02T17:58:54Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">12</td>
+<tr>
+<td style="text-align: left;">28</td>
+<td
+style="text-align: left;">Easy-ggplot2-Theme-customization-with-ggeasy-</td>
+<td style="text-align: left;"><a
+href="https://github.com/binmishr/Easy-ggplot2-Theme-customization-with-ggeasy-"
+class="uri">https://github.com/binmishr/Easy-ggplot2-Theme-customization-with-ggeasy-</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2021-09-21T04:16:19Z</td>
+<td style="text-align: left;">2021-09-21T04:18:18Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">29</td>
 <td style="text-align: left;">EasyBranding</td>
 <td style="text-align: left;"><a
 href="https://github.com/ranchobiosciences/EasyBranding"
@@ -189,10 +431,62 @@ themes</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2020-07-27T19:43:43Z</td>
-<td style="text-align: left;">2021-04-09T00:22:04Z</td>
+<td style="text-align: left;">2024-06-13T22:42:34Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">13</td>
+<tr>
+<td style="text-align: left;">30</td>
+<td
+style="text-align: left;">Exploring-ggplot2-boxplots-Defining-limits-and-adjusting-style</td>
+<td style="text-align: left;"><a
+href="https://github.com/binmishr/Exploring-ggplot2-boxplots-Defining-limits-and-adjusting-style"
+class="uri">https://github.com/binmishr/Exploring-ggplot2-boxplots-Defining-limits-and-adjusting-style</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2021-12-15T07:52:51Z</td>
+<td style="text-align: left;">2022-01-08T08:38:20Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">31</td>
+<td style="text-align: left;">ExploristicsTheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/Exploristics/ExploristicsTheme"
+class="uri">https://github.com/Exploristics/ExploristicsTheme</a></td>
+<td style="text-align: left;">A theme for ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2021-12-15T14:46:38Z</td>
+<td style="text-align: left;">2024-09-23T13:34:52Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">32</td>
+<td style="text-align: left;">FMtheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/fmg-jluchman/FMtheme"
+class="uri">https://github.com/fmg-jluchman/FMtheme</a></td>
+<td style="text-align: left;">A Fors Marsh <code>{ggplot2}</code> theme
+for R graphics</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-09-09T17:18:56Z</td>
+<td style="text-align: left;">2025-10-02T15:33:22Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">33</td>
+<td style="text-align: left;">Finger-Millet-Characterization</td>
+<td style="text-align: left;"><a
+href="https://github.com/sujan4445/Finger-Millet-Characterization"
+class="uri">https://github.com/sujan4445/Finger-Millet-Characterization</a></td>
+<td style="text-align: left;">ggplot2, dplyr, patchwork to reads
+trait-wise frequency data from a dataset and produces custom-styled pie
+charts.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-09-11T13:22:25Z</td>
+<td style="text-align: left;">2025-11-15T05:12:25Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">34</td>
 <td
 style="text-align: left;">Font-Character-Classification-from-Images</td>
 <td style="text-align: left;"><a
@@ -205,8 +499,67 @@ using KNN, RandomForest, and K-means. Dimension Reduction with PCA.</td>
 <td style="text-align: left;">2021-01-19T16:23:11Z</td>
 <td style="text-align: left;">2021-07-31T18:18:05Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">14</td>
+<tr>
+<td style="text-align: left;">35</td>
+<td style="text-align: left;">GGPlot2_Theme-Guides-Labeller</td>
+<td style="text-align: left;"><a
+href="https://github.com/wafiyulahdi-port/GGPlot2_Theme-Guides-Labeller"
+class="uri">https://github.com/wafiyulahdi-port/GGPlot2_Theme-Guides-Labeller</a></td>
+<td style="text-align: left;">This repository contains a comprehensive R
+script showcasing the usage of themes, guides, and labelling systems in
+the ggplot2 package. The code is designed as a practical reference for
+understanding how visual customization works within the ggplot2
+ecosystem</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-11-22T19:11:13Z</td>
+<td style="text-align: left;">2025-11-22T19:12:33Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">36</td>
+<td style="text-align: left;">GLab_ggplot2_theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/giovannellilab/GLab_ggplot2_theme"
+class="uri">https://github.com/giovannellilab/GLab_ggplot2_theme</a></td>
+<td style="text-align: left;">The Giovannelli Lab ggplot2 tgheme</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2022-12-10T02:27:25Z</td>
+<td style="text-align: left;">2022-12-10T02:28:13Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">37</td>
+<td style="text-align: left;">GWalkR</td>
+<td style="text-align: left;"><a
+href="https://github.com/Kanaries/GWalkR"
+class="uri">https://github.com/Kanaries/GWalkR</a></td>
+<td style="text-align: left;">Turn your data frame into a tableau style
+drag and drop UI interface to build visualization in R.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Apache License 2.0</td>
+<td style="text-align: left;">2023-07-10T03:23:42Z</td>
+<td style="text-align: left;">2025-12-04T10:38:19Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">38</td>
+<td style="text-align: left;">GameOfThronesAnalytics</td>
+<td style="text-align: left;"><a
+href="https://github.com/AshleyXWong/GameOfThronesAnalytics"
+class="uri">https://github.com/AshleyXWong/GameOfThronesAnalytics</a></td>
+<td style="text-align: left;">Our goal is to use descriptive analysis to
+ask and solve questions about the given datasets found on Kaggle.
+Knowing various aspects about a battle, including the house leader, the
+outcome, and the battle style, can we predict the outcome of a battle
+given only one or two facts? Kaggle data found here: <a
+href="https://www.kaggle.com/mylesoneill/game-of-thrones"
+class="uri">https://www.kaggle.com/mylesoneill/game-of-thrones</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2018-07-10T17:38:03Z</td>
+<td style="text-align: left;">2018-07-25T00:22:15Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">39</td>
 <td style="text-align: left;">HODP-StyleGuide</td>
 <td style="text-align: left;"><a
 href="https://github.com/HarvardOpenData/HODP-StyleGuide"
@@ -217,8 +570,21 @@ class="uri">https://github.com/HarvardOpenData/HODP-StyleGuide</a></td>
 <td style="text-align: left;">2019-10-08T18:31:27Z</td>
 <td style="text-align: left;">2019-11-10T05:58:47Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">15</td>
+<tr>
+<td style="text-align: left;">40</td>
+<td style="text-align: left;">HighContrast</td>
+<td style="text-align: left;"><a
+href="https://github.com/marcuslowx/HighContrast"
+class="uri">https://github.com/marcuslowx/HighContrast</a></td>
+<td style="text-align: left;">An R package for making high contrast
+themes with ggplot2 for people with substantially impaired vision.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-09-17T08:31:47Z</td>
+<td style="text-align: left;">2023-09-18T23:32:20Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">41</td>
 <td style="text-align: left;">Homicide-Reports</td>
 <td style="text-align: left;"><a
 href="https://github.com/DeepakKumarGS/Homicide-Reports"
@@ -230,10 +596,10 @@ href="https://deepakkumargs.github.io/Homicide-Reports/"
 class="uri">https://deepakkumargs.github.io/Homicide-Reports/</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2017-10-13T08:42:26Z</td>
-<td style="text-align: left;">2017-10-13T09:14:58Z</td>
+<td style="text-align: left;">2025-09-11T21:51:04Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">16</td>
+<tr>
+<td style="text-align: left;">42</td>
 <td style="text-align: left;">INBOtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/RmeanyMAN/INBOtheme"
@@ -244,8 +610,8 @@ class="uri">https://github.com/RmeanyMAN/INBOtheme</a></td>
 <td style="text-align: left;">2014-11-21T21:41:02Z</td>
 <td style="text-align: left;">2016-12-07T08:28:08Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">17</td>
+<tr>
+<td style="text-align: left;">43</td>
 <td style="text-align: left;">INBOtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/inbo/INBOtheme"
@@ -256,25 +622,38 @@ themes</td>
 class="uri">https://inbo.github.io/INBOtheme</a></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2016-08-29T06:48:00Z</td>
-<td style="text-align: left;">2021-12-20T02:51:59Z</td>
+<td style="text-align: left;">2025-09-05T17:03:53Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">18</td>
+<tr>
+<td style="text-align: left;">44</td>
 <td
-style="text-align: left;">Implementing_k_NN_and_Data_Visualization_with_ggplot2</td>
+style="text-align: left;">Introducing-tvthemes-ggplot2-palettes-and-themes-from-your-favorite-TV-shows</td>
 <td style="text-align: left;"><a
-href="https://github.com/cariappa93/Implementing_k_NN_and_Data_Visualization_with_ggplot2"
-class="uri">https://github.com/cariappa93/Implementing_k_NN_and_Data_Visualization_with_ggplot2</a></td>
-<td style="text-align: left;">[Mini Project]: Implementing Lazy Learning
-k-NN on IRIS dataset and EDA using ggplot2 - R style visuals on Jupyter
-Notebook</td>
+href="https://github.com/binmishr/Introducing-tvthemes-ggplot2-palettes-and-themes-from-your-favorite-TV-shows"
+class="uri">https://github.com/binmishr/Introducing-tvthemes-ggplot2-palettes-and-themes-from-your-favorite-TV-shows</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">2023-01-28T21:15:39Z</td>
-<td style="text-align: left;">2023-03-03T00:04:57Z</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2021-11-20T14:42:17Z</td>
+<td style="text-align: left;">2022-01-29T08:49:31Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">19</td>
+<tr>
+<td style="text-align: left;">45</td>
+<td style="text-align: left;">JFITheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/JainFamilyInstitute/JFITheme"
+class="uri">https://github.com/JainFamilyInstitute/JFITheme</a></td>
+<td style="text-align: left;">JFITheme is an R package that provides
+standardized ggplot2 themes, color scales, and typography for creating
+visualizations in line with the Jain Family Institute (JFI) style
+guide.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-09-18T04:31:13Z</td>
+<td style="text-align: left;">2025-08-19T13:47:58Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">46</td>
 <td style="text-align: left;">KITra</td>
 <td style="text-align: left;"><a href="https://github.com/MBrede/KITra"
 class="uri">https://github.com/MBrede/KITra</a></td>
@@ -285,8 +664,8 @@ ggplot2 plots in the CI of the AI Transfer Hub SH.</td>
 <td style="text-align: left;">2023-01-19T09:47:17Z</td>
 <td style="text-align: left;">2023-01-19T09:48:47Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">20</td>
+<tr>
+<td style="text-align: left;">47</td>
 <td style="text-align: left;">LUthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/nrennie/LUthemes"
@@ -297,10 +676,36 @@ university.</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2023-05-11T19:27:30Z</td>
-<td style="text-align: left;">2023-05-11T21:41:23Z</td>
+<td style="text-align: left;">2025-03-07T16:46:01Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">21</td>
+<tr>
+<td style="text-align: left;">48</td>
+<td style="text-align: left;">LaTeX-Styling-ggplot2</td>
+<td style="text-align: left;"><a
+href="https://github.com/tstenborg/LaTeX-Styling-ggplot2"
+class="uri">https://github.com/tstenborg/LaTeX-Styling-ggplot2</a></td>
+<td style="text-align: left;">Styling R ggplot2 graphics with
+LaTeX.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-12-26T04:54:26Z</td>
+<td style="text-align: left;">2025-10-02T12:18:06Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">49</td>
+<td style="text-align: left;">LaTeX-Styling-ggplot2</td>
+<td style="text-align: left;"><a
+href="https://github.com/dare-centre/LaTeX-Styling-ggplot2"
+class="uri">https://github.com/dare-centre/LaTeX-Styling-ggplot2</a></td>
+<td style="text-align: left;">Styling R ggplot2 graphics with
+LaTeX.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-12-26T05:13:18Z</td>
+<td style="text-align: left;">2024-09-30T13:14:29Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">50</td>
 <td
 style="text-align: left;">Langage_R_Data_Visualisation_Machine_Learning</td>
 <td style="text-align: left;"><a
@@ -312,8 +717,8 @@ class="uri">https://github.com/NisrineBennor/Langage_R_Data_Visualisation_Machin
 <td style="text-align: left;">2020-10-06T00:59:17Z</td>
 <td style="text-align: left;">2020-12-01T14:15:32Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">22</td>
+<tr>
+<td style="text-align: left;">51</td>
 <td style="text-align: left;">MGTheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/MGato24/MGTheme"
@@ -325,20 +730,51 @@ ggplot2 tailored to my needs</td>
 <td style="text-align: left;">2022-09-08T16:42:31Z</td>
 <td style="text-align: left;">2022-09-11T21:21:09Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">23</td>
+<tr>
+<td style="text-align: left;">52</td>
 <td style="text-align: left;">MKHthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/MatthewHeun/MKHthemes"
 class="uri">https://github.com/MatthewHeun/MKHthemes</a></td>
 <td style="text-align: left;">Themes for ggplot2 graphics</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><a
+href="https://matthewheun.github.io/MKHthemes/"
+class="uri">https://matthewheun.github.io/MKHthemes/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2018-07-08T00:39:14Z</td>
-<td style="text-align: left;">2023-05-09T00:43:25Z</td>
+<td style="text-align: left;">2025-01-17T05:49:44Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">24</td>
+<tr>
+<td style="text-align: left;">53</td>
+<td style="text-align: left;">MSUthemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/emilioxavier/MSUthemes"
+class="uri">https://github.com/emilioxavier/MSUthemes</a></td>
+<td style="text-align: left;">MSU and Big Ten color palettes and themes
+for R ggplot2</td>
+<td style="text-align: left;"><a
+href="https://emilioxavier.github.io/MSUthemes/"
+class="uri">https://emilioxavier.github.io/MSUthemes/</a></td>
+<td style="text-align: left;">Creative Commons Attribution Share Alike
+4.0 International</td>
+<td style="text-align: left;">2025-10-03T15:28:46Z</td>
+<td style="text-align: left;">2025-12-03T18:18:25Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">54</td>
+<td style="text-align: left;">MoreThemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/thomassie/MoreThemes"
+class="uri">https://github.com/thomassie/MoreThemes</a></td>
+<td style="text-align: left;">A package that allows to access various
+themes to used with ggplot2.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-06-07T13:35:42Z</td>
+<td style="text-align: left;">2025-06-14T14:39:11Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">55</td>
 <td style="text-align: left;">NCLRtemplates</td>
 <td style="text-align: left;"><a
 href="https://github.com/ncl-icb-analytics/NCLRtemplates"
@@ -350,10 +786,10 @@ href="https://ncl-icb-analytics.github.io/NCLRtemplates/"
 class="uri">https://ncl-icb-analytics.github.io/NCLRtemplates/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2023-06-07T10:03:09Z</td>
-<td style="text-align: left;">2023-07-06T14:45:16Z</td>
+<td style="text-align: left;">2024-07-29T13:26:04Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">25</td>
+<tr>
+<td style="text-align: left;">56</td>
 <td style="text-align: left;">NU_theme</td>
 <td style="text-align: left;"><a
 href="https://github.com/MJPeyton/NU_theme"
@@ -364,8 +800,24 @@ class="uri">https://github.com/MJPeyton/NU_theme</a></td>
 <td style="text-align: left;">2019-01-04T16:08:40Z</td>
 <td style="text-align: left;">2019-01-08T22:30:15Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">26</td>
+<tr>
+<td style="text-align: left;">57</td>
+<td style="text-align: left;">Omics-and-Imaging-Pipelines</td>
+<td style="text-align: left;"><a
+href="https://github.com/jujuakd888/Omics-and-Imaging-Pipelines"
+class="uri">https://github.com/jujuakd888/Omics-and-Imaging-Pipelines</a></td>
+<td style="text-align: left;">Built a reproducible R Markdown pipeline
+(tidyverse, ggplot2, pheatmap, survival) to analyse TCGA-style breast
+cancer data: tumour-vs-normal testing (Wilcoxon + FDR), heatmaps,
+volcano plots, and Kaplan–Meier curves; delivered cleaned CSV outputs
+and figures to a shared GitHub repo.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-08-27T16:18:43Z</td>
+<td style="text-align: left;">2025-08-27T16:23:24Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">58</td>
 <td style="text-align: left;">Panel_Charts</td>
 <td style="text-align: left;"><a
 href="https://github.com/bquillin12/Panel_Charts"
@@ -378,8 +830,8 @@ theme for MS Word documents that adjusts settings for insertion into
 <td style="text-align: left;">2019-06-17T20:06:14Z</td>
 <td style="text-align: left;">2019-07-03T18:12:53Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">27</td>
+<tr>
+<td style="text-align: left;">59</td>
 <td style="text-align: left;">PiePieGGPlotter</td>
 <td style="text-align: left;"><a
 href="https://github.com/Hedaozi/PiePieGGPlotter"
@@ -389,10 +841,10 @@ adjusting ggplot2 theme and tamp theme.</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2021-07-30T14:09:25Z</td>
-<td style="text-align: left;">2022-09-19T08:56:46Z</td>
+<td style="text-align: left;">2024-01-12T19:19:03Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">28</td>
+<tr>
+<td style="text-align: left;">60</td>
 <td style="text-align: left;">Publication</td>
 <td style="text-align: left;"><a
 href="https://github.com/bquillin12/Publication"
@@ -404,8 +856,8 @@ ggplot2 objects into MS Word documents.</td>
 <td style="text-align: left;">2019-06-17T19:58:53Z</td>
 <td style="text-align: left;">2019-09-05T19:57:26Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">29</td>
+<tr>
+<td style="text-align: left;">61</td>
 <td style="text-align: left;">QSPthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/dougtommet/QSPthemes"
@@ -417,8 +869,8 @@ themes</td>
 <td style="text-align: left;">2020-02-05T18:35:34Z</td>
 <td style="text-align: left;">2020-02-05T20:49:08Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">30</td>
+<tr>
+<td style="text-align: left;">62</td>
 <td style="text-align: left;">R-Bootcamp</td>
 <td style="text-align: left;"><a
 href="https://github.com/atse0612/R-Bootcamp"
@@ -429,8 +881,20 @@ class="uri">https://github.com/atse0612/R-Bootcamp</a></td>
 <td style="text-align: left;">2016-11-16T16:48:45Z</td>
 <td style="text-align: left;">2017-03-08T16:09:56Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">31</td>
+<tr>
+<td style="text-align: left;">63</td>
+<td style="text-align: left;">R-Themes-GGplot2</td>
+<td style="text-align: left;"><a
+href="https://github.com/jlrdandrea/R-Themes-GGplot2"
+class="uri">https://github.com/jlrdandrea/R-Themes-GGplot2</a></td>
+<td style="text-align: left;">Fast visual GGplot themes reference .</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2022-10-28T18:08:20Z</td>
+<td style="text-align: left;">2024-04-28T18:21:22Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">64</td>
 <td style="text-align: left;">R-for-Data-Science</td>
 <td style="text-align: left;"><a
 href="https://github.com/Bhrugu-scientist/R-for-Data-Science"
@@ -443,8 +907,36 @@ frames and creating beautiful visualizations.</td>
 <td style="text-align: left;">2020-04-05T02:05:15Z</td>
 <td style="text-align: left;">2021-07-23T09:11:21Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">32</td>
+<tr>
+<td style="text-align: left;">65</td>
+<td style="text-align: left;">RAD-themes</td>
+<td style="text-align: left;"><a
+href="https://github.com/colinannand/RAD-themes"
+class="uri">https://github.com/colinannand/RAD-themes</a></td>
+<td style="text-align: left;">ggplot2 theme - custom functions for FEMA
+approved palettes</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Creative Commons Zero v1.0 Universal</td>
+<td style="text-align: left;">2025-09-17T12:17:24Z</td>
+<td style="text-align: left;">2025-11-06T18:59:43Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">66</td>
+<td style="text-align: left;">RShiny-Netflix-Content-Explorer</td>
+<td style="text-align: left;"><a
+href="https://github.com/renswickd/RShiny-Netflix-Content-Explorer"
+class="uri">https://github.com/renswickd/RShiny-Netflix-Content-Explorer</a></td>
+<td style="text-align: left;">Interactive R Shiny application for
+exploring the Netflix content library (inspired by Netflix theme),
+generating personalized recommendations, and analyzing user viewing
+activity through engaging visualizations.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-06-26T11:43:01Z</td>
+<td style="text-align: left;">2025-09-11T01:46:21Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">67</td>
 <td style="text-align: left;">R_theme</td>
 <td style="text-align: left;"><a
 href="https://github.com/guoxueyu/R_theme"
@@ -455,8 +947,8 @@ class="uri">https://github.com/guoxueyu/R_theme</a></td>
 <td style="text-align: left;">2020-11-06T12:00:30Z</td>
 <td style="text-align: left;">2020-11-06T13:15:33Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">33</td>
+<tr>
+<td style="text-align: left;">68</td>
 <td style="text-align: left;">R_utilities</td>
 <td style="text-align: left;"><a
 href="https://github.com/cortes-ciriano-lab/R_utilities"
@@ -468,8 +960,20 @@ palettes for lab usage</td>
 <td style="text-align: left;">2023-05-15T10:21:40Z</td>
 <td style="text-align: left;">2023-05-15T10:25:54Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">34</td>
+<tr>
+<td style="text-align: left;">69</td>
+<td style="text-align: left;">RestPoLLggtheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/RestPoll/RestPoLLggtheme"
+class="uri">https://github.com/RestPoll/RestPoLLggtheme</a></td>
+<td style="text-align: left;">A ggplot2 theme for RestPoLL figures</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">GNU General Public License v3.0</td>
+<td style="text-align: left;">2024-07-24T10:01:52Z</td>
+<td style="text-align: left;">2025-03-26T10:34:58Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">70</td>
 <td style="text-align: left;">Rokemon</td>
 <td style="text-align: left;"><a
 href="https://github.com/schochastics/Rokemon"
@@ -478,10 +982,10 @@ class="uri">https://github.com/schochastics/Rokemon</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2017-11-28T11:08:13Z</td>
-<td style="text-align: left;">2023-03-03T10:07:25Z</td>
+<td style="text-align: left;">2025-11-06T13:46:24Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">35</td>
+<tr>
+<td style="text-align: left;">71</td>
 <td style="text-align: left;">Rtistic</td>
 <td style="text-align: left;"><a
 href="https://github.com/emilyriederer/Rtistic"
@@ -494,10 +998,10 @@ to create their <em>own</em> package!</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Creative Commons Zero v1.0 Universal</td>
 <td style="text-align: left;">2019-05-20T11:36:46Z</td>
-<td style="text-align: left;">2023-07-11T18:18:02Z</td>
+<td style="text-align: left;">2025-10-06T09:27:48Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">36</td>
+<tr>
+<td style="text-align: left;">72</td>
 <td style="text-align: left;">Scatterplot_algorithm</td>
 <td style="text-align: left;"><a
 href="https://github.com/DanielANystrom/Scatterplot_algorithm"
@@ -512,8 +1016,8 @@ theme.</td>
 <td style="text-align: left;">2020-07-31T02:37:10Z</td>
 <td style="text-align: left;">2020-07-31T02:45:22Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">37</td>
+<tr>
+<td style="text-align: left;">73</td>
 <td style="text-align: left;">SciencesPo</td>
 <td style="text-align: left;"><a
 href="https://github.com/dmarcelinobr/SciencesPo"
@@ -525,10 +1029,10 @@ href="http://CRAN.R-project.org/package=SciencesPo"
 class="uri">http://CRAN.R-project.org/package=SciencesPo</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2015-01-05T17:33:39Z</td>
-<td style="text-align: left;">2023-07-08T03:28:18Z</td>
+<td style="text-align: left;">2025-06-25T02:28:53Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">38</td>
+<tr>
+<td style="text-align: left;">74</td>
 <td style="text-align: left;">SethsTheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/sethbilliau/SethsTheme"
@@ -540,8 +1044,8 @@ theme</td>
 <td style="text-align: left;">2021-06-17T03:51:55Z</td>
 <td style="text-align: left;">2021-06-17T15:44:38Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">39</td>
+<tr>
+<td style="text-align: left;">75</td>
 <td style="text-align: left;">StrategyUnitTheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/The-Strategy-Unit/StrategyUnitTheme"
@@ -553,10 +1057,23 @@ href="https://the-strategy-unit.github.io/StrategyUnitTheme/"
 class="uri">https://the-strategy-unit.github.io/StrategyUnitTheme/</a></td>
 <td style="text-align: left;">MIT License</td>
 <td style="text-align: left;">2019-11-18T12:41:48Z</td>
-<td style="text-align: left;">2023-06-12T08:39:42Z</td>
+<td style="text-align: left;">2025-10-14T15:40:22Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">40</td>
+<tr>
+<td style="text-align: left;">76</td>
+<td style="text-align: left;">TCR_circos</td>
+<td style="text-align: left;"><a
+href="https://github.com/aislyn/TCR_circos"
+class="uri">https://github.com/aislyn/TCR_circos</a></td>
+<td style="text-align: left;">R function to generate a circos-style
+ggplot from single-cell TCR data.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2022-01-25T00:04:38Z</td>
+<td style="text-align: left;">2023-06-09T10:32:38Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">77</td>
 <td style="text-align: left;">TetrisChart</td>
 <td style="text-align: left;"><a
 href="https://github.com/filmicaesthetic/TetrisChart"
@@ -568,24 +1085,64 @@ with ggplot2</td>
 <td style="text-align: left;">2022-01-07T17:03:44Z</td>
 <td style="text-align: left;">2022-12-30T07:10:16Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">41</td>
-<td style="text-align: left;">Tidy-Tuesday</td>
+<tr>
+<td style="text-align: left;">78</td>
+<td style="text-align: left;">Theme</td>
 <td style="text-align: left;"><a
-href="https://github.com/patcasrom/Tidy-Tuesday"
-class="uri">https://github.com/patcasrom/Tidy-Tuesday</a></td>
-<td style="text-align: left;">A weekly project that builds off
-#makeovermonday style projects but aimed at the R ecosystem. An emphasis
-will be placed on understanding how to summarize and arrange data to
-make meaningful charts with ggplot2, tidyr, dplyr, and other tools in
-the tidyverse ecosystem.</td>
+href="https://github.com/purplestat/Theme"
+class="uri">https://github.com/purplestat/Theme</a></td>
+<td style="text-align: left;">Default ggplot2 theme</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">2018-04-23T16:30:23Z</td>
-<td style="text-align: left;">2018-04-23T16:51:33Z</td>
+<td style="text-align: left;">2025-11-19T08:41:52Z</td>
+<td style="text-align: left;">2025-11-21T17:04:21Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">42</td>
+<tr>
+<td style="text-align: left;">79</td>
+<td style="text-align: left;">ThemePark</td>
+<td style="text-align: left;"><a
+href="https://github.com/MatthewBJane/ThemePark"
+class="uri">https://github.com/MatthewBJane/ThemePark</a></td>
+<td style="text-align: left;">Fun ggplot themes for popular culture</td>
+<td style="text-align: left;"><a
+href="http://matthewbjane.com/ThemePark/"
+class="uri">http://matthewbjane.com/ThemePark/</a></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2023-07-22T14:20:30Z</td>
+<td style="text-align: left;">2025-11-19T08:50:17Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">80</td>
+<td
+style="text-align: left;">Three-ggplot2-Themes-Optimized-for-the-Web</td>
+<td style="text-align: left;"><a
+href="https://github.com/binmishr/Three-ggplot2-Themes-Optimized-for-the-Web"
+class="uri">https://github.com/binmishr/Three-ggplot2-Themes-Optimized-for-the-Web</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2021-09-05T06:23:00Z</td>
+<td style="text-align: left;">2021-09-05T06:24:11Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">81</td>
+<td style="text-align: left;">USArrests</td>
+<td style="text-align: left;"><a
+href="https://github.com/grinaandmax/USArrests"
+class="uri">https://github.com/grinaandmax/USArrests</a></td>
+<td style="text-align: left;">The presentation covers the fundamentals
+of Bayesian statistics, explores Bayes’ theorem, visualizes the “US
+Arrests” dataset using ggplot2 and plotly, and demonstrates the
+application of Bayes’ theorem to predict future murders in US states
+using the “USArrests” dataset. Additionally, the code includes styling
+elements for the presentation slides.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-11-12T16:21:40Z</td>
+<td style="text-align: left;">2023-11-23T00:42:45Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">82</td>
 <td style="text-align: left;">Uber-Data-Analysis-in-R</td>
 <td style="text-align: left;"><a
 href="https://github.com/JulWebana/Uber-Data-Analysis-in-R"
@@ -630,10 +1187,41 @@ des axes et des légendes bien placés.</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2022-07-11T15:21:27Z</td>
-<td style="text-align: left;">2023-01-20T10:36:20Z</td>
+<td style="text-align: left;">2025-08-14T11:55:52Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">43</td>
+<tr>
+<td style="text-align: left;">83</td>
+<td style="text-align: left;">Using-themes-in-ggplot2</td>
+<td style="text-align: left;"><a
+href="https://github.com/binmishr/Using-themes-in-ggplot2"
+class="uri">https://github.com/binmishr/Using-themes-in-ggplot2</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2021-12-16T05:51:12Z</td>
+<td style="text-align: left;">2022-01-08T06:56:13Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">84</td>
+<td style="text-align: left;">Video-Games-Sales-EDA</td>
+<td style="text-align: left;"><a
+href="https://github.com/DeepakKumarGS/Video-Games-Sales-EDA"
+class="uri">https://github.com/DeepakKumarGS/Video-Games-Sales-EDA</a></td>
+<td style="text-align: left;">This project involves answering several
+questions like which genre has been dominating in the game
+industry,trends in gaming industry like platform,country,release year
+.This project provided an hands on indepth usage of data visualisation
+concepts and explored the various themes and highlights in R
+markdown.</td>
+<td style="text-align: left;"><a
+href="https://deepakkumargs.github.io/Video-Games-Sales-EDA/"
+class="uri">https://deepakkumargs.github.io/Video-Games-Sales-EDA/</a></td>
+<td style="text-align: left;">GNU General Public License v3.0</td>
+<td style="text-align: left;">2017-10-05T11:09:24Z</td>
+<td style="text-align: left;">2017-10-05T11:24:08Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">85</td>
 <td style="text-align: left;">aag-ggeefive</td>
 <td style="text-align: left;"><a
 href="https://github.com/g5search/aag-ggeefive"
@@ -644,8 +1232,8 @@ class="uri">https://github.com/g5search/aag-ggeefive</a></td>
 <td style="text-align: left;">2019-06-12T22:02:20Z</td>
 <td style="text-align: left;">2023-01-28T00:01:26Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">44</td>
+<tr>
+<td style="text-align: left;">86</td>
 <td style="text-align: left;">abmi.themes</td>
 <td style="text-align: left;"><a
 href="https://github.com/mabecker89/abmi.themes"
@@ -654,10 +1242,10 @@ class="uri">https://github.com/mabecker89/abmi.themes</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2020-05-03T19:18:10Z</td>
-<td style="text-align: left;">2022-09-02T03:11:24Z</td>
+<td style="text-align: left;">2024-12-12T15:03:19Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">45</td>
+<tr>
+<td style="text-align: left;">87</td>
 <td style="text-align: left;">add2ggplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/JiaxiangBU/add2ggplot"
@@ -671,8 +1259,21 @@ class="uri">https://jiaxiangbu.github.io/add2ggplot/</a></td>
 <td style="text-align: left;">2019-03-21T04:13:13Z</td>
 <td style="text-align: left;">2021-01-19T23:46:50Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">46</td>
+<tr>
+<td style="text-align: left;">88</td>
+<td style="text-align: left;">agvic_ggplot2_theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/MRWhitehead/agvic_ggplot2_theme"
+class="uri">https://github.com/MRWhitehead/agvic_ggplot2_theme</a></td>
+<td style="text-align: left;">A global plotting theme for Agriculture
+Victoria</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2022-07-28T01:25:32Z</td>
+<td style="text-align: left;">2022-07-28T01:26:59Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">89</td>
 <td style="text-align: left;">aigtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/andybridger/aigtheme"
@@ -684,8 +1285,8 @@ Ai Group Style Guide</td>
 <td style="text-align: left;">2021-01-15T01:00:37Z</td>
 <td style="text-align: left;">2021-02-26T00:58:34Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">47</td>
+<tr>
+<td style="text-align: left;">90</td>
 <td style="text-align: left;">alaplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/matildastevenson/alaplot"
@@ -697,21 +1298,8 @@ Australia charts</td>
 <td style="text-align: left;">2021-01-06T07:02:00Z</td>
 <td style="text-align: left;">2021-04-09T08:25:27Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">48</td>
-<td style="text-align: left;">alatheme</td>
-<td style="text-align: left;"><a
-href="https://github.com/AtlasOfLivingAustralia/alatheme"
-class="uri">https://github.com/AtlasOfLivingAustralia/alatheme</a></td>
-<td style="text-align: left;">R package storing ALA themes for plots
-(ggplot2), slides (xaringan) and web apps (shiny/bslib)</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">MIT License</td>
-<td style="text-align: left;">2021-02-23T00:50:28Z</td>
-<td style="text-align: left;">2021-09-03T08:48:00Z</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">49</td>
+<tr>
+<td style="text-align: left;">91</td>
 <td style="text-align: left;">anteo</td>
 <td style="text-align: left;"><a
 href="https://github.com/TysonStanley/anteo"
@@ -723,8 +1311,8 @@ to explore their data (also includes nice ggplot2 themes)</td>
 <td style="text-align: left;">2016-09-19T21:22:13Z</td>
 <td style="text-align: left;">2016-11-04T23:43:44Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">50</td>
+<tr>
+<td style="text-align: left;">92</td>
 <td style="text-align: left;">architekter</td>
 <td style="text-align: left;"><a
 href="https://github.com/ThinkR-open/architekter"
@@ -734,10 +1322,10 @@ Figma file</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2022-02-25T09:39:24Z</td>
-<td style="text-align: left;">2022-03-31T17:20:57Z</td>
+<td style="text-align: left;">2023-09-30T06:27:29Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">51</td>
+<tr>
+<td style="text-align: left;">93</td>
 <td style="text-align: left;">artyfarty</td>
 <td style="text-align: left;"><a
 href="https://github.com/datarootsio/artyfarty"
@@ -746,10 +1334,10 @@ class="uri">https://github.com/datarootsio/artyfarty</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2016-10-04T15:14:13Z</td>
-<td style="text-align: left;">2022-02-28T18:23:26Z</td>
+<td style="text-align: left;">2025-09-25T23:02:18Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">52</td>
+<tr>
+<td style="text-align: left;">94</td>
 <td style="text-align: left;">autheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/giuliogiagnoni/autheme"
@@ -762,8 +1350,8 @@ theme.</td>
 <td style="text-align: left;">2021-11-16T19:44:25Z</td>
 <td style="text-align: left;">2021-12-09T10:02:44Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">53</td>
+<tr>
+<td style="text-align: left;">95</td>
 <td style="text-align: left;">awesome-ggplot2</td>
 <td style="text-align: left;"><a
 href="https://github.com/erikgahner/awesome-ggplot2"
@@ -773,10 +1361,10 @@ tutorials, packages etc.</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2020-01-31T15:36:58Z</td>
-<td style="text-align: left;">2023-07-19T06:16:01Z</td>
+<td style="text-align: left;">2025-12-05T00:18:18Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">54</td>
+<tr>
+<td style="text-align: left;">96</td>
 <td style="text-align: left;">bbplot</td>
 <td style="text-align: left;"><a href="https://github.com/bbc/bbplot"
 class="uri">https://github.com/bbc/bbplot</a></td>
@@ -785,10 +1373,10 @@ ggplot2 charts in the style used by the BBC News data team</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2019-01-15T17:28:21Z</td>
-<td style="text-align: left;">2023-07-19T23:42:00Z</td>
+<td style="text-align: left;">2025-11-29T03:52:32Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">55</td>
+<tr>
+<td style="text-align: left;">97</td>
 <td style="text-align: left;">bcggtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/Tony-Chen-Melbourne/bcggtheme"
@@ -800,8 +1388,8 @@ style of BCG</td>
 <td style="text-align: left;">2020-08-31T10:15:43Z</td>
 <td style="text-align: left;">2020-10-19T01:48:27Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">56</td>
+<tr>
+<td style="text-align: left;">98</td>
 <td style="text-align: left;">bestcolorgraphs</td>
 <td style="text-align: left;"><a
 href="https://github.com/CocoPal/bestcolorgraphs"
@@ -812,8 +1400,20 @@ class="uri">https://github.com/CocoPal/bestcolorgraphs</a></td>
 <td style="text-align: left;">2020-12-04T20:51:45Z</td>
 <td style="text-align: left;">2020-12-04T21:12:22Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">57</td>
+<tr>
+<td style="text-align: left;">99</td>
+<td style="text-align: left;">bio-visual</td>
+<td style="text-align: left;"><a
+href="https://github.com/akatrib/bio-visual"
+class="uri">https://github.com/akatrib/bio-visual</a></td>
+<td style="text-align: left;">Collection of bio-themed data visuals</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2020-10-19T12:26:18Z</td>
+<td style="text-align: left;">2021-10-06T03:51:12Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">100</td>
 <td style="text-align: left;">biogeochemthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/biogeochem/biogeochemthemes"
@@ -825,8 +1425,8 @@ from members of the biogeochem lab.</td>
 <td style="text-align: left;">2018-02-02T02:31:27Z</td>
 <td style="text-align: left;">2020-04-22T13:49:54Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">58</td>
+<tr>
+<td style="text-align: left;">101</td>
 <td style="text-align: left;">boeCharts</td>
 <td style="text-align: left;"><a
 href="https://github.com/bank-of-england/boeCharts"
@@ -836,22 +1436,26 @@ for ‘ggplot2’</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2020-05-26T19:44:40Z</td>
-<td style="text-align: left;">2023-06-23T12:40:53Z</td>
+<td style="text-align: left;">2025-05-27T23:47:38Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">59</td>
-<td style="text-align: left;">bw166ggtheme</td>
+<tr>
+<td style="text-align: left;">102</td>
+<td style="text-align: left;">brutalviz</td>
 <td style="text-align: left;"><a
-href="https://github.com/bw166/bw166ggtheme"
-class="uri">https://github.com/bw166/bw166ggtheme</a></td>
-<td style="text-align: left;">ggplot2 theme for bw166</td>
+href="https://github.com/lrodeck/brutalviz"
+class="uri">https://github.com/lrodeck/brutalviz</a></td>
+<td style="text-align: left;">brutalviz is a collection of bold and
+beautiful ggplot2 themes that elevate your data storytelling with
+distinct visual aesthetics and Google Fonts. From sharp neo-brutalist
+grids to soft pastels and sleek dark modes, each theme is crafted for
+clarity, character, and consistency in modern data visualization.</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">2022-07-09T23:04:52Z</td>
-<td style="text-align: left;">2022-07-18T19:55:35Z</td>
+<td style="text-align: left;">2025-05-07T09:34:53Z</td>
+<td style="text-align: left;">2025-05-07T09:41:06Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">60</td>
+<tr>
+<td style="text-align: left;">103</td>
 <td style="text-align: left;">camptheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/campbead/camptheme"
@@ -862,8 +1466,33 @@ class="uri">https://github.com/campbead/camptheme</a></td>
 <td style="text-align: left;">2021-09-09T17:57:43Z</td>
 <td style="text-align: left;">2021-11-17T00:59:35Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">61</td>
+<tr>
+<td style="text-align: left;">104</td>
+<td style="text-align: left;">catplot</td>
+<td style="text-align: left;"><a
+href="https://github.com/catplot/catplot"
+class="uri">https://github.com/catplot/catplot</a></td>
+<td style="text-align: left;">Capable And Tity Plot Tools</td>
+<td style="text-align: left;"><a href="https://catplot.catplot.org"
+class="uri">https://catplot.catplot.org</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-11-14T05:09:35Z</td>
+<td style="text-align: left;">2025-11-06T20:11:17Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">105</td>
+<td style="text-align: left;">cccmthemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/unhcr-dataviz/cccmthemes"
+class="uri">https://github.com/unhcr-dataviz/cccmthemes</a></td>
+<td style="text-align: left;">CCCM branded theme for ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-09-26T11:28:05Z</td>
+<td style="text-align: left;">2024-05-06T17:24:42Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">106</td>
 <td style="text-align: left;">certeplot2</td>
 <td style="text-align: left;"><a
 href="https://github.com/certe-medical-epidemiology/certeplot2"
@@ -877,10 +1506,10 @@ href="https://certe-medical-epidemiology.github.io/certeplot2"
 class="uri">https://certe-medical-epidemiology.github.io/certeplot2</a></td>
 <td style="text-align: left;">GNU General Public License v2.0</td>
 <td style="text-align: left;">2021-10-30T13:02:51Z</td>
-<td style="text-align: left;">2023-02-15T08:52:59Z</td>
+<td style="text-align: left;">2025-11-25T14:39:33Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">62</td>
+<tr>
+<td style="text-align: left;">107</td>
 <td style="text-align: left;">cfs.viz</td>
 <td style="text-align: left;"><a
 href="https://github.com/fishsciences/cfs.viz"
@@ -892,8 +1521,25 @@ for CFS</td>
 <td style="text-align: left;">2019-03-18T19:03:22Z</td>
 <td style="text-align: left;">2019-03-18T20:00:38Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">63</td>
+<tr>
+<td style="text-align: left;">108</td>
+<td style="text-align: left;">charite</td>
+<td style="text-align: left;"><a
+href="https://github.com/johannesjuliusm/charite"
+class="uri">https://github.com/johannesjuliusm/charite</a></td>
+<td style="text-align: left;">A minimal R package which provides a
+ggplot2 theme and color definitions following the Charité corporate
+identity style guide. When using the package, please acknowledge the
+author.</td>
+<td style="text-align: left;"><a
+href="https://marke.charite.de/d/Y3FxSwD6Tz3a"
+class="uri">https://marke.charite.de/d/Y3FxSwD6Tz3a</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-04-19T00:53:12Z</td>
+<td style="text-align: left;">2025-09-23T08:58:55Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">109</td>
 <td style="text-align: left;">clcharts</td>
 <td style="text-align: left;"><a
 href="https://github.com/houseofcommonslibrary/clcharts"
@@ -904,10 +1550,10 @@ with ggplot2 in the House of Commons Library style</td>
 <td style="text-align: left;">BSD 3-Clause “New” or “Revised”
 License</td>
 <td style="text-align: left;">2020-03-20T15:24:36Z</td>
-<td style="text-align: left;">2023-01-31T16:42:22Z</td>
+<td style="text-align: left;">2025-08-30T09:16:17Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">64</td>
+<tr>
+<td style="text-align: left;">110</td>
 <td style="text-align: left;">clean-ggplot-theme</td>
 <td style="text-align: left;"><a
 href="https://github.com/aaronschiff/clean-ggplot-theme"
@@ -918,8 +1564,8 @@ class="uri">https://github.com/aaronschiff/clean-ggplot-theme</a></td>
 <td style="text-align: left;">2015-08-30T07:58:05Z</td>
 <td style="text-align: left;">2017-07-18T22:29:23Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">65</td>
+<tr>
+<td style="text-align: left;">111</td>
 <td style="text-align: left;">clplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/olihawkins/clplot"
@@ -932,8 +1578,23 @@ License</td>
 <td style="text-align: left;">2019-03-27T13:44:11Z</td>
 <td style="text-align: left;">2020-03-19T16:20:51Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">66</td>
+<tr>
+<td style="text-align: left;">112</td>
+<td style="text-align: left;">cmapplot</td>
+<td style="text-align: left;"><a
+href="https://github.com/CMAP-REPOS/cmapplot"
+class="uri">https://github.com/CMAP-REPOS/cmapplot</a></td>
+<td style="text-align: left;">Set of templates and themes to apply CMAP
+graphics standards to R products.</td>
+<td style="text-align: left;"><a
+href="https://cmap-repos.github.io/cmapplot/"
+class="uri">https://cmap-repos.github.io/cmapplot/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2019-12-10T15:25:18Z</td>
+<td style="text-align: left;">2025-11-26T22:13:41Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">113</td>
 <td style="text-align: left;">coffeegeeks</td>
 <td style="text-align: left;"><a
 href="https://github.com/RMHogervorst/coffeegeeks"
@@ -944,8 +1605,8 @@ class="uri">https://github.com/RMHogervorst/coffeegeeks</a></td>
 <td style="text-align: left;">2017-08-13T16:01:48Z</td>
 <td style="text-align: left;">2017-09-16T15:00:37Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">67</td>
+<tr>
+<td style="text-align: left;">114</td>
 <td style="text-align: left;">comotheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/como-ph/comotheme"
@@ -956,8 +1617,8 @@ class="uri">https://github.com/como-ph/comotheme</a></td>
 <td style="text-align: left;">2020-05-25T19:45:59Z</td>
 <td style="text-align: left;">2020-06-19T13:32:04Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">68</td>
+<tr>
+<td style="text-align: left;">115</td>
 <td style="text-align: left;">cowplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/wilkelab/cowplot"
@@ -968,10 +1629,10 @@ Annotations for ggplot2</td>
 class="uri">https://wilkelab.org/cowplot/</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2014-10-05T16:34:22Z</td>
-<td style="text-align: left;">2023-07-21T21:49:01Z</td>
+<td style="text-align: left;">2025-12-03T13:10:46Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">69</td>
+<tr>
+<td style="text-align: left;">116</td>
 <td style="text-align: left;">cowplot</td>
 <td style="text-align: left;"><a href="https://github.com/cran/cowplot"
 class="uri">https://github.com/cran/cowplot</a></td>
@@ -986,10 +1647,10 @@ class="uri">https://github.com/wilkelab/cowplot/issues</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2015-06-03T18:43:46Z</td>
-<td style="text-align: left;">2020-12-31T11:38:13Z</td>
+<td style="text-align: left;">2025-07-07T19:31:23Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">70</td>
+<tr>
+<td style="text-align: left;">117</td>
 <td style="text-align: left;">cplthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/californiapolicylab/cplthemes"
@@ -1000,8 +1661,8 @@ class="uri">https://github.com/californiapolicylab/cplthemes</a></td>
 <td style="text-align: left;">2021-07-09T20:56:54Z</td>
 <td style="text-align: left;">2021-08-12T16:10:36Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">71</td>
+<tr>
+<td style="text-align: left;">118</td>
 <td style="text-align: left;">crthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/christyray/crthemes"
@@ -1013,8 +1674,8 @@ Visualizations</td>
 <td style="text-align: left;">2021-12-11T04:28:44Z</td>
 <td style="text-align: left;">2023-01-24T23:50:17Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">72</td>
+<tr>
+<td style="text-align: left;">119</td>
 <td style="text-align: left;">csafethemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/CSAFE-ISU/csafethemes"
@@ -1025,10 +1686,24 @@ plots. (With apologies to Ricardo Bion and the ggtech package.)</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2018-06-14T21:57:29Z</td>
-<td style="text-align: left;">2019-01-25T19:52:04Z</td>
+<td style="text-align: left;">2025-08-26T14:54:33Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">73</td>
+<tr>
+<td style="text-align: left;">120</td>
+<td style="text-align: left;">cubethemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/zerogetsamgow/cubethemes"
+class="uri">https://github.com/zerogetsamgow/cubethemes</a></td>
+<td style="text-align: left;">Themes for cubies to create great data
+visualisations in ggplot2.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Creative Commons Attribution 4.0
+International</td>
+<td style="text-align: left;">2024-02-13T05:54:31Z</td>
+<td style="text-align: left;">2024-10-01T10:55:05Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">121</td>
 <td style="text-align: left;">customThemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/michaellevy/customThemes"
@@ -1039,8 +1714,8 @@ class="uri">https://github.com/michaellevy/customThemes</a></td>
 <td style="text-align: left;">2016-12-13T19:36:57Z</td>
 <td style="text-align: left;">2016-12-13T19:38:22Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">74</td>
+<tr>
+<td style="text-align: left;">122</td>
 <td style="text-align: left;">cyberpunk</td>
 <td style="text-align: left;"><a
 href="https://github.com/R-CoderDotCom/cyberpunk"
@@ -1050,10 +1725,48 @@ graphs with R based on ggplot2</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">MIT License</td>
 <td style="text-align: left;">2020-12-03T13:51:59Z</td>
-<td style="text-align: left;">2022-10-19T14:20:57Z</td>
+<td style="text-align: left;">2025-08-23T11:06:15Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">75</td>
+<tr>
+<td style="text-align: left;">123</td>
+<td style="text-align: left;">cyberpunk</td>
+<td style="text-align: left;"><a
+href="https://github.com/SodiumMan91/cyberpunk"
+class="uri">https://github.com/SodiumMan91/cyberpunk</a></td>
+<td style="text-align: left;">Cyberpunk / Neon theme for ggplot2
+graphs</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-10-02T23:42:31Z</td>
+<td style="text-align: left;">2024-11-20T00:21:01Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">124</td>
+<td style="text-align: left;">dRacula</td>
+<td style="text-align: left;"><a
+href="https://github.com/dracula/dRacula"
+class="uri">https://github.com/dracula/dRacula</a></td>
+<td style="text-align: left;">🧛🏻‍♂️ Dark theme for R</td>
+<td style="text-align: left;"><a href="https://draculatheme.com/R"
+class="uri">https://draculatheme.com/R</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2021-11-28T00:24:17Z</td>
+<td style="text-align: left;">2025-10-06T09:37:37Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">125</td>
+<td style="text-align: left;">dark</td>
+<td style="text-align: left;"><a
+href="https://github.com/marlowe2332/dark"
+class="uri">https://github.com/marlowe2332/dark</a></td>
+<td style="text-align: left;">Dark mode for ggplot2 themes</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-09-16T10:09:54Z</td>
+<td style="text-align: left;">2025-09-19T02:59:33Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">126</td>
 <td style="text-align: left;">dash_theme</td>
 <td style="text-align: left;"><a
 href="https://github.com/DashWieland/dash_theme"
@@ -1064,8 +1777,8 @@ class="uri">https://github.com/DashWieland/dash_theme</a></td>
 <td style="text-align: left;">2019-04-03T17:02:02Z</td>
 <td style="text-align: left;">2019-05-02T12:08:20Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">76</td>
+<tr>
+<td style="text-align: left;">127</td>
 <td style="text-align: left;">datademon</td>
 <td style="text-align: left;"><a
 href="https://github.com/medewitt/datademon"
@@ -1076,21 +1789,21 @@ class="uri">https://github.com/medewitt/datademon</a></td>
 <td style="text-align: left;">2017-10-04T13:04:32Z</td>
 <td style="text-align: left;">2019-01-16T19:42:01Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">77</td>
-<td style="text-align: left;">datavizExtras</td>
+<tr>
+<td style="text-align: left;">128</td>
+<td style="text-align: left;">dataviz_ggplot2_themes</td>
 <td style="text-align: left;"><a
-href="https://github.com/JanLMoffett/datavizExtras"
-class="uri">https://github.com/JanLMoffett/datavizExtras</a></td>
-<td style="text-align: left;">Colors, Themes and Functions to use with
-ggplot2 for R.</td>
+href="https://github.com/UNSW-codeRs/dataviz_ggplot2_themes"
+class="uri">https://github.com/UNSW-codeRs/dataviz_ggplot2_themes</a></td>
+<td style="text-align: left;">Repository to store workshop materials for
+dataviz workshop</td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">Apache License 2.0</td>
-<td style="text-align: left;">2022-04-27T13:09:05Z</td>
-<td style="text-align: left;">2022-05-16T18:51:37Z</td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2022-09-09T04:58:43Z</td>
+<td style="text-align: left;">2022-09-09T04:58:43Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">78</td>
+<tr>
+<td style="text-align: left;">129</td>
 <td style="text-align: left;">ddplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/DD-Story-Hub/ddplot"
@@ -1102,8 +1815,8 @@ style✨</td>
 <td style="text-align: left;">2020-10-04T15:25:37Z</td>
 <td style="text-align: left;">2021-03-09T15:29:21Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">79</td>
+<tr>
+<td style="text-align: left;">130</td>
 <td style="text-align: left;">ddthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/markjrieke/ddthemes"
@@ -1115,8 +1828,8 @@ ggplot2</td>
 <td style="text-align: left;">2021-09-21T20:04:59Z</td>
 <td style="text-align: left;">2021-09-22T13:23:08Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">80</td>
+<tr>
+<td style="text-align: left;">131</td>
 <td style="text-align: left;">delgosha</td>
 <td style="text-align: left;"><a
 href="https://github.com/mcnakhaee/delgosha"
@@ -1126,10 +1839,10 @@ collection of ggplot2 themes for RTL languages (mostly Persian)</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-08-11T10:46:13Z</td>
-<td style="text-align: left;">2022-06-24T18:53:18Z</td>
+<td style="text-align: left;">2024-04-19T15:32:55Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">81</td>
+<tr>
+<td style="text-align: left;">132</td>
 <td style="text-align: left;">diarieducaciotheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/vicoliveres/diarieducaciotheme"
@@ -1141,8 +1854,8 @@ Educació style.</td>
 <td style="text-align: left;">2018-08-23T09:20:10Z</td>
 <td style="text-align: left;">2018-08-23T13:53:31Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">82</td>
+<tr>
+<td style="text-align: left;">133</td>
 <td style="text-align: left;">djprtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/djsir-data/djprtheme"
@@ -1152,10 +1865,23 @@ Department of Jobs, Precincts and Regions</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2021-03-26T02:18:57Z</td>
-<td style="text-align: left;">2022-07-28T01:53:38Z</td>
+<td style="text-align: left;">2024-05-07T08:47:05Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">83</td>
+<tr>
+<td style="text-align: left;">134</td>
+<td style="text-align: left;">dof-theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/econosopher/dof-theme"
+class="uri">https://github.com/econosopher/dof-theme</a></td>
+<td style="text-align: left;">A style guide and theme for “Deconstructor
+of Fun” in ggplot2.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-07-19T17:50:21Z</td>
+<td style="text-align: left;">2025-08-27T08:48:34Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">135</td>
 <td style="text-align: left;">dqnTheme</td>
 <td style="text-align: left;"><a href="https://github.com/d-qn/dqnTheme"
 class="uri">https://github.com/d-qn/dqnTheme</a></td>
@@ -1163,10 +1889,10 @@ class="uri">https://github.com/d-qn/dqnTheme</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2018-07-30T12:55:33Z</td>
-<td style="text-align: left;">2021-11-08T08:18:03Z</td>
+<td style="text-align: left;">2025-11-05T20:22:16Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">84</td>
+<tr>
+<td style="text-align: left;">136</td>
 <td style="text-align: left;">drat</td>
 <td style="text-align: left;"><a href="https://github.com/inbo/drat"
 class="uri">https://github.com/inbo/drat</a></td>
@@ -1178,8 +1904,8 @@ class="uri">http://inbo.github.io/drat</a></td>
 <td style="text-align: left;">2017-07-13T07:54:30Z</td>
 <td style="text-align: left;">2020-01-30T13:25:52Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">85</td>
+<tr>
+<td style="text-align: left;">137</td>
 <td style="text-align: left;">eafithemer</td>
 <td style="text-align: left;"><a
 href="https://github.com/camilogarciabotero/eafithemer"
@@ -1194,8 +1920,23 @@ v3.0</td>
 <td style="text-align: left;">2021-02-04T15:44:52Z</td>
 <td style="text-align: left;">2021-08-26T22:15:43Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">86</td>
+<tr>
+<td style="text-align: left;">138</td>
+<td style="text-align: left;">east-R-art</td>
+<td style="text-align: left;"><a
+href="https://github.com/AdamSpannbauer/east-R-art"
+class="uri">https://github.com/AdamSpannbauer/east-R-art</a></td>
+<td style="text-align: left;">A class art with R demo with an egg theme
+🥚🐰</td>
+<td style="text-align: left;"><a
+href="https://adamspannbauer.github.io/east-R-art/"
+class="uri">https://adamspannbauer.github.io/east-R-art/</a></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2024-03-27T11:11:04Z</td>
+<td style="text-align: left;">2024-03-27T11:15:54Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">139</td>
 <td style="text-align: left;">ebviz</td>
 <td style="text-align: left;"><a
 href="https://github.com/j-effendy/ebviz"
@@ -1208,8 +1949,21 @@ book.</td>
 <td style="text-align: left;">2021-10-04T09:33:28Z</td>
 <td style="text-align: left;">2022-02-23T22:01:59Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">87</td>
+<tr>
+<td style="text-align: left;">140</td>
+<td style="text-align: left;">echart-ggplot-style</td>
+<td style="text-align: left;"><a
+href="https://github.com/hvanphucs/echart-ggplot-style"
+class="uri">https://github.com/hvanphucs/echart-ggplot-style</a></td>
+<td style="text-align: left;">High-quality, publication-ready charts
+using Apache ECharts, inspired by the aesthetics of ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Apache License 2.0</td>
+<td style="text-align: left;">2025-07-31T04:33:22Z</td>
+<td style="text-align: left;">2025-07-31T04:35:55Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">141</td>
 <td style="text-align: left;">eclthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/eclarke/eclthemes"
@@ -1220,8 +1974,23 @@ class="uri">https://github.com/eclarke/eclthemes</a></td>
 <td style="text-align: left;">2015-10-01T15:06:36Z</td>
 <td style="text-align: left;">2015-10-01T15:07:26Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">88</td>
+<tr>
+<td style="text-align: left;">142</td>
+<td style="text-align: left;">economist-visualization</td>
+<td style="text-align: left;"><a
+href="https://github.com/saiganeshgandi/economist-visualization"
+class="uri">https://github.com/saiganeshgandi/economist-visualization</a></td>
+<td style="text-align: left;">Data visualization in R using the
+Economist dataset to explore the relationship between CPI and HDI.
+Includes scatterplots, regression analysis, and annotated country labels
+with professional ggplot2 styling.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-09-19T14:46:49Z</td>
+<td style="text-align: left;">2025-09-19T14:58:53Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">143</td>
 <td style="text-align: left;">ectrlplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/euctrl-pru/ectrlplot"
@@ -1229,14 +1998,14 @@ class="uri">https://github.com/euctrl-pru/ectrlplot</a></td>
 <td style="text-align: left;">R 📦 to create ggplot2 graphics styled by
 the PRU team</td>
 <td style="text-align: left;"><a
-href="http://ectrlplot.ansperformance.eu/"
-class="uri">http://ectrlplot.ansperformance.eu/</a></td>
+href="https://ectrlplot.ansperformance.eu/"
+class="uri">https://ectrlplot.ansperformance.eu/</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2019-02-18T13:22:38Z</td>
-<td style="text-align: left;">2021-12-01T16:01:30Z</td>
+<td style="text-align: left;">2024-10-24T06:39:20Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">89</td>
+<tr>
+<td style="text-align: left;">144</td>
 <td style="text-align: left;">egg</td>
 <td style="text-align: left;"><a href="https://github.com/cran/egg"
 class="uri">https://github.com/cran/egg</a></td>
@@ -1248,8 +2017,8 @@ egg — Extensions for ‘ggplot2’: Custom Geom, Custom Themes, Plot�
 <td style="text-align: left;">2017-09-12T17:21:02Z</td>
 <td style="text-align: left;">2020-07-03T20:44:55Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">90</td>
+<tr>
+<td style="text-align: left;">145</td>
 <td style="text-align: left;">elementalist</td>
 <td style="text-align: left;"><a
 href="https://github.com/teunbrand/elementalist"
@@ -1261,10 +2030,24 @@ href="https://teunbrand.github.io/elementalist/"
 class="uri">https://teunbrand.github.io/elementalist/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-06-29T16:12:02Z</td>
-<td style="text-align: left;">2023-03-10T01:28:07Z</td>
+<td style="text-align: left;">2025-07-29T01:50:38Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">91</td>
+<tr>
+<td style="text-align: left;">146</td>
+<td style="text-align: left;">emwthemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/emmarshall/emwthemes"
+class="uri">https://github.com/emmarshall/emwthemes</a></td>
+<td style="text-align: left;">Personal ggplot2 themes</td>
+<td style="text-align: left;"><a
+href="https://emmarshall.github.io/emwthemes/"
+class="uri">https://emmarshall.github.io/emwthemes/</a></td>
+<td style="text-align: left;">Creative Commons Zero v1.0 Universal</td>
+<td style="text-align: left;">2024-01-11T03:54:04Z</td>
+<td style="text-align: left;">2024-10-26T17:23:17Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">147</td>
 <td style="text-align: left;">envreportutils</td>
 <td style="text-align: left;"><a
 href="https://github.com/bcgov/envreportutils"
@@ -1274,10 +2057,10 @@ other functions related to Environmental Reporting BC work flows</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Apache License 2.0</td>
 <td style="text-align: left;">2015-04-24T22:29:40Z</td>
-<td style="text-align: left;">2022-06-29T17:27:13Z</td>
+<td style="text-align: left;">2025-08-22T21:40:12Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">92</td>
+<tr>
+<td style="text-align: left;">148</td>
 <td style="text-align: left;">epinionDSB</td>
 <td style="text-align: left;"><a
 href="https://github.com/jvieroe/epinionDSB"
@@ -1289,8 +2072,37 @@ Epinion staff</td>
 <td style="text-align: left;">2021-09-24T08:52:42Z</td>
 <td style="text-align: left;">2021-11-11T18:08:36Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">93</td>
+<tr>
+<td style="text-align: left;">149</td>
+<td style="text-align: left;">esctheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/ESC-Economics/esctheme"
+class="uri">https://github.com/ESC-Economics/esctheme</a></td>
+<td style="text-align: left;">Create ggplot2 charts in the Essential
+Services Commission style</td>
+<td style="text-align: left;"><a
+href="https://esc-economics.github.io/esctheme/"
+class="uri">https://esc-economics.github.io/esctheme/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-03-13T05:31:35Z</td>
+<td style="text-align: left;">2025-11-29T23:27:52Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">150</td>
+<td style="text-align: left;">euissR</td>
+<td style="text-align: left;"><a
+href="https://github.com/cdtrich/euissR"
+class="uri">https://github.com/cdtrich/euissR</a></td>
+<td style="text-align: left;">Custom ggplot2 theme, geoms and color
+palettes to reflect the visual identity of the EU Institute for Security
+Studies.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2022-03-24T16:08:11Z</td>
+<td style="text-align: left;">2025-11-19T08:52:45Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">151</td>
 <td style="text-align: left;">ewenthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/ewenme/ewenthemes"
@@ -1299,10 +2111,10 @@ class="uri">https://github.com/ewenme/ewenthemes</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2019-05-27T20:03:15Z</td>
-<td style="text-align: left;">2023-03-07T00:33:55Z</td>
+<td style="text-align: left;">2025-01-31T06:51:10Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">94</td>
+<tr>
+<td style="text-align: left;">152</td>
 <td style="text-align: left;">fazhthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/fazepher/fazhthemes"
@@ -1315,8 +2127,8 @@ class="uri">https://fazepher.github.io/fazhthemes/</a></td>
 <td style="text-align: left;">2020-08-17T02:11:09Z</td>
 <td style="text-align: left;">2020-08-17T17:17:04Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">95</td>
+<tr>
+<td style="text-align: left;">153</td>
 <td style="text-align: left;">fedplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/sergiocorreia/fedplot"
@@ -1328,10 +2140,10 @@ href="https://sergiocorreia.github.io/fedplot"
 class="uri">https://sergiocorreia.github.io/fedplot</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2023-05-17T05:13:32Z</td>
-<td style="text-align: left;">2023-06-04T18:57:40Z</td>
+<td style="text-align: left;">2025-04-14T00:33:22Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">96</td>
+<tr>
+<td style="text-align: left;">154</td>
 <td style="text-align: left;">fheatmap</td>
 <td style="text-align: left;"><a
 href="https://github.com/sentisci/fheatmap"
@@ -1348,8 +2160,8 @@ font) of texts in the plot.</td>
 <td style="text-align: left;">2015-05-06T15:40:08Z</td>
 <td style="text-align: left;">2022-02-02T10:36:35Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">97</td>
+<tr>
+<td style="text-align: left;">155</td>
 <td style="text-align: left;">fiegeVizr</td>
 <td style="text-align: left;"><a
 href="https://github.com/quickcoffee/fiegeVizr"
@@ -1361,8 +2173,8 @@ theme</td>
 <td style="text-align: left;">2020-07-29T13:04:45Z</td>
 <td style="text-align: left;">2020-07-31T12:41:43Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">98</td>
+<tr>
+<td style="text-align: left;">156</td>
 <td style="text-align: left;">fiero</td>
 <td style="text-align: left;"><a href="https://github.com/jvieroe/fiero"
 class="uri">https://github.com/jvieroe/fiero</a></td>
@@ -1372,8 +2184,8 @@ class="uri">https://github.com/jvieroe/fiero</a></td>
 <td style="text-align: left;">2021-10-30T14:10:53Z</td>
 <td style="text-align: left;">2021-10-30T14:13:59Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">99</td>
+<tr>
+<td style="text-align: left;">157</td>
 <td style="text-align: left;">firatheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/vankesteren/firatheme"
@@ -1382,10 +2194,10 @@ class="uri">https://github.com/vankesteren/firatheme</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2018-03-14T22:45:05Z</td>
-<td style="text-align: left;">2023-06-11T21:04:05Z</td>
+<td style="text-align: left;">2025-12-05T16:08:36Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">100</td>
+<tr>
+<td style="text-align: left;">158</td>
 <td style="text-align: left;">fmeireles</td>
 <td style="text-align: left;"><a
 href="https://github.com/meirelesff/fmeireles"
@@ -1396,8 +2208,8 @@ class="uri">https://github.com/meirelesff/fmeireles</a></td>
 <td style="text-align: left;">2016-09-28T21:45:25Z</td>
 <td style="text-align: left;">2017-02-17T12:04:06Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">101</td>
+<tr>
+<td style="text-align: left;">159</td>
 <td style="text-align: left;">fontHind</td>
 <td style="text-align: left;"><a
 href="https://github.com/bhaskarvk/fontHind"
@@ -1411,8 +2223,8 @@ class="uri">https://bhaskarvk.github.io/fontHind/</a></td>
 <td style="text-align: left;">2017-02-23T17:23:40Z</td>
 <td style="text-align: left;">2023-01-28T06:13:57Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">102</td>
+<tr>
+<td style="text-align: left;">160</td>
 <td style="text-align: left;">fontHind</td>
 <td style="text-align: left;"><a href="https://github.com/cran/fontHind"
 class="uri">https://github.com/cran/fontHind</a></td>
@@ -1429,8 +2241,8 @@ class="uri">https://github.com/bhaskarvk/fontHind/issues</a></td>
 <td style="text-align: left;">2017-02-27T07:18:18Z</td>
 <td style="text-align: left;">2020-07-09T01:02:22Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">103</td>
+<tr>
+<td style="text-align: left;">161</td>
 <td style="text-align: left;">fontMPlus</td>
 <td style="text-align: left;"><a
 href="https://github.com/bhaskarvk/fontMPlus"
@@ -1441,10 +2253,10 @@ href="https://bhaskarvk.github.io/fontMPlus/"
 class="uri">https://bhaskarvk.github.io/fontMPlus/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2017-02-26T16:06:10Z</td>
-<td style="text-align: left;">2023-01-28T06:13:57Z</td>
+<td style="text-align: left;">2025-03-22T11:18:16Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">104</td>
+<tr>
+<td style="text-align: left;">162</td>
 <td style="text-align: left;">fontMPlus</td>
 <td style="text-align: left;"><a
 href="https://github.com/cran/fontMPlus"
@@ -1462,8 +2274,8 @@ class="uri">https://github.com/bhaskarvk/fontMPlus/issues</a></td>
 <td style="text-align: left;">2017-02-27T07:18:21Z</td>
 <td style="text-align: left;">2017-02-27T07:18:25Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">105</td>
+<tr>
+<td style="text-align: left;">163</td>
 <td style="text-align: left;">fwthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/FlowWest/fwthemes"
@@ -1474,8 +2286,24 @@ class="uri">https://github.com/FlowWest/fwthemes</a></td>
 <td style="text-align: left;">2020-03-25T17:26:03Z</td>
 <td style="text-align: left;">2020-03-25T17:31:26Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">106</td>
+<tr>
+<td style="text-align: left;">164</td>
+<td style="text-align: left;">gem-r-cookbook</td>
+<td style="text-align: left;"><a
+href="https://github.com/GlobalEnergyMonitor/gem-r-cookbook"
+class="uri">https://github.com/GlobalEnergyMonitor/gem-r-cookbook</a></td>
+<td style="text-align: left;">Reference manual for creating GEM-style
+graphics using the gemplot package built on top of R’s ggplot2
+library</td>
+<td style="text-align: left;"><a
+href="https://globalenergymonitor.github.io/gem-r-cookbook/"
+class="uri">https://globalenergymonitor.github.io/gem-r-cookbook/</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-07-08T07:59:23Z</td>
+<td style="text-align: left;">2024-07-08T09:11:38Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">165</td>
 <td style="text-align: left;">ggCHE</td>
 <td style="text-align: left;"><a
 href="https://github.com/IndianaCHE/ggCHE"
@@ -1486,8 +2314,20 @@ class="uri">https://github.com/IndianaCHE/ggCHE</a></td>
 <td style="text-align: left;">2017-12-20T16:48:19Z</td>
 <td style="text-align: left;">2017-12-20T16:48:42Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">107</td>
+<tr>
+<td style="text-align: left;">166</td>
+<td style="text-align: left;">ggCheysson</td>
+<td style="text-align: left;"><a
+href="https://github.com/friendly/ggCheysson"
+class="uri">https://github.com/friendly/ggCheysson</a></td>
+<td style="text-align: left;">Styles of Emile Cheysson for ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">GNU General Public License v3.0</td>
+<td style="text-align: left;">2023-10-23T16:02:33Z</td>
+<td style="text-align: left;">2023-10-29T09:39:20Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">167</td>
 <td style="text-align: left;">ggGalactic</td>
 <td style="text-align: left;"><a
 href="https://github.com/galacticpolymath/ggGalactic"
@@ -1499,8 +2339,8 @@ ggplot2-based Galactic Polymath asset development</td>
 <td style="text-align: left;">2020-04-24T17:10:45Z</td>
 <td style="text-align: left;">2021-02-10T17:50:04Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">108</td>
+<tr>
+<td style="text-align: left;">168</td>
 <td style="text-align: left;">ggNorthwestern</td>
 <td style="text-align: left;"><a
 href="https://github.com/chang/ggNorthwestern"
@@ -1512,8 +2352,8 @@ colors.</td>
 <td style="text-align: left;">2017-10-10T02:27:44Z</td>
 <td style="text-align: left;">2017-10-10T08:15:11Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">109</td>
+<tr>
+<td style="text-align: left;">169</td>
 <td style="text-align: left;">ggOBI</td>
 <td style="text-align: left;"><a
 href="https://github.com/markusntz/ggOBI"
@@ -1525,8 +2365,8 @@ the Data Vizualisation course</td>
 <td style="text-align: left;">2018-04-26T07:21:06Z</td>
 <td style="text-align: left;">2020-01-11T15:29:51Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">110</td>
+<tr>
+<td style="text-align: left;">170</td>
 <td style="text-align: left;">ggRetro</td>
 <td style="text-align: left;"><a
 href="https://github.com/albert-ying/ggRetro"
@@ -1537,8 +2377,35 @@ class="uri">https://github.com/albert-ying/ggRetro</a></td>
 <td style="text-align: left;">2021-10-21T01:03:18Z</td>
 <td style="text-align: left;">2021-11-12T07:04:59Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">111</td>
+<tr>
+<td style="text-align: left;">171</td>
+<td style="text-align: left;">ggSketch</td>
+<td style="text-align: left;"><a
+href="https://github.com/Jiawang1209/ggSketch"
+class="uri">https://github.com/Jiawang1209/ggSketch</a></td>
+<td style="text-align: left;">ggSketch is an R package that transforms
+photos into sketch-style contour drawings using the grammar of
+ggplot2.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-11-22T14:57:58Z</td>
+<td style="text-align: left;">2025-11-28T07:24:54Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">172</td>
+<td style="text-align: left;">ggStarRail</td>
+<td style="text-align: left;"><a
+href="https://github.com/GuoXiang9399/ggStarRail"
+class="uri">https://github.com/GuoXiang9399/ggStarRail</a></td>
+<td style="text-align: left;">StarRail themed color palettes for
+ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">GNU General Public License v3.0</td>
+<td style="text-align: left;">2024-04-01T07:19:21Z</td>
+<td style="text-align: left;">2024-05-22T05:57:59Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">173</td>
 <td style="text-align: left;">ggThemeAssist</td>
 <td style="text-align: left;"><a
 href="https://github.com/cran/ggThemeAssist"
@@ -1553,8 +2420,8 @@ class="uri">https://github.com/calligross/ggthemeassist</a></td>
 <td style="text-align: left;">2016-03-09T14:22:40Z</td>
 <td style="text-align: left;">2016-08-13T14:54:41Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">112</td>
+<tr>
+<td style="text-align: left;">174</td>
 <td style="text-align: left;">ggThemeScanpy</td>
 <td style="text-align: left;"><a
 href="https://github.com/GreshamLab/ggThemeScanpy"
@@ -1566,8 +2433,21 @@ outputs</td>
 <td style="text-align: left;">2021-03-31T16:00:40Z</td>
 <td style="text-align: left;">2021-05-02T21:10:35Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">113</td>
+<tr>
+<td style="text-align: left;">175</td>
+<td style="text-align: left;">ggautothemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/lukastay/ggautothemes"
+class="uri">https://github.com/lukastay/ggautothemes</a></td>
+<td style="text-align: left;">Takes in your ggplot2 graph and outputs a
+plot of multiple themes.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-08-09T07:29:18Z</td>
+<td style="text-align: left;">2025-02-07T16:59:01Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">176</td>
 <td style="text-align: left;">ggbeeswarm2</td>
 <td style="text-align: left;"><a
 href="https://github.com/csdaw/ggbeeswarm2"
@@ -1579,8 +2459,21 @@ ggplot2</td>
 <td style="text-align: left;">2020-07-18T17:01:57Z</td>
 <td style="text-align: left;">2023-04-22T12:56:15Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">114</td>
+<tr>
+<td style="text-align: left;">177</td>
+<td style="text-align: left;">ggbrick</td>
+<td style="text-align: left;"><a href="https://github.com/cran/ggbrick"
+class="uri">https://github.com/cran/ggbrick</a></td>
+<td
+style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
+ggbrick — Waffle Style Chart with a Brick Layout in ‘ggplot2’</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-03-15T02:31:58Z</td>
+<td style="text-align: left;">2025-09-15T03:50:35Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">178</td>
 <td style="text-align: left;">ggcertara</td>
 <td style="text-align: left;"><a
 href="https://github.com/certara/ggcertara"
@@ -1589,10 +2482,10 @@ class="uri">https://github.com/certara/ggcertara</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2019-02-05T19:40:49Z</td>
-<td style="text-align: left;">2022-06-19T11:46:53Z</td>
+<td style="text-align: left;">2025-06-09T22:05:31Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">115</td>
+<tr>
+<td style="text-align: left;">179</td>
 <td style="text-align: left;">ggclump</td>
 <td style="text-align: left;"><a
 href="https://github.com/jimjam-slam/ggclump"
@@ -1604,21 +2497,39 @@ simulation going in ggplot2.</td>
 <td style="text-align: left;">2018-05-18T07:13:38Z</td>
 <td style="text-align: left;">2018-05-18T07:23:59Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">116</td>
+<tr>
+<td style="text-align: left;">180</td>
+<td style="text-align: left;">ggcognigen</td>
+<td style="text-align: left;"><a
+href="https://github.com/simulations-plus/ggcognigen"
+class="uri">https://github.com/simulations-plus/ggcognigen</a></td>
+<td style="text-align: left;">Geoms, themes, styles, and helper
+functions for ggplot2 at the Clinical Pharmacology and Pharmacometrics
+business unit of Simulations Plus, Inc</td>
+<td style="text-align: left;"><a
+href="https://simulations-plus.github.io/ggcognigen/"
+class="uri">https://simulations-plus.github.io/ggcognigen/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-08-10T01:47:19Z</td>
+<td style="text-align: left;">2024-07-09T19:35:37Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">181</td>
 <td style="text-align: left;">ggcolormeter</td>
 <td style="text-align: left;"><a
 href="https://github.com/yjunechoe/ggcolormeter"
 class="uri">https://github.com/yjunechoe/ggcolormeter</a></td>
 <td style="text-align: left;">A ggplot2 color/fill legend guide
 extension in the style of a dashboard meter</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><a
+href="https://yjunechoe.github.io/ggcolormeter/"
+class="uri">https://yjunechoe.github.io/ggcolormeter/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2022-06-13T08:46:02Z</td>
-<td style="text-align: left;">2023-06-16T17:42:09Z</td>
+<td style="text-align: left;">2024-10-21T20:50:08Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">117</td>
+<tr>
+<td style="text-align: left;">182</td>
 <td style="text-align: left;">ggconf</td>
 <td style="text-align: left;"><a
 href="https://github.com/caprice-j/ggconf"
@@ -1630,8 +2541,8 @@ ggplot2</td>
 <td style="text-align: left;">2017-08-25T03:09:05Z</td>
 <td style="text-align: left;">2020-02-12T10:07:30Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">118</td>
+<tr>
+<td style="text-align: left;">183</td>
 <td style="text-align: left;">ggcorpthemer</td>
 <td style="text-align: left;"><a
 href="https://github.com/mjfrigaard/ggcorpthemer"
@@ -1643,8 +2554,20 @@ ggplot2</td>
 <td style="text-align: left;">2022-02-07T17:49:49Z</td>
 <td style="text-align: left;">2022-02-07T17:49:49Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">119</td>
+<tr>
+<td style="text-align: left;">184</td>
+<td style="text-align: left;">ggcustom</td>
+<td style="text-align: left;"><a
+href="https://github.com/jhuovari/ggcustom"
+class="uri">https://github.com/jhuovari/ggcustom</a></td>
+<td style="text-align: left;">Custom ggplot2 Themes and Scales</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-11-13T14:56:01Z</td>
+<td style="text-align: left;">2025-10-09T12:29:02Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">185</td>
 <td style="text-align: left;">ggdark</td>
 <td style="text-align: left;"><a
 href="https://github.com/nsgrantham/ggdark"
@@ -1653,10 +2576,10 @@ class="uri">https://github.com/nsgrantham/ggdark</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2018-09-18T15:35:43Z</td>
-<td style="text-align: left;">2023-07-07T06:52:48Z</td>
+<td style="text-align: left;">2025-11-01T09:28:49Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">120</td>
+<tr>
+<td style="text-align: left;">186</td>
 <td style="text-align: left;">ggdark</td>
 <td style="text-align: left;"><a href="https://github.com/cran/ggdark"
 class="uri">https://github.com/cran/ggdark</a></td>
@@ -1668,8 +2591,8 @@ ggdark — Dark Mode for ‘ggplot2’ Themes</td>
 <td style="text-align: left;">2019-01-11T17:32:46Z</td>
 <td style="text-align: left;">2020-07-09T01:04:21Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">121</td>
+<tr>
+<td style="text-align: left;">187</td>
 <td style="text-align: left;">ggdc</td>
 <td style="text-align: left;"><a href="https://github.com/datacamp/ggdc"
 class="uri">https://github.com/datacamp/ggdc</a></td>
@@ -1677,10 +2600,10 @@ class="uri">https://github.com/datacamp/ggdc</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">MIT License</td>
 <td style="text-align: left;">2017-12-28T22:58:41Z</td>
-<td style="text-align: left;">2023-05-31T01:53:59Z</td>
+<td style="text-align: left;">2025-02-28T11:30:15Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">122</td>
+<tr>
+<td style="text-align: left;">188</td>
 <td style="text-align: left;">ggdecor</td>
 <td style="text-align: left;"><a
 href="https://github.com/dmarcelinobr/ggdecor"
@@ -1690,10 +2613,10 @@ ggplot2 in 1 minute</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2019-04-03T10:18:39Z</td>
-<td style="text-align: left;">2022-08-14T23:36:16Z</td>
+<td style="text-align: left;">2024-10-24T16:58:56Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">123</td>
+<tr>
+<td style="text-align: left;">189</td>
 <td style="text-align: left;">ggdistribute</td>
 <td style="text-align: left;"><a
 href="https://github.com/iamamutt/ggdistribute"
@@ -1705,8 +2628,8 @@ distributions</td>
 <td style="text-align: left;">2018-05-09T04:47:08Z</td>
 <td style="text-align: left;">2021-02-10T04:46:10Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">124</td>
+<tr>
+<td style="text-align: left;">190</td>
 <td style="text-align: left;">ggduncan</td>
 <td style="text-align: left;"><a
 href="https://github.com/duncan-clark/ggduncan"
@@ -1717,8 +2640,21 @@ class="uri">https://github.com/duncan-clark/ggduncan</a></td>
 <td style="text-align: left;">2019-10-09T20:46:24Z</td>
 <td style="text-align: left;">2020-05-02T21:20:00Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">125</td>
+<tr>
+<td style="text-align: left;">191</td>
+<td style="text-align: left;">ggedit</td>
+<td style="text-align: left;"><a href="https://github.com/yonicd/ggedit"
+class="uri">https://github.com/yonicd/ggedit</a></td>
+<td style="text-align: left;">Interactively edit ggplot layer aesthetics
+and theme definitions</td>
+<td style="text-align: left;"><a href="https://yonicd.github.io/ggedit/"
+class="uri">https://yonicd.github.io/ggedit/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2016-11-15T03:21:44Z</td>
+<td style="text-align: left;">2025-09-19T05:54:36Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">192</td>
 <td style="text-align: left;">ggedit</td>
 <td style="text-align: left;"><a href="https://github.com/cran/ggedit"
 class="uri">https://github.com/cran/ggedit</a></td>
@@ -1733,10 +2669,10 @@ class="uri">https://github.com/yonicd/ggedit/issues</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2017-03-31T17:00:11Z</td>
-<td style="text-align: left;">2020-06-03T09:19:55Z</td>
+<td style="text-align: left;">2024-03-05T02:31:16Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">126</td>
+<tr>
+<td style="text-align: left;">193</td>
 <td style="text-align: left;">ggexpanse</td>
 <td style="text-align: left;"><a
 href="https://github.com/hrbrmstr/ggexpanse"
@@ -1746,10 +2682,22 @@ Expanse’</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2019-08-19T12:24:04Z</td>
-<td style="text-align: left;">2022-01-31T22:08:32Z</td>
+<td style="text-align: left;">2025-03-22T10:54:42Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">127</td>
+<tr>
+<td style="text-align: left;">194</td>
+<td style="text-align: left;">ggfla</td>
+<td style="text-align: left;"><a href="https://github.com/mvfki/ggfla"
+class="uri">https://github.com/mvfki/ggfla</a></td>
+<td style="text-align: left;">GGPlot2 Extension for Fixed-Length
+Axis</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-12-09T19:37:18Z</td>
+<td style="text-align: left;">2024-12-10T16:45:58Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">195</td>
 <td style="text-align: left;">ggflother</td>
 <td style="text-align: left;"><a
 href="https://github.com/flother/ggflother"
@@ -1763,8 +2711,8 @@ class="uri">https://flother.is/categories/visualisations/</a></td>
 <td style="text-align: left;">2019-02-10T09:04:46Z</td>
 <td style="text-align: left;">2022-02-06T14:11:25Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">128</td>
+<tr>
+<td style="text-align: left;">196</td>
 <td style="text-align: left;">gggephi</td>
 <td style="text-align: left;"><a
 href="https://github.com/schliebs/gggephi"
@@ -1776,8 +2724,8 @@ graphs</td>
 <td style="text-align: left;">2022-01-01T13:28:15Z</td>
 <td style="text-align: left;">2022-01-01T13:28:18Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">129</td>
+<tr>
+<td style="text-align: left;">197</td>
 <td style="text-align: left;">gghdx</td>
 <td style="text-align: left;"><a
 href="https://github.com/OCHA-DAP/gghdx"
@@ -1787,10 +2735,40 @@ for ‘ggplot2’</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2022-07-20T13:06:22Z</td>
-<td style="text-align: left;">2022-10-13T08:30:41Z</td>
+<td style="text-align: left;">2025-07-05T11:32:36Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">130</td>
+<tr>
+<td style="text-align: left;">198</td>
+<td style="text-align: left;">gghdx</td>
+<td style="text-align: left;"><a href="https://github.com/cran/gghdx"
+class="uri">https://github.com/cran/gghdx</a></td>
+<td
+style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
+gghdx — HDX Theme, Scales, and Other Conveniences for ‘ggplot2’. Homepage: <a
+href="https://github.com/OCHA-DAP/gghdx"
+class="uri">https://github.com/OCHA-DAP/gghdx</a>
+Report bugs for this package: <a
+href="https://github.com/OCHA-DAP/gghdx/issues"
+class="uri">https://github.com/OCHA-DAP/gghdx/issues</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-08-18T19:31:10Z</td>
+<td style="text-align: left;">2024-10-10T19:11:21Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">199</td>
+<td style="text-align: left;">ggifau</td>
+<td style="text-align: left;"><a
+href="https://github.com/adrianadermon/ggifau"
+class="uri">https://github.com/adrianadermon/ggifau</a></td>
+<td style="text-align: left;">IFAU theme for ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">GNU General Public License v3.0</td>
+<td style="text-align: left;">2024-12-09T13:42:07Z</td>
+<td style="text-align: left;">2025-03-06T15:33:47Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">200</td>
 <td style="text-align: left;">ggipp</td>
 <td style="text-align: left;"><a href="https://github.com/benbel/ggipp"
 class="uri">https://github.com/benbel/ggipp</a></td>
@@ -1802,8 +2780,8 @@ scale_fill_ipp et theme_ipp.</td>
 <td style="text-align: left;">2020-06-15T17:52:01Z</td>
 <td style="text-align: left;">2023-01-15T12:33:22Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">131</td>
+<tr>
+<td style="text-align: left;">201</td>
 <td style="text-align: left;">ggiteam</td>
 <td style="text-align: left;"><a
 href="https://github.com/city-of-baltimore/ggiteam"
@@ -1815,8 +2793,21 @@ for ggplot2 plots in R.</td>
 <td style="text-align: left;">2018-03-18T01:12:20Z</td>
 <td style="text-align: left;">2023-02-21T01:46:59Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">132</td>
+<tr>
+<td style="text-align: left;">202</td>
+<td style="text-align: left;">ggjournals</td>
+<td style="text-align: left;"><a
+href="https://github.com/huichen99/ggjournals"
+class="uri">https://github.com/huichen99/ggjournals</a></td>
+<td style="text-align: left;">Customized ggplot2 themes for journal
+styles</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">GNU General Public License v3.0</td>
+<td style="text-align: left;">2025-01-02T14:41:01Z</td>
+<td style="text-align: left;">2025-01-02T15:25:56Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">203</td>
 <td style="text-align: left;">ggkanlev</td>
 <td style="text-align: left;"><a
 href="https://github.com/levikanwischer/ggkanlev"
@@ -1827,8 +2818,8 @@ class="uri">https://github.com/levikanwischer/ggkanlev</a></td>
 <td style="text-align: left;">2020-12-30T00:43:17Z</td>
 <td style="text-align: left;">2021-07-14T21:07:34Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">133</td>
+<tr>
+<td style="text-align: left;">204</td>
 <td style="text-align: left;">gglaplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/Greater-London-Authority/gglaplot"
@@ -1840,10 +2831,10 @@ href="https://greater-london-authority.github.io/gglaplot/"
 class="uri">https://greater-london-authority.github.io/gglaplot/</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2019-01-14T12:28:38Z</td>
-<td style="text-align: left;">2022-06-13T13:51:53Z</td>
+<td style="text-align: left;">2025-11-04T11:51:58Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">134</td>
+<tr>
+<td style="text-align: left;">205</td>
 <td style="text-align: left;">gglgbtq</td>
 <td style="text-align: left;"><a
 href="https://github.com/turtletopia/gglgbtq"
@@ -1855,10 +2846,10 @@ href="https://turtletopia.github.io/gglgbtq/"
 class="uri">https://turtletopia.github.io/gglgbtq/</a></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2022-08-06T11:02:28Z</td>
-<td style="text-align: left;">2023-06-02T17:21:31Z</td>
+<td style="text-align: left;">2025-11-30T11:26:32Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">135</td>
+<tr>
+<td style="text-align: left;">206</td>
 <td style="text-align: left;">ggmedsl</td>
 <td style="text-align: left;"><a href="https://github.com/MEDSL/ggmedsl"
 class="uri">https://github.com/MEDSL/ggmedsl</a></td>
@@ -1869,8 +2860,8 @@ using MEDSL style and colors</td>
 <td style="text-align: left;">2019-02-26T18:18:39Z</td>
 <td style="text-align: left;">2019-02-28T19:00:52Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">136</td>
+<tr>
+<td style="text-align: left;">207</td>
 <td style="text-align: left;">ggmin</td>
 <td style="text-align: left;"><a href="https://github.com/sjessa/ggmin"
 class="uri">https://github.com/sjessa/ggmin</a></td>
@@ -1879,10 +2870,10 @@ variant designed for Powerpoint)</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2017-06-29T20:57:41Z</td>
-<td style="text-align: left;">2018-04-10T09:33:40Z</td>
+<td style="text-align: left;">2024-05-11T13:03:12Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">137</td>
+<tr>
+<td style="text-align: left;">208</td>
 <td style="text-align: left;">ggminthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/ramorel/ggminthemes"
@@ -1894,8 +2885,8 @@ me by me–focused on clarity and minimalism</td>
 <td style="text-align: left;">2020-04-29T15:39:27Z</td>
 <td style="text-align: left;">2020-05-01T16:42:09Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">138</td>
+<tr>
+<td style="text-align: left;">209</td>
 <td style="text-align: left;">ggmjs</td>
 <td style="text-align: left;"><a href="https://github.com/datahub/ggmjs"
 class="uri">https://github.com/datahub/ggmjs</a></td>
@@ -1906,23 +2897,8 @@ Sentinel</td>
 <td style="text-align: left;">2017-09-15T20:18:53Z</td>
 <td style="text-align: left;">2022-07-17T01:35:12Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">139</td>
-<td style="text-align: left;">ggmnmlab</td>
-<td style="text-align: left;"><a
-href="https://github.com/zachbrehm/ggmnmlab"
-class="uri">https://github.com/zachbrehm/ggmnmlab</a></td>
-<td style="text-align: left;">R package for the McCall Lab ggplot2 color
-palette and theme.</td>
-<td style="text-align: left;"><a
-href="https://github.com/zachbrehm/ggmnmlab"
-class="uri">https://github.com/zachbrehm/ggmnmlab</a></td>
-<td style="text-align: left;">Other</td>
-<td style="text-align: left;">2021-03-06T06:35:16Z</td>
-<td style="text-align: left;">2021-03-23T18:24:31Z</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">140</td>
+<tr>
+<td style="text-align: left;">210</td>
 <td style="text-align: left;">ggnba</td>
 <td style="text-align: left;"><a
 href="https://github.com/ariespirgel/ggnba"
@@ -1933,8 +2909,8 @@ class="uri">https://github.com/ariespirgel/ggnba</a></td>
 <td style="text-align: left;">2017-04-28T18:22:11Z</td>
 <td style="text-align: left;">2017-04-28T18:24:18Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">141</td>
+<tr>
+<td style="text-align: left;">211</td>
 <td style="text-align: left;">ggnuplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/hriebl/ggnuplot"
@@ -1943,10 +2919,10 @@ class="uri">https://github.com/hriebl/ggnuplot</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-02-08T00:01:24Z</td>
-<td style="text-align: left;">2022-06-24T11:38:21Z</td>
+<td style="text-align: left;">2025-08-11T08:49:01Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">142</td>
+<tr>
+<td style="text-align: left;">212</td>
 <td style="text-align: left;">ggoecd</td>
 <td style="text-align: left;"><a
 href="https://github.com/jclopeztavera/ggoecd"
@@ -1956,10 +2932,10 @@ and themes</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">MIT License</td>
 <td style="text-align: left;">2017-12-01T18:31:03Z</td>
-<td style="text-align: left;">2018-11-17T01:52:51Z</td>
+<td style="text-align: left;">2024-08-22T10:54:22Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">143</td>
+<tr>
+<td style="text-align: left;">213</td>
 <td style="text-align: left;">ggpkt</td>
 <td style="text-align: left;"><a
 href="https://github.com/purplezippo/ggpkt"
@@ -1970,8 +2946,8 @@ class="uri">https://github.com/purplezippo/ggpkt</a></td>
 <td style="text-align: left;">2018-11-15T02:03:28Z</td>
 <td style="text-align: left;">2019-04-02T14:27:29Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">144</td>
+<tr>
+<td style="text-align: left;">214</td>
 <td style="text-align: left;">ggplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/Cord-Thomas/ggplot"
@@ -1983,22 +2959,35 @@ making graphics in the style used by the RAND Digital Design team.</td>
 <td style="text-align: left;">2021-09-02T16:41:54Z</td>
 <td style="text-align: left;">2021-09-02T16:41:54Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">145</td>
+<tr>
+<td style="text-align: left;">215</td>
+<td style="text-align: left;">ggplot-themes</td>
+<td style="text-align: left;"><a
+href="https://github.com/taylorperkins/ggplot-themes"
+class="uri">https://github.com/taylorperkins/ggplot-themes</a></td>
+<td style="text-align: left;">Test out ggplot themes against different
+geoms, including your own!</td>
+<td style="text-align: left;"><a
+href="https://taylorperkins.shinyapps.io/ggplot-themes/"
+class="uri">https://taylorperkins.shinyapps.io/ggplot-themes/</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2019-01-12T21:31:20Z</td>
+<td style="text-align: left;">2023-10-11T07:04:41Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">216</td>
 <td style="text-align: left;">ggplot2</td>
 <td style="text-align: left;"><a
-href="https://github.com/dracula/ggplot2"
-class="uri">https://github.com/dracula/ggplot2</a></td>
-<td style="text-align: left;">🧛🏻‍♂️ Dark theme for ggplot2 and R
-palette</td>
-<td style="text-align: left;"><a href="https://draculatheme.com/ggplot2"
-class="uri">https://draculatheme.com/ggplot2</a></td>
-<td style="text-align: left;">MIT License</td>
-<td style="text-align: left;">2021-11-28T00:24:17Z</td>
-<td style="text-align: left;">2023-01-14T02:02:06Z</td>
+href="https://github.com/lovecat18/ggplot2"
+class="uri">https://github.com/lovecat18/ggplot2</a></td>
+<td style="text-align: left;">Dark mode for ggplot2 themes</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-09-16T06:09:55Z</td>
+<td style="text-align: left;">2025-09-18T09:29:09Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">146</td>
+<tr>
+<td style="text-align: left;">217</td>
 <td style="text-align: left;">ggplot2-Formatting-Introduction</td>
 <td style="text-align: left;"><a
 href="https://github.com/JackGilligan/ggplot2-Formatting-Introduction"
@@ -2009,8 +2998,8 @@ class="uri">https://github.com/JackGilligan/ggplot2-Formatting-Introduction</a><
 <td style="text-align: left;">2018-11-06T18:01:50Z</td>
 <td style="text-align: left;">2018-11-06T19:06:46Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">147</td>
+<tr>
+<td style="text-align: left;">218</td>
 <td style="text-align: left;">ggplot2-ds-theme</td>
 <td style="text-align: left;"><a
 href="https://github.com/dstoiko/ggplot2-ds-theme"
@@ -2022,8 +3011,8 @@ Consolas font</td>
 <td style="text-align: left;">2016-04-19T16:33:31Z</td>
 <td style="text-align: left;">2016-04-19T16:37:11Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">148</td>
+<tr>
+<td style="text-align: left;">219</td>
 <td style="text-align: left;">ggplot2-reference</td>
 <td style="text-align: left;"><a
 href="https://github.com/isabellabenabaye/ggplot2-reference"
@@ -2035,10 +3024,48 @@ href="https://isabella-b.com/blog/ggplot2-theme-elements-reference/"
 class="uri">https://isabella-b.com/blog/ggplot2-theme-elements-reference/</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2020-05-20T08:19:55Z</td>
-<td style="text-align: left;">2023-07-14T06:44:20Z</td>
+<td style="text-align: left;">2025-08-05T13:31:25Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">149</td>
+<tr>
+<td style="text-align: left;">220</td>
+<td style="text-align: left;">ggplot2-snippets</td>
+<td style="text-align: left;"><a
+href="https://github.com/vedoa/ggplot2-snippets"
+class="uri">https://github.com/vedoa/ggplot2-snippets</a></td>
+<td style="text-align: left;">A quarto style book with ggplot2
+snippets</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2025-08-24T07:05:22Z</td>
+<td style="text-align: left;">2025-08-29T16:21:38Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">221</td>
+<td style="text-align: left;">ggplot2-style</td>
+<td style="text-align: left;"><a
+href="https://github.com/csp-materials/ggplot2-style"
+class="uri">https://github.com/csp-materials/ggplot2-style</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-07-01T19:17:57Z</td>
+<td style="text-align: left;">2025-07-01T19:18:13Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">222</td>
+<td style="text-align: left;">ggplot2-theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/robertjwilson/ggplot2-theme"
+class="uri">https://github.com/robertjwilson/ggplot2-theme</a></td>
+<td style="text-align: left;">a ggplot2 designed to make it easier to
+create publication quality figures</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2015-10-02T19:00:44Z</td>
+<td style="text-align: left;">2025-07-09T15:04:12Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">223</td>
 <td style="text-align: left;">ggplot2-theme-intro</td>
 <td style="text-align: left;"><a
 href="https://github.com/yjunechoe/ggplot2-theme-intro"
@@ -2049,10 +3076,10 @@ href="https://yjunechoe.github.io/ggplot2-theme-intro/"
 class="uri">https://yjunechoe.github.io/ggplot2-theme-intro/</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2023-07-20T15:27:03Z</td>
-<td style="text-align: left;">2023-07-20T15:50:21Z</td>
+<td style="text-align: left;">2024-03-26T23:01:07Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">150</td>
+<tr>
+<td style="text-align: left;">224</td>
 <td style="text-align: left;">ggplot2-theme-rgm</td>
 <td style="text-align: left;"><a
 href="https://github.com/robmoss/ggplot2-theme-rgm"
@@ -2063,8 +3090,32 @@ class="uri">https://github.com/robmoss/ggplot2-theme-rgm</a></td>
 <td style="text-align: left;">2015-03-11T01:53:16Z</td>
 <td style="text-align: left;">2019-03-29T03:07:05Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">151</td>
+<tr>
+<td style="text-align: left;">225</td>
+<td style="text-align: left;">ggplot2-theme-selector</td>
+<td style="text-align: left;"><a
+href="https://github.com/SGS2000/ggplot2-theme-selector"
+class="uri">https://github.com/SGS2000/ggplot2-theme-selector</a></td>
+<td style="text-align: left;">Selector de temas para ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2023-06-14T15:22:21Z</td>
+<td style="text-align: left;">2025-09-07T16:48:21Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">226</td>
+<td style="text-align: left;">ggplot2-theme-tutorial</td>
+<td style="text-align: left;"><a
+href="https://github.com/mclaire19/ggplot2-theme-tutorial"
+class="uri">https://github.com/mclaire19/ggplot2-theme-tutorial</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2020-01-31T19:04:59Z</td>
+<td style="text-align: left;">2020-01-31T19:17:26Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">227</td>
 <td style="text-align: left;">ggplot2-themes</td>
 <td style="text-align: left;"><a
 href="https://github.com/smc-ribes/ggplot2-themes"
@@ -2075,8 +3126,47 @@ class="uri">https://github.com/smc-ribes/ggplot2-themes</a></td>
 <td style="text-align: left;">2015-12-04T21:16:32Z</td>
 <td style="text-align: left;">2015-12-04T21:16:32Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">152</td>
+<tr>
+<td style="text-align: left;">228</td>
+<td style="text-align: left;">ggplot2-themes</td>
+<td style="text-align: left;"><a
+href="https://github.com/awunderground/ggplot2-themes"
+class="uri">https://github.com/awunderground/ggplot2-themes</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><a
+href="https://awunderground.github.io/ggplot2-themes/"
+class="uri">https://awunderground.github.io/ggplot2-themes/</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2018-02-11T23:24:24Z</td>
+<td style="text-align: left;">2019-04-19T19:55:42Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">229</td>
+<td style="text-align: left;">ggplot2_Themes_Workshop</td>
+<td style="text-align: left;"><a
+href="https://github.com/hscarter/ggplot2_Themes_Workshop"
+class="uri">https://github.com/hscarter/ggplot2_Themes_Workshop</a></td>
+<td style="text-align: left;">How to use theme() as well as built in
+themes to customize plots with ggplot2.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-10-06T18:00:58Z</td>
+<td style="text-align: left;">2023-10-27T15:33:35Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">230</td>
+<td style="text-align: left;">ggplot2_pmap_5_theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/os2137/ggplot2_pmap_5_theme"
+class="uri">https://github.com/os2137/ggplot2_pmap_5_theme</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-10-21T11:55:41Z</td>
+<td style="text-align: left;">2023-10-21T11:55:42Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">231</td>
 <td style="text-align: left;">ggplot2_related_themes</td>
 <td style="text-align: left;"><a
 href="https://github.com/Amz965/ggplot2_related_themes"
@@ -2087,8 +3177,8 @@ class="uri">https://github.com/Amz965/ggplot2_related_themes</a></td>
 <td style="text-align: left;">2020-11-09T02:42:39Z</td>
 <td style="text-align: left;">2020-12-13T09:14:01Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">153</td>
+<tr>
+<td style="text-align: left;">232</td>
 <td style="text-align: left;">ggplot2_stuff</td>
 <td style="text-align: left;"><a
 href="https://github.com/briandconnelly/ggplot2_stuff"
@@ -2100,20 +3190,8 @@ ggplot2</td>
 <td style="text-align: left;">2013-09-17T18:01:32Z</td>
 <td style="text-align: left;">2014-04-23T15:15:48Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">154</td>
-<td style="text-align: left;">ggplot2_theme</td>
-<td style="text-align: left;"><a
-href="https://github.com/skelly001/ggplot2_theme"
-class="uri">https://github.com/skelly001/ggplot2_theme</a></td>
-<td style="text-align: left;">Publication theme for ggplot2</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">2023-04-21T23:40:34Z</td>
-<td style="text-align: left;">2023-04-21T23:40:35Z</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">155</td>
+<tr>
+<td style="text-align: left;">233</td>
 <td style="text-align: left;">ggplot2_themes</td>
 <td style="text-align: left;"><a
 href="https://github.com/chrisBow/ggplot2_themes"
@@ -2124,8 +3202,44 @@ class="uri">https://github.com/chrisBow/ggplot2_themes</a></td>
 <td style="text-align: left;">2018-09-11T19:02:02Z</td>
 <td style="text-align: left;">2021-06-10T07:28:27Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">156</td>
+<tr>
+<td style="text-align: left;">234</td>
+<td style="text-align: left;">ggplot2_themes</td>
+<td style="text-align: left;"><a
+href="https://github.com/tkoomar/ggplot2_themes"
+class="uri">https://github.com/tkoomar/ggplot2_themes</a></td>
+<td style="text-align: left;">Does what it says on the tin</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2018-10-24T20:21:24Z</td>
+<td style="text-align: left;">2020-09-29T01:10:10Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">235</td>
+<td style="text-align: left;">ggplot2_themes</td>
+<td style="text-align: left;"><a
+href="https://github.com/hw538/ggplot2_themes"
+class="uri">https://github.com/hw538/ggplot2_themes</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-08-13T12:20:02Z</td>
+<td style="text-align: left;">2025-08-06T11:27:41Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">236</td>
+<td style="text-align: left;">ggplot2barnacle</td>
+<td style="text-align: left;"><a
+href="https://github.com/426352237/ggplot2barnacle"
+class="uri">https://github.com/426352237/ggplot2barnacle</a></td>
+<td style="text-align: left;">Dark mode for ggplot2 themes</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">GNU General Public License v3.0</td>
+<td style="text-align: left;">2025-09-18T09:03:38Z</td>
+<td style="text-align: left;">2025-09-21T06:00:07Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">237</td>
 <td style="text-align: left;">ggplot2bdc</td>
 <td style="text-align: left;"><a
 href="https://github.com/briandconnelly/ggplot2bdc"
@@ -2135,10 +3249,23 @@ modifying ggplot2 plots</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2014-04-23T15:10:19Z</td>
-<td style="text-align: left;">2022-04-14T23:19:09Z</td>
+<td style="text-align: left;">2025-07-09T15:23:51Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">157</td>
+<tr>
+<td style="text-align: left;">238</td>
+<td style="text-align: left;">ggplotThemeShifrin</td>
+<td style="text-align: left;"><a
+href="https://github.com/arielshif/ggplotThemeShifrin"
+class="uri">https://github.com/arielshif/ggplotThemeShifrin</a></td>
+<td style="text-align: left;">A custom ggplot2 theme to make things
+cute.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Creative Commons Zero v1.0 Universal</td>
+<td style="text-align: left;">2025-09-06T13:42:17Z</td>
+<td style="text-align: left;">2025-11-21T18:31:19Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">239</td>
 <td style="text-align: left;">ggplotThemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/timcdlucas/ggplotThemes"
@@ -2148,10 +3275,23 @@ class="uri">https://github.com/timcdlucas/ggplotThemes</a></td>
 <td style="text-align: left;">Do What The F*ck You Want To Public
 License</td>
 <td style="text-align: left;">2015-07-21T14:05:09Z</td>
-<td style="text-align: left;">2019-03-03T23:24:40Z</td>
+<td style="text-align: left;">2025-07-09T15:06:30Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">158</td>
+<tr>
+<td style="text-align: left;">240</td>
+<td style="text-align: left;">ggplot_custom_theme_cheatsheet</td>
+<td style="text-align: left;"><a
+href="https://github.com/ddauber/ggplot_custom_theme_cheatsheet"
+class="uri">https://github.com/ddauber/ggplot_custom_theme_cheatsheet</a></td>
+<td style="text-align: left;">A visual cheatsheet to customise ggplot2
+plots.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2022-02-26T20:31:10Z</td>
+<td style="text-align: left;">2022-02-26T20:31:15Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">241</td>
 <td style="text-align: left;">ggplot_theme</td>
 <td style="text-align: left;"><a
 href="https://github.com/brndngrhm/ggplot_theme"
@@ -2165,8 +3305,24 @@ class="uri">http://austinclemens.com/blog/2014/07/03/fivethirtyeight-com-style-g
 <td style="text-align: left;">2015-12-23T19:01:07Z</td>
 <td style="text-align: left;">2015-12-23T20:20:57Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">159</td>
+<tr>
+<td style="text-align: left;">242</td>
+<td style="text-align: left;">ggplot_theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/rladies-zurich/ggplot_theme"
+class="uri">https://github.com/rladies-zurich/ggplot_theme</a></td>
+<td style="text-align: left;">In this repo you can find all material
+related to the R-Ladies Zürich meetup event ‘Personalize your own ggplot
+theme’ on 01.12.2022</td>
+<td style="text-align: left;"><a
+href="https://www.meetup.com/de-DE/rladies-zurich/events/289394155/"
+class="uri">https://www.meetup.com/de-DE/rladies-zurich/events/289394155/</a></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2022-11-29T19:03:46Z</td>
+<td style="text-align: left;">2023-11-17T16:10:37Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">243</td>
 <td style="text-align: left;">ggplot_theme_Publication</td>
 <td style="text-align: left;"><a
 href="https://github.com/koundy/ggplot_theme_Publication"
@@ -2176,10 +3332,10 @@ ggplot2 and new colour palettes. Enjoy the new themes!</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2015-04-08T07:34:26Z</td>
-<td style="text-align: left;">2023-07-20T11:45:48Z</td>
+<td style="text-align: left;">2025-11-24T23:22:22Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">160</td>
+<tr>
+<td style="text-align: left;">244</td>
 <td style="text-align: left;">ggplot_theme_publication</td>
 <td style="text-align: left;"><a
 href="https://github.com/alan-feng/ggplot_theme_publication"
@@ -2189,10 +3345,10 @@ publications</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2021-11-17T01:15:32Z</td>
-<td style="text-align: left;">2023-01-31T19:17:53Z</td>
+<td style="text-align: left;">2025-02-17T00:49:47Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">161</td>
+<tr>
+<td style="text-align: left;">245</td>
 <td style="text-align: left;">ggplot_themes</td>
 <td style="text-align: left;"><a
 href="https://github.com/stomperusa/ggplot_themes"
@@ -2204,8 +3360,8 @@ ggplot2</td>
 <td style="text-align: left;">2020-06-27T21:10:45Z</td>
 <td style="text-align: left;">2020-06-28T18:04:29Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">162</td>
+<tr>
+<td style="text-align: left;">246</td>
 <td style="text-align: left;">ggplot_themes</td>
 <td style="text-align: left;"><a
 href="https://github.com/dchakro/ggplot_themes"
@@ -2215,10 +3371,10 @@ publication quality figures from ggplot2 in R</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Mozilla Public License 2.0</td>
 <td style="text-align: left;">2020-08-25T04:56:48Z</td>
-<td style="text-align: left;">2021-10-14T14:09:59Z</td>
+<td style="text-align: left;">2024-07-20T15:28:16Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">163</td>
+<tr>
+<td style="text-align: left;">247</td>
 <td style="text-align: left;">ggpomological</td>
 <td style="text-align: left;"><a
 href="https://github.com/gadenbuie/ggpomological"
@@ -2229,10 +3385,10 @@ href="http://garrickadenbuie.com/project/ggpomological/"
 class="uri">http://garrickadenbuie.com/project/ggpomological/</a></td>
 <td style="text-align: left;">Creative Commons Zero v1.0 Universal</td>
 <td style="text-align: left;">2018-02-05T14:58:22Z</td>
-<td style="text-align: left;">2023-05-22T17:21:30Z</td>
+<td style="text-align: left;">2025-10-15T15:50:18Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">164</td>
+<tr>
+<td style="text-align: left;">248</td>
 <td style="text-align: left;">ggptt</td>
 <td style="text-align: left;"><a href="https://github.com/pttry/ggptt"
 class="uri">https://github.com/pttry/ggptt</a></td>
@@ -2241,10 +3397,10 @@ functions for use in PTT</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2018-07-25T11:14:11Z</td>
-<td style="text-align: left;">2023-04-08T19:21:21Z</td>
+<td style="text-align: left;">2025-12-04T07:32:05Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">165</td>
+<tr>
+<td style="text-align: left;">249</td>
 <td style="text-align: left;">ggpubs</td>
 <td style="text-align: left;"><a
 href="https://github.com/condwanaland/ggpubs"
@@ -2255,8 +3411,21 @@ class="uri">https://github.com/condwanaland/ggpubs</a></td>
 <td style="text-align: left;">2017-02-28T00:25:27Z</td>
 <td style="text-align: left;">2018-04-10T08:11:46Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">166</td>
+<tr>
+<td style="text-align: left;">250</td>
+<td style="text-align: left;">ggretrotech</td>
+<td style="text-align: left;"><a
+href="https://github.com/andrewfullerton/ggretrotech"
+class="uri">https://github.com/andrewfullerton/ggretrotech</a></td>
+<td style="text-align: left;">ggplot2 themes inspired by retro
+technology.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-11-27T00:04:02Z</td>
+<td style="text-align: left;">2024-11-27T00:09:11Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">251</td>
 <td style="text-align: left;">ggschemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/kssrr/ggschemes"
@@ -2268,8 +3437,8 @@ for ggplot2.</td>
 <td style="text-align: left;">2022-12-22T15:50:17Z</td>
 <td style="text-align: left;">2022-12-22T15:57:33Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">167</td>
+<tr>
+<td style="text-align: left;">252</td>
 <td style="text-align: left;">ggsci</td>
 <td style="text-align: left;"><a
 href="https://github.com/nanxstats/ggsci"
@@ -2280,10 +3449,10 @@ color palettes for ggplot2</td>
 class="uri">https://nanx.me/ggsci/</a></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2016-03-25T12:14:26Z</td>
-<td style="text-align: left;">2023-07-21T02:14:42Z</td>
+<td style="text-align: left;">2025-12-01T06:19:19Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">168</td>
+<tr>
+<td style="text-align: left;">253</td>
 <td style="text-align: left;">ggsci</td>
 <td style="text-align: left;"><a href="https://github.com/cran/ggsci"
 class="uri">https://github.com/cran/ggsci</a></td>
@@ -2299,10 +3468,10 @@ class="uri">https://github.com/nanxstats/ggsci/issues</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2016-04-04T06:41:52Z</td>
-<td style="text-align: left;">2023-03-08T15:32:41Z</td>
+<td style="text-align: left;">2025-10-25T06:42:06Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">169</td>
+<tr>
+<td style="text-align: left;">254</td>
 <td style="text-align: left;">ggshadow</td>
 <td style="text-align: left;"><a
 href="https://github.com/marcmenem/ggshadow"
@@ -2316,10 +3485,10 @@ a steampunk style.</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">GNU General Public License v2.0</td>
 <td style="text-align: left;">2020-04-16T21:16:20Z</td>
-<td style="text-align: left;">2023-03-28T21:24:47Z</td>
+<td style="text-align: left;">2025-08-08T17:29:24Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">170</td>
+<tr>
+<td style="text-align: left;">255</td>
 <td style="text-align: left;">ggshredR</td>
 <td style="text-align: left;"><a
 href="https://github.com/hendersontrent/ggshredR"
@@ -2331,8 +3500,8 @@ ggplot2 based on 80s shred guitar aesthetics.</td>
 <td style="text-align: left;">2020-04-15T23:18:12Z</td>
 <td style="text-align: left;">2020-04-16T10:02:01Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">171</td>
+<tr>
+<td style="text-align: left;">256</td>
 <td style="text-align: left;">ggsidekick</td>
 <td style="text-align: left;"><a
 href="https://github.com/seananderson/ggsidekick"
@@ -2342,23 +3511,53 @@ theme_sleek() for now.]</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2017-02-22T16:44:16Z</td>
-<td style="text-align: left;">2023-06-19T05:57:41Z</td>
+<td style="text-align: left;">2025-11-08T02:51:21Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">172</td>
+<tr>
+<td style="text-align: left;">257</td>
+<td style="text-align: left;">ggspark</td>
+<td style="text-align: left;"><a
+href="https://github.com/marcboschmatas/ggspark"
+class="uri">https://github.com/marcboschmatas/ggspark</a></td>
+<td style="text-align: left;">ggplot2 Functions to Create Tufte Style
+Sparklines</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-05-09T11:03:27Z</td>
+<td style="text-align: left;">2025-03-22T08:13:04Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">258</td>
+<td style="text-align: left;">ggspark</td>
+<td style="text-align: left;"><a href="https://github.com/cran/ggspark"
+class="uri">https://github.com/cran/ggspark</a></td>
+<td
+style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
+ggspark — ‘ggplot2’ Functions to Create Tufte Style Sparklines. Homepage: <a
+href="https://github.com/marcboschmatas/ggspark"
+class="uri">https://github.com/marcboschmatas/ggspark</a>
+Report bugs for this package: <a
+href="https://github.com/marcboschmatas/ggspark/issues"
+class="uri">https://github.com/marcboschmatas/ggspark/issues</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-05-14T02:37:33Z</td>
+<td style="text-align: left;">2025-01-05T22:54:15Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">259</td>
 <td style="text-align: left;">ggspc</td>
 <td style="text-align: left;"><a href="https://github.com/brownag/ggspc"
 class="uri">https://github.com/brownag/ggspc</a></td>
-<td style="text-align: left;">[experimental] Custom ‘ggplot2’ ‘Stat’,
-‘Geom’, and ‘theme’ definitions for ‘aqp’ ‘SoilProfileCollection’
-objects</td>
+<td style="text-align: left;">Custom ‘ggplot2’ ‘Stat’, ‘Geom’, and
+‘theme’ definitions for the ‘aqp’ ‘SoilProfileCollection’ object</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2023-02-02T01:14:50Z</td>
-<td style="text-align: left;">2023-02-02T16:55:17Z</td>
+<td style="text-align: left;">2025-06-27T20:07:23Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">173</td>
+<tr>
+<td style="text-align: left;">260</td>
 <td style="text-align: left;">ggsports</td>
 <td style="text-align: left;"><a
 href="https://github.com/woobe/ggsports"
@@ -2370,8 +3569,8 @@ sports data visualisation.</td>
 <td style="text-align: left;">2015-08-02T09:00:08Z</td>
 <td style="text-align: left;">2015-08-02T13:31:50Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">174</td>
+<tr>
+<td style="text-align: left;">261</td>
 <td style="text-align: left;">ggsportsfield</td>
 <td style="text-align: left;"><a
 href="https://github.com/RobWHickman/ggsportsfield"
@@ -2383,8 +3582,24 @@ field markings</td>
 <td style="text-align: left;">2018-09-20T09:38:50Z</td>
 <td style="text-align: left;">2020-10-06T19:49:47Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">175</td>
+<tr>
+<td style="text-align: left;">262</td>
+<td style="text-align: left;">ggstyle</td>
+<td style="text-align: left;"><a
+href="https://github.com/sz-zyp/ggstyle"
+class="uri">https://github.com/sz-zyp/ggstyle</a></td>
+<td style="text-align: left;">The <code>ggstyle</code> package provides
+a simple way to enhance your <code>ggplot2</code> visualizations by
+customizing the color schemes and themes.</td>
+<td style="text-align: left;"><a
+href="https://www.r2omics.cn/color.html"
+class="uri">https://www.r2omics.cn/color.html</a></td>
+<td style="text-align: left;">GNU General Public License v3.0</td>
+<td style="text-align: left;">2025-03-17T15:11:33Z</td>
+<td style="text-align: left;">2025-11-18T01:06:30Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">263</td>
 <td style="text-align: left;">ggsu</td>
 <td style="text-align: left;"><a href="https://github.com/borstell/ggsu"
 class="uri">https://github.com/borstell/ggsu</a></td>
@@ -2395,8 +3610,21 @@ identity of SU</td>
 <td style="text-align: left;">2021-04-22T18:35:19Z</td>
 <td style="text-align: left;">2021-04-22T22:03:03Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">176</td>
+<tr>
+<td style="text-align: left;">264</td>
+<td style="text-align: left;">ggsuprematist</td>
+<td style="text-align: left;"><a
+href="https://github.com/mglev1n/ggsuprematist"
+class="uri">https://github.com/mglev1n/ggsuprematist</a></td>
+<td style="text-align: left;">Generate Suprematist-style Artwork Using
+Ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-01-19T16:06:52Z</td>
+<td style="text-align: left;">2025-01-19T16:07:00Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">265</td>
 <td style="text-align: left;">ggtailwind</td>
 <td style="text-align: left;"><a
 href="https://github.com/willcanniford/ggtailwind"
@@ -2408,8 +3636,8 @@ popular tailwind css</td>
 <td style="text-align: left;">2019-11-10T21:20:25Z</td>
 <td style="text-align: left;">2021-11-10T08:54:00Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">177</td>
+<tr>
+<td style="text-align: left;">266</td>
 <td style="text-align: left;">ggtea</td>
 <td style="text-align: left;"><a href="https://github.com/cran/ggtea"
 class="uri">https://github.com/cran/ggtea</a></td>
@@ -2421,8 +3649,8 @@ ggtea — Palettes and Themes for ‘ggplot2’</td>
 <td style="text-align: left;">2021-11-10T00:54:13Z</td>
 <td style="text-align: left;">2021-11-10T00:54:17Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">178</td>
+<tr>
+<td style="text-align: left;">267</td>
 <td style="text-align: left;">ggtech</td>
 <td style="text-align: left;"><a
 href="https://github.com/ricardo-bion/ggtech"
@@ -2433,10 +3661,10 @@ geoms</td>
 class="uri">https://twitter.com/ricardobion</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2015-04-02T19:00:39Z</td>
-<td style="text-align: left;">2023-07-15T09:25:31Z</td>
+<td style="text-align: left;">2025-11-22T06:45:10Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">179</td>
+<tr>
+<td style="text-align: left;">268</td>
 <td style="text-align: left;">ggtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/jschoeley/ggtheme"
@@ -2448,8 +3676,8 @@ Options</td>
 <td style="text-align: left;">2015-03-14T23:31:30Z</td>
 <td style="text-align: left;">2015-03-14T23:45:37Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">180</td>
+<tr>
+<td style="text-align: left;">269</td>
 <td style="text-align: left;">ggtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/sinarueeger/ggtheme"
@@ -2459,10 +3687,10 @@ beamer)</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2019-06-06T08:41:04Z</td>
-<td style="text-align: left;">2019-06-06T13:45:26Z</td>
+<td style="text-align: left;">2025-01-09T16:59:05Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">181</td>
+<tr>
+<td style="text-align: left;">270</td>
 <td style="text-align: left;">ggtheme.ois</td>
 <td style="text-align: left;"><a
 href="https://github.com/brilstl/ggtheme.ois"
@@ -2474,8 +3702,23 @@ ggplot2</td>
 <td style="text-align: left;">2021-07-16T12:58:56Z</td>
 <td style="text-align: left;">2021-11-16T12:17:36Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">182</td>
+<tr>
+<td style="text-align: left;">271</td>
+<td style="text-align: left;">ggthemeAI</td>
+<td style="text-align: left;"><a
+href="https://github.com/arkraieski/ggthemeAI"
+class="uri">https://github.com/arkraieski/ggthemeAI</a></td>
+<td style="text-align: left;">Generate ggplot2 themes with LLMs (through
+ellmer) for “vibe coding”, shiny apps, and more</td>
+<td style="text-align: left;"><a
+href="https://arkraieski.github.io/ggthemeAI/"
+class="uri">https://arkraieski.github.io/ggthemeAI/</a></td>
+<td style="text-align: left;">GNU General Public License v3.0</td>
+<td style="text-align: left;">2025-06-15T02:10:24Z</td>
+<td style="text-align: left;">2025-12-01T22:37:12Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">272</td>
 <td style="text-align: left;">ggthemeassist</td>
 <td style="text-align: left;"><a
 href="https://github.com/calligross/ggthemeassist"
@@ -2485,10 +3728,10 @@ tweaking</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2016-02-20T09:57:16Z</td>
-<td style="text-align: left;">2023-07-12T19:14:47Z</td>
+<td style="text-align: left;">2025-11-16T05:35:40Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">183</td>
+<tr>
+<td style="text-align: left;">273</td>
 <td style="text-align: left;">ggthemepark</td>
 <td style="text-align: left;"><a
 href="https://github.com/NickGlaettli/ggthemepark"
@@ -2499,8 +3742,8 @@ class="uri">https://github.com/NickGlaettli/ggthemepark</a></td>
 <td style="text-align: left;">2022-01-16T16:49:46Z</td>
 <td style="text-align: left;">2022-01-25T22:09:54Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">184</td>
+<tr>
+<td style="text-align: left;">274</td>
 <td style="text-align: left;">ggthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/jrnold/ggthemes"
@@ -2508,32 +3751,36 @@ class="uri">https://github.com/jrnold/ggthemes</a></td>
 <td style="text-align: left;">Additional themes, scales, and geoms for
 ggplot2</td>
 <td style="text-align: left;"><a
-href="https://jrnold.github.io/ggthemes"
-class="uri">https://jrnold.github.io/ggthemes</a></td>
+href="http://jrnold.github.io/ggthemes/"
+class="uri">http://jrnold.github.io/ggthemes/</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2012-09-07T00:00:07Z</td>
-<td style="text-align: left;">2023-07-13T05:43:02Z</td>
+<td style="text-align: left;">2025-12-01T04:50:53Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">185</td>
+<tr>
+<td style="text-align: left;">275</td>
 <td style="text-align: left;">ggthemes</td>
 <td style="text-align: left;"><a href="https://github.com/cran/ggthemes"
 class="uri">https://github.com/cran/ggthemes</a></td>
 <td
 style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
 ggthemes — Extra Themes, Scales and Geoms for ‘ggplot2’. Homepage: <a
+href="https://jrnold.github.io/ggthemes/"
+class="uri">https://jrnold.github.io/ggthemes/</a>, <a
 href="https://github.com/jrnold/ggthemes"
-class="uri">https://github.com/jrnold/ggthemes</a>
+class="uri">https://github.com/jrnold/ggthemes</a>, <a
+href="http://jrnold.github.io/ggthemes/"
+class="uri">http://jrnold.github.io/ggthemes/</a>
 Report bugs for this package: <a
-href="https://github.com/jrnold/ggthemes"
-class="uri">https://github.com/jrnold/ggthemes</a></td>
+href="https://github.com/jrnold/ggthemes/issue"
+class="uri">https://github.com/jrnold/ggthemes/issue</a> …</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2014-03-13T04:52:17Z</td>
-<td style="text-align: left;">2021-01-29T10:41:20Z</td>
+<td style="text-align: left;">2025-11-30T17:32:48Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">186</td>
+<tr>
+<td style="text-align: left;">276</td>
 <td style="text-align: left;">ggthemr</td>
 <td style="text-align: left;"><a
 href="https://github.com/Mikata-Project/ggthemr"
@@ -2542,10 +3789,25 @@ class="uri">https://github.com/Mikata-Project/ggthemr</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2013-10-06T18:50:41Z</td>
-<td style="text-align: left;">2023-07-16T09:42:10Z</td>
+<td style="text-align: left;">2025-11-11T13:15:56Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">187</td>
+<tr>
+<td style="text-align: left;">277</td>
+<td style="text-align: left;">ggtiger</td>
+<td style="text-align: left;"><a
+href="https://github.com/christopherkenny/ggtiger"
+class="uri">https://github.com/christopherkenny/ggtiger</a></td>
+<td style="text-align: left;">Princeton brand guidlines-based ggplot2
+themes</td>
+<td style="text-align: left;"><a
+href="http://christophertkenny.com/ggtiger/"
+class="uri">http://christophertkenny.com/ggtiger/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-09-09T02:17:14Z</td>
+<td style="text-align: left;">2025-09-24T15:57:55Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">278</td>
 <td style="text-align: left;">ggtufte</td>
 <td style="text-align: left;"><a
 href="https://github.com/jrnold/ggtufte"
@@ -2555,10 +3817,23 @@ Tufte</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2018-06-04T17:55:57Z</td>
-<td style="text-align: left;">2019-11-16T02:35:43Z</td>
+<td style="text-align: left;">2023-12-30T17:43:43Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">188</td>
+<tr>
+<td style="text-align: left;">279</td>
+<td style="text-align: left;">ggugent</td>
+<td style="text-align: left;"><a
+href="https://github.com/llippens/ggugent"
+class="uri">https://github.com/llippens/ggugent</a></td>
+<td style="text-align: left;">ggplot2 theme based on the Ghent
+University style guide</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2023-12-15T11:38:15Z</td>
+<td style="text-align: left;">2023-12-15T12:53:00Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">280</td>
 <td style="text-align: left;">gguniversity</td>
 <td style="text-align: left;"><a
 href="https://github.com/dougaltoms/gguniversity"
@@ -2570,21 +3845,22 @@ branding</td>
 <td style="text-align: left;">2022-10-01T16:40:06Z</td>
 <td style="text-align: left;">2022-10-07T16:53:43Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">189</td>
-<td style="text-align: left;">ggvisuals</td>
+<tr>
+<td style="text-align: left;">281</td>
+<td style="text-align: left;">ggviews</td>
 <td style="text-align: left;"><a
-href="https://github.com/mtrauernicht/ggvisuals"
-class="uri">https://github.com/mtrauernicht/ggvisuals</a></td>
-<td style="text-align: left;">Beautiful and minimalistic templates for
-ggplot2 themes</td>
+href="https://github.com/essicolo/ggviews"
+class="uri">https://github.com/essicolo/ggviews</a></td>
+<td style="text-align: left;">ggplot2-style API for holoviews</td>
+<td style="text-align: left;"><a
+href="https://essicolo.github.io/ggviews/"
+class="uri">https://essicolo.github.io/ggviews/</a></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">2021-10-20T14:49:36Z</td>
-<td style="text-align: left;">2021-10-21T07:34:24Z</td>
+<td style="text-align: left;">2025-09-30T00:15:37Z</td>
+<td style="text-align: left;">2025-10-02T16:07:36Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">190</td>
+<tr>
+<td style="text-align: left;">282</td>
 <td style="text-align: left;">ggwb</td>
 <td style="text-align: left;"><a href="https://github.com/EBukin/ggwb"
 class="uri">https://github.com/EBukin/ggwb</a></td>
@@ -2594,8 +3870,8 @@ class="uri">https://github.com/EBukin/ggwb</a></td>
 <td style="text-align: left;">2019-01-31T10:14:19Z</td>
 <td style="text-align: left;">2019-01-31T12:26:37Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">191</td>
+<tr>
+<td style="text-align: left;">283</td>
 <td style="text-align: left;">gouvdown</td>
 <td style="text-align: left;"><a
 href="https://github.com/spyrales/gouvdown"
@@ -2607,10 +3883,10 @@ href="https://spyrales.github.io/gouvdown/"
 class="uri">https://spyrales.github.io/gouvdown/</a></td>
 <td style="text-align: left;">European Union Public License 1.2</td>
 <td style="text-align: left;">2020-04-23T15:03:35Z</td>
-<td style="text-align: left;">2023-04-13T21:18:18Z</td>
+<td style="text-align: left;">2025-09-15T12:38:24Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">192</td>
+<tr>
+<td style="text-align: left;">284</td>
 <td style="text-align: left;">govstyle</td>
 <td style="text-align: left;"><a
 href="https://github.com/ukgovdatascience/govstyle"
@@ -2622,10 +3898,10 @@ href="http://ukgovdatascience.github.io/govstyle/index.html"
 class="uri">http://ukgovdatascience.github.io/govstyle/index.html</a></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2016-05-31T17:05:33Z</td>
-<td style="text-align: left;">2023-04-20T15:35:23Z</td>
+<td style="text-align: left;">2025-05-29T11:31:36Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">193</td>
+<tr>
+<td style="text-align: left;">285</td>
 <td style="text-align: left;">grattantheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/grattan/grattantheme"
@@ -2637,10 +3913,10 @@ href="https://grattan.github.io/grattantheme/"
 class="uri">https://grattan.github.io/grattantheme/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2018-10-24T22:12:41Z</td>
-<td style="text-align: left;">2023-06-22T00:21:40Z</td>
+<td style="text-align: left;">2025-12-03T00:08:00Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">194</td>
+<tr>
+<td style="text-align: left;">286</td>
 <td style="text-align: left;">hdatools</td>
 <td style="text-align: left;"><a
 href="https://github.com/hdadvisors/hdatools"
@@ -2652,10 +3928,10 @@ href="https://hdadvisors.github.io/hdatools/"
 class="uri">https://hdadvisors.github.io/hdatools/</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2022-11-02T16:47:35Z</td>
-<td style="text-align: left;">2023-04-14T18:17:47Z</td>
+<td style="text-align: left;">2024-11-19T23:29:05Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">195</td>
+<tr>
+<td style="text-align: left;">287</td>
 <td style="text-align: left;">hjplottools</td>
 <td style="text-align: left;"><a
 href="https://github.com/alphabetac/hjplottools"
@@ -2666,8 +3942,8 @@ class="uri">https://github.com/alphabetac/hjplottools</a></td>
 <td style="text-align: left;">2020-07-25T13:30:06Z</td>
 <td style="text-align: left;">2021-10-06T13:15:59Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">196</td>
+<tr>
+<td style="text-align: left;">288</td>
 <td style="text-align: left;">hrbragg</td>
 <td style="text-align: left;"><a
 href="https://github.com/hrbrmstr/hrbragg"
@@ -2677,44 +3953,51 @@ Components, and Utilities for ‘ggplot2’ and ‘ragg’.</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2021-02-16T06:09:01Z</td>
-<td style="text-align: left;">2023-06-05T22:06:26Z</td>
+<td style="text-align: left;">2025-03-22T10:46:23Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">197</td>
+<tr>
+<td style="text-align: left;">289</td>
 <td style="text-align: left;">hrbrthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/hrbrmstr/hrbrthemes"
 class="uri">https://github.com/hrbrmstr/hrbrthemes</a></td>
 <td style="text-align: left;">:lock_with_ink_pen: Opinionated,
 typographic-centric ggplot2 themes and theme components</td>
-<td style="text-align: left;"><a
-href="https://cinc.rud.is/web/packages/hrbrthemes/"
-class="uri">https://cinc.rud.is/web/packages/hrbrthemes/</a></td>
+<td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2017-02-11T17:03:01Z</td>
-<td style="text-align: left;">2023-07-23T15:58:08Z</td>
+<td style="text-align: left;">2025-12-03T13:11:08Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">198</td>
+<tr>
+<td style="text-align: left;">290</td>
 <td style="text-align: left;">hrbrthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/cran/hrbrthemes"
 class="uri">https://github.com/cran/hrbrthemes</a></td>
 <td
 style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
-hrbrthemes — Additional Themes, Theme Components and Utilities for ‘ggplot2’. Homepage: <a
-href="http://github.com/hrbrmstr/hrbrthemes"
-class="uri">http://github.com/hrbrmstr/hrbrthemes</a>
-Report bugs for this package: <a
-href="https://github.com/hrbrmstr/hrbrthemes/issues"
-class="uri">https://github.com/hrbrmstr/hrbrthemes/issues</a></td>
+hrbrthemes — Additional Themes, Theme Components and Utilities for ‘ggplot2’</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2017-02-26T05:06:09Z</td>
-<td style="text-align: left;">2020-03-07T09:15:31Z</td>
+<td style="text-align: left;">2024-03-04T03:10:53Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">199</td>
+<tr>
+<td style="text-align: left;">291</td>
+<td style="text-align: left;">hrbrthemes-p9</td>
+<td style="text-align: left;"><a
+href="https://github.com/hrbrmstr/hrbrthemes-p9"
+class="uri">https://github.com/hrbrmstr/hrbrthemes-p9</a></td>
+<td style="text-align: left;">📈 hrbrthemes for plotnine</td>
+<td style="text-align: left;"><a
+href="https://dailyfinds.hrbrmstr.dev/p/drop-385-2023-12-08-weekend-project"
+class="uri">https://dailyfinds.hrbrmstr.dev/p/drop-385-2023-12-08-weekend-project</a></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2023-12-08T21:42:56Z</td>
+<td style="text-align: left;">2025-03-22T10:16:58Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">292</td>
 <td style="text-align: left;">ib</td>
 <td style="text-align: left;"><a
 href="https://github.com/isabellabenabaye/ib"
@@ -2726,8 +4009,8 @@ containing functions for ggplot2 and my personal ggplot2 theme</td>
 <td style="text-align: left;">2020-08-09T09:07:55Z</td>
 <td style="text-align: left;">2023-02-14T10:02:14Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">200</td>
+<tr>
+<td style="text-align: left;">293</td>
 <td style="text-align: left;">imprint</td>
 <td style="text-align: left;"><a
 href="https://github.com/hrbrmstr/imprint"
@@ -2737,10 +4020,10 @@ Markdown’ Themes for Your Organization</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2018-05-25T00:11:45Z</td>
-<td style="text-align: left;">2022-03-31T17:59:38Z</td>
+<td style="text-align: left;">2025-10-06T09:24:34Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">201</td>
+<tr>
+<td style="text-align: left;">294</td>
 <td style="text-align: left;">inlegend</td>
 <td style="text-align: left;"><a
 href="https://github.com/MilesMcBain/inlegend"
@@ -2749,43 +4032,80 @@ class="uri">https://github.com/MilesMcBain/inlegend</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-08-13T05:31:24Z</td>
-<td style="text-align: left;">2022-04-05T12:14:21Z</td>
+<td style="text-align: left;">2025-03-22T08:13:51Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">202</td>
+<tr>
+<td style="text-align: left;">295</td>
+<td style="text-align: left;">insperplot</td>
+<td style="text-align: left;"><a
+href="https://github.com/viniciusoike/insperplot"
+class="uri">https://github.com/viniciusoike/insperplot</a></td>
+<td style="text-align: left;">Insper themed ggplot2 extensions</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-10-10T14:24:52Z</td>
+<td style="text-align: left;">2025-11-25T01:55:56Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">296</td>
+<td style="text-align: left;">iomthemes</td>
+<td style="text-align: left;"><a href="https://github.com/iom/iomthemes"
+class="uri">https://github.com/iom/iomthemes</a></td>
+<td style="text-align: left;">IOM ‘ggplot2’ Theme and Colour
+Palettes</td>
+<td style="text-align: left;"><a href="https://iom.github.io/iomthemes/"
+class="uri">https://iom.github.io/iomthemes/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-12-08T17:04:39Z</td>
+<td style="text-align: left;">2025-01-17T17:30:12Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">297</td>
+<td style="text-align: left;">javplot</td>
+<td style="text-align: left;"><a href="https://github.com/jasav/javplot"
+class="uri">https://github.com/jasav/javplot</a></td>
+<td style="text-align: left;">My custom theme for ggplot2, uploaded to
+github so I can install it anywhere.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-06-20T06:36:00Z</td>
+<td style="text-align: left;">2025-06-20T07:42:27Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">298</td>
 <td style="text-align: left;">jbplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/jabenninghoff/jbplot"
 class="uri">https://github.com/jabenninghoff/jbplot</a></td>
-<td style="text-align: left;">My personal collection of ggplot2
-themes</td>
+<td style="text-align: left;">My personal collection of ggplot2 themes
+and functions</td>
 <td style="text-align: left;"><a
 href="https://jabenninghoff.github.io/jbplot/"
 class="uri">https://jabenninghoff.github.io/jbplot/</a></td>
-<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">Other</td>
 <td style="text-align: left;">2022-01-09T20:59:40Z</td>
-<td style="text-align: left;">2022-06-22T02:21:45Z</td>
+<td style="text-align: left;">2025-08-13T01:03:36Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">203</td>
+<tr>
+<td style="text-align: left;">299</td>
 <td style="text-align: left;">jcolors</td>
 <td style="text-align: left;"><a href="https://github.com/cran/jcolors"
 class="uri">https://github.com/cran/jcolors</a></td>
 <td
 style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
 jcolors — Colors Palettes for R and ‘ggplot2’, Additional Themes for ‘ggplot2’. Homepage: <a
-href="https://jaredhuling.github.io/jcolors/"
-class="uri">https://jaredhuling.github.io/jcolors/</a>
+href="https://jaredhuling.org/jcolors/"
+class="uri">https://jaredhuling.org/jcolors/</a>
 Report bugs for this package: <a
 href="https://github.com/jaredhuling/jcolors/issues"
 class="uri">https://github.com/jaredhuling/jcolors/issues</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2017-07-07T10:21:17Z</td>
-<td style="text-align: left;">2020-01-27T23:17:59Z</td>
+<td style="text-align: left;">2024-03-30T02:34:10Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">204</td>
+<tr>
+<td style="text-align: left;">300</td>
 <td style="text-align: left;">jmcplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/jaredmusil/jmcplot"
@@ -2797,8 +4117,24 @@ the style used by JMC</td>
 <td style="text-align: left;">2022-03-30T03:29:35Z</td>
 <td style="text-align: left;">2022-03-30T03:37:49Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">205</td>
+<tr>
+<td style="text-align: left;">301</td>
+<td style="text-align: left;">jonohey</td>
+<td style="text-align: left;"><a
+href="https://github.com/matiasandina/jonohey"
+class="uri">https://github.com/matiasandina/jonohey</a></td>
+<td style="text-align: left;">An R package with color palettes and
+ggplot2 theme inspired by Jono Hey’s sketches</td>
+<td style="text-align: left;"><a
+href="https://matiasandina.github.io/jonohey/"
+class="uri">https://matiasandina.github.io/jonohey/</a></td>
+<td style="text-align: left;">Creative Commons Attribution 4.0
+International</td>
+<td style="text-align: left;">2025-10-17T16:44:52Z</td>
+<td style="text-align: left;">2025-11-06T01:49:51Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">302</td>
 <td style="text-align: left;">jptheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/MattCowgill/jptheme"
@@ -2807,10 +4143,10 @@ class="uri">https://github.com/MattCowgill/jptheme</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2021-12-08T02:27:54Z</td>
-<td style="text-align: left;">2023-03-18T15:28:42Z</td>
+<td style="text-align: left;">2023-10-28T21:26:16Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">206</td>
+<tr>
+<td style="text-align: left;">303</td>
 <td style="text-align: left;">jrh.gg.theme</td>
 <td style="text-align: left;"><a
 href="https://github.com/jrhawley/jrh.gg.theme"
@@ -2821,21 +4157,20 @@ class="uri">https://github.com/jrhawley/jrh.gg.theme</a></td>
 <td style="text-align: left;">2017-10-24T20:38:31Z</td>
 <td style="text-align: left;">2017-10-24T20:38:31Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">207</td>
-<td style="text-align: left;">jtheme</td>
+<tr>
+<td style="text-align: left;">304</td>
+<td style="text-align: left;">kaimeleon</td>
 <td style="text-align: left;"><a
-href="https://github.com/jeremieboudreault/jtheme"
-class="uri">https://github.com/jeremieboudreault/jtheme</a></td>
-<td style="text-align: left;">[Archived] R package that enhances ggplot2
-theme and functions</td>
+href="https://github.com/KaiAragaki/kaimeleon"
+class="uri">https://github.com/KaiAragaki/kaimeleon</a></td>
+<td style="text-align: left;">ggplot2 theme for my personal website</td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">2022-04-21T20:17:18Z</td>
-<td style="text-align: left;">2023-05-03T12:07:45Z</td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-01-30T05:21:28Z</td>
+<td style="text-align: left;">2025-01-31T20:13:28Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">208</td>
+<tr>
+<td style="text-align: left;">305</td>
 <td style="text-align: left;">kaplot</td>
 <td style="text-align: left;"><a href="https://github.com/mkapur/kaplot"
 class="uri">https://github.com/mkapur/kaplot</a></td>
@@ -2845,8 +4180,8 @@ class="uri">https://github.com/mkapur/kaplot</a></td>
 <td style="text-align: left;">2020-04-30T21:55:25Z</td>
 <td style="text-align: left;">2020-09-15T21:45:58Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">209</td>
+<tr>
+<td style="text-align: left;">306</td>
 <td style="text-align: left;">kaththemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/katherine-taylor/kaththemes"
@@ -2858,8 +4193,8 @@ Taylor</td>
 <td style="text-align: left;">2021-08-23T02:22:57Z</td>
 <td style="text-align: left;">2021-08-23T02:29:26Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">210</td>
+<tr>
+<td style="text-align: left;">307</td>
 <td style="text-align: left;">ktheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/KTH-Library/ktheme"
@@ -2871,10 +4206,10 @@ KTH</td>
 <td style="text-align: left;">GNU Affero General Public License
 v3.0</td>
 <td style="text-align: left;">2020-01-08T15:23:05Z</td>
-<td style="text-align: left;">2022-10-26T08:55:47Z</td>
+<td style="text-align: left;">2025-11-21T10:47:19Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">211</td>
+<tr>
+<td style="text-align: left;">308</td>
 <td style="text-align: left;">kubrand</td>
 <td style="text-align: left;"><a
 href="https://github.com/bvancilku/kubrand"
@@ -2887,8 +4222,8 @@ class="uri">https://bvancilku.github.io/kubrand/</a></td>
 <td style="text-align: left;">2021-03-12T19:53:52Z</td>
 <td style="text-align: left;">2022-07-20T22:36:21Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">212</td>
+<tr>
+<td style="text-align: left;">309</td>
 <td style="text-align: left;">lato</td>
 <td style="text-align: left;"><a
 href="https://github.com/briandconnelly/lato"
@@ -2898,10 +4233,10 @@ using ‘Lato’ Typeface</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2017-11-18T00:31:14Z</td>
-<td style="text-align: left;">2023-01-19T21:05:24Z</td>
+<td style="text-align: left;">2025-03-22T11:13:00Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">213</td>
+<tr>
+<td style="text-align: left;">310</td>
 <td style="text-align: left;">lazerhawk</td>
 <td style="text-align: left;"><a
 href="https://github.com/m-clark/lazerhawk"
@@ -2911,10 +4246,10 @@ functions.</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2015-11-16T00:37:06Z</td>
-<td style="text-align: left;">2022-01-06T09:41:42Z</td>
+<td style="text-align: left;">2025-04-17T11:12:22Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">214</td>
+<tr>
+<td style="text-align: left;">311</td>
 <td style="text-align: left;">luigg</td>
 <td style="text-align: left;"><a
 href="https://github.com/christopherkenny/luigg"
@@ -2927,8 +4262,20 @@ class="uri">http://christophertkenny.com/luigg/</a></td>
 <td style="text-align: left;">2023-04-12T00:44:38Z</td>
 <td style="text-align: left;">2023-04-25T20:20:50Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">215</td>
+<tr>
+<td style="text-align: left;">312</td>
+<td style="text-align: left;">make-your-own-ggplot2-theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/aaronschiff/make-your-own-ggplot2-theme"
+class="uri">https://github.com/aaronschiff/make-your-own-ggplot2-theme</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2020-02-10T03:13:13Z</td>
+<td style="text-align: left;">2020-02-19T22:20:27Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">313</td>
 <td style="text-align: left;">makeover_monday</td>
 <td style="text-align: left;"><a
 href="https://github.com/mrafa3/makeover_monday"
@@ -2939,8 +4286,21 @@ class="uri">https://github.com/mrafa3/makeover_monday</a></td>
 <td style="text-align: left;">2020-09-21T11:32:54Z</td>
 <td style="text-align: left;">2021-01-27T20:51:58Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">216</td>
+<tr>
+<td style="text-align: left;">314</td>
+<td style="text-align: left;">mcthemer</td>
+<td style="text-align: left;"><a
+href="https://github.com/ZhenyaKosovan/mcthemer"
+class="uri">https://github.com/ZhenyaKosovan/mcthemer</a></td>
+<td style="text-align: left;">ggplot2 theme and colors for
+MasterCard-themed plots</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-06-28T06:38:53Z</td>
+<td style="text-align: left;">2025-06-28T06:38:57Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">315</td>
 <td style="text-align: left;">mdthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/thomas-neitmann/mdthemes"
@@ -2949,10 +4309,10 @@ class="uri">https://github.com/thomas-neitmann/mdthemes</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-04-03T08:27:50Z</td>
-<td style="text-align: left;">2023-04-28T16:25:37Z</td>
+<td style="text-align: left;">2025-05-26T10:15:47Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">217</td>
+<tr>
+<td style="text-align: left;">316</td>
 <td style="text-align: left;">mdthemes</td>
 <td style="text-align: left;"><a href="https://github.com/cran/mdthemes"
 class="uri">https://github.com/cran/mdthemes</a></td>
@@ -2964,8 +4324,8 @@ mdthemes — Markdown Themes for ‘ggplot2’</td>
 <td style="text-align: left;">2020-07-02T16:28:53Z</td>
 <td style="text-align: left;">2020-07-02T16:29:02Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">218</td>
+<tr>
+<td style="text-align: left;">317</td>
 <td style="text-align: left;">metallicaRt</td>
 <td style="text-align: left;"><a
 href="https://github.com/johnmackintosh/metallicaRt"
@@ -2977,24 +4337,38 @@ href="https://johnmackintosh.com/metallicaRt/"
 class="uri">https://johnmackintosh.com/metallicaRt/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-09-22T20:06:05Z</td>
-<td style="text-align: left;">2023-06-23T17:28:44Z</td>
+<td style="text-align: left;">2025-03-22T08:13:55Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">219</td>
-<td style="text-align: left;">modthemes</td>
+<tr>
+<td style="text-align: left;">318</td>
+<td style="text-align: left;">michaelmallari.r</td>
 <td style="text-align: left;"><a
-href="https://github.com/marcboschmatas/modthemes"
-class="uri">https://github.com/marcboschmatas/modthemes</a></td>
-<td style="text-align: left;">A series of resources for ggplot2,
-including modernist-inspired themes, colour palettes and other styles.
-Very much Work in Progress</td>
+href="https://github.com/michaelmallari/michaelmallari.r"
+class="uri">https://github.com/michaelmallari/michaelmallari.r</a></td>
+<td style="text-align: left;">A small package of custom utility
+functions and ggplot2 theme.</td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">GNU General Public License v3.0</td>
-<td style="text-align: left;">2022-11-14T15:56:56Z</td>
-<td style="text-align: left;">2022-11-18T18:15:16Z</td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-05-17T21:05:19Z</td>
+<td style="text-align: left;">2025-05-18T16:51:10Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">220</td>
+<tr>
+<td style="text-align: left;">319</td>
+<td style="text-align: left;">minithemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/jmclawson/minithemes"
+class="uri">https://github.com/jmclawson/minithemes</a></td>
+<td style="text-align: left;">Simple themes and color palettes for
+ggplot2</td>
+<td style="text-align: left;"><a
+href="https://jmclawson.github.io/minithemes/"
+class="uri">https://jmclawson.github.io/minithemes/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-02-01T15:20:24Z</td>
+<td style="text-align: left;">2024-02-26T15:17:56Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">320</td>
 <td style="text-align: left;">module-9-visualizing-R</td>
 <td style="text-align: left;"><a
 href="https://github.com/daltonwesley/module-9-visualizing-R"
@@ -3018,7 +4392,7 @@ main=“lvp Rate”, xlab=“mvo”, ylab=“Percent lvp”, las=1, par.settings
 list(box.rectangle = list(fill=rainbow(6)))) # Plotting data through
 ggplot2 # Here I needed to take the Time data and get it converted to
 factors data_for_gg &lt;- data_from_file data_for_gg<span
-class="math inline"><em>m</em><em>v</em><em>o</em> &lt;  − <em>a</em><em>s</em>.<em>f</em><em>a</em><em>c</em><em>t</em><em>o</em><em>r</em>(<em>d</em><em>a</em><em>t</em><em>a</em><sub><em>f</em></sub><em>o</em><em>r</em><sub><em>g</em></sub><em>g</em></span>mvo)
+class="math inline"><em>m</em><em>v</em><em>o</em> &lt; −<em>a</em><em>s</em>.<em>f</em><em>a</em><em>c</em><em>t</em><em>o</em><em>r</em>(<em>d</em><em>a</em><em>t</em><em>a</em><sub><em>f</em></sub><em>o</em><em>r</em><sub><em>g</em></sub><em>g</em></span>mvo)
 # Take the data and plot it as a geom_boxplot() ggplot(data_for_gg,
 aes(x=mvo, y=lvp*100, fill=mvo)) + geom_boxplot() + labs(title=“Cardiac
 Data for Domestic Dogs”, x=“mvo”, y=“Percent lvp”) +
@@ -3028,8 +4402,8 @@ theme_classic()</td>
 <td style="text-align: left;">2021-03-15T03:25:19Z</td>
 <td style="text-align: left;">2021-03-15T03:25:51Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">221</td>
+<tr>
+<td style="text-align: left;">321</td>
 <td style="text-align: left;">mondriaRt</td>
 <td style="text-align: left;"><a
 href="https://github.com/borstell/mondriaRt"
@@ -3041,8 +4415,8 @@ and R/ggplot2</td>
 <td style="text-align: left;">2020-04-26T19:49:05Z</td>
 <td style="text-align: left;">2020-10-04T12:02:23Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">222</td>
+<tr>
+<td style="text-align: left;">322</td>
 <td style="text-align: left;">mpinltheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/joerodd/mpinltheme"
@@ -3054,8 +4428,8 @@ Psycholinguistics Corporate Identity</td>
 <td style="text-align: left;">2019-03-07T13:37:43Z</td>
 <td style="text-align: left;">2019-04-05T12:16:12Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">223</td>
+<tr>
+<td style="text-align: left;">323</td>
 <td style="text-align: left;">mplstyle</td>
 <td style="text-align: left;"><a
 href="https://github.com/smortezah/mplstyle"
@@ -3065,10 +4439,10 @@ class="uri">https://github.com/smortezah/mplstyle</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2021-04-30T14:18:43Z</td>
-<td style="text-align: left;">2023-04-16T22:51:12Z</td>
+<td style="text-align: left;">2025-06-22T07:29:41Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">224</td>
+<tr>
+<td style="text-align: left;">324</td>
 <td style="text-align: left;">msthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/mschnetzer/msthemes"
@@ -3077,10 +4451,10 @@ class="uri">https://github.com/mschnetzer/msthemes</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2018-06-28T12:29:36Z</td>
-<td style="text-align: left;">2022-12-08T12:47:39Z</td>
+<td style="text-align: left;">2024-08-25T10:45:49Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">225</td>
+<tr>
+<td style="text-align: left;">325</td>
 <td style="text-align: left;">mthemer</td>
 <td style="text-align: left;"><a href="https://github.com/sjewo/mthemer"
 class="uri">https://github.com/sjewo/mthemer</a></td>
@@ -3091,8 +4465,8 @@ beamer theme</td>
 <td style="text-align: left;">2017-11-17T15:04:09Z</td>
 <td style="text-align: left;">2020-06-05T13:33:10Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">226</td>
+<tr>
+<td style="text-align: left;">326</td>
 <td style="text-align: left;">my-ggthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/Elizemiku/my-ggthemes"
@@ -3104,8 +4478,8 @@ ggplot2</td>
 <td style="text-align: left;">2017-03-23T16:25:45Z</td>
 <td style="text-align: left;">2018-08-17T14:26:19Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">227</td>
+<tr>
+<td style="text-align: left;">327</td>
 <td style="text-align: left;">my_ggthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/dhammarstrom/my_ggthemes"
@@ -3116,8 +4490,8 @@ class="uri">https://github.com/dhammarstrom/my_ggthemes</a></td>
 <td style="text-align: left;">2015-05-05T11:16:37Z</td>
 <td style="text-align: left;">2015-05-05T11:55:18Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">228</td>
+<tr>
+<td style="text-align: left;">328</td>
 <td style="text-align: left;">mythesisthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/Rumenick/mythesisthemes"
@@ -3128,8 +4502,8 @@ class="uri">https://github.com/Rumenick/mythesisthemes</a></td>
 <td style="text-align: left;">2018-09-15T16:26:58Z</td>
 <td style="text-align: left;">2018-09-15T19:59:34Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">229</td>
+<tr>
+<td style="text-align: left;">329</td>
 <td style="text-align: left;">naglr</td>
 <td style="text-align: left;"><a href="https://github.com/tnagler/naglr"
 class="uri">https://github.com/tnagler/naglr</a></td>
@@ -3139,8 +4513,8 @@ class="uri">https://github.com/tnagler/naglr</a></td>
 <td style="text-align: left;">2017-05-12T15:16:31Z</td>
 <td style="text-align: left;">2022-05-07T02:29:50Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">230</td>
+<tr>
+<td style="text-align: left;">330</td>
 <td style="text-align: left;">netflix-data-analysis</td>
 <td style="text-align: left;"><a
 href="https://github.com/japnitahuja/netflix-data-analysis"
@@ -3150,10 +4524,10 @@ in R</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">MIT License</td>
 <td style="text-align: left;">2023-03-31T23:14:03Z</td>
-<td style="text-align: left;">2023-04-19T14:19:18Z</td>
+<td style="text-align: left;">2024-08-13T15:05:55Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">231</td>
+<tr>
+<td style="text-align: left;">331</td>
 <td style="text-align: left;">netflix-data-visualisation</td>
 <td style="text-align: left;"><a
 href="https://github.com/Ishwin9/netflix-data-visualisation"
@@ -3167,8 +4541,8 @@ graphs.</td>
 <td style="text-align: left;">2023-04-26T00:46:36Z</td>
 <td style="text-align: left;">2023-04-26T00:55:26Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">232</td>
+<tr>
+<td style="text-align: left;">332</td>
 <td style="text-align: left;">nmthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/maehler/nmthemes"
@@ -3179,8 +4553,8 @@ class="uri">https://github.com/maehler/nmthemes</a></td>
 <td style="text-align: left;">2017-11-08T15:47:24Z</td>
 <td style="text-align: left;">2020-03-13T14:19:05Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">233</td>
+<tr>
+<td style="text-align: left;">333</td>
 <td style="text-align: left;">noradplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/noradno/noradplot"
@@ -3192,36 +4566,61 @@ style for creating ggplot2 graphics.</td>
 <td style="text-align: left;">2022-10-10T21:04:17Z</td>
 <td style="text-align: left;">2023-06-20T16:20:04Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">234</td>
+<tr>
+<td style="text-align: left;">334</td>
+<td style="text-align: left;">nordic_noir</td>
+<td style="text-align: left;"><a
+href="https://github.com/taylorrodgers/nordic_noir"
+class="uri">https://github.com/taylorrodgers/nordic_noir</a></td>
+<td style="text-align: left;">Provides color palettes + theme_pander
+inspired function for ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-09-24T17:27:47Z</td>
+<td style="text-align: left;">2023-09-24T18:13:58Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">335</td>
 <td style="text-align: left;">nrsplot</td>
 <td style="text-align: left;"><a
-href="https://github.com/DataScienceScotland/nrsplot"
-class="uri">https://github.com/DataScienceScotland/nrsplot</a></td>
+href="https://github.com/ScotGovAnalysis/nrsplot"
+class="uri">https://github.com/ScotGovAnalysis/nrsplot</a></td>
 <td style="text-align: left;">R package that helps create ggplot2 charts
 in the style used by National Records of Scotland</td>
-<td style="text-align: left;"><a
-href="https://datasciencescotland.github.io/nrsplot/"
-class="uri">https://datasciencescotland.github.io/nrsplot/</a></td>
+<td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2019-03-12T09:28:22Z</td>
-<td style="text-align: left;">2021-03-05T10:43:37Z</td>
+<td style="text-align: left;">2024-02-01T15:19:33Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">235</td>
+<tr>
+<td style="text-align: left;">336</td>
 <td style="text-align: left;">oiplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/OpportunityInsights/oiplot"
 class="uri">https://github.com/OpportunityInsights/oiplot</a></td>
-<td style="text-align: left;">R package that helps create and export
-ggplot2 charts in the style used by the Opportunity Insights team.</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">An R package that helps create and export
+ggplot2 charts in the style used at Opportunity Insights.</td>
+<td style="text-align: left;"><a href="https://opportunityinsights.org"
+class="uri">https://opportunityinsights.org</a></td>
 <td style="text-align: left;">MIT License</td>
 <td style="text-align: left;">2023-07-13T19:33:38Z</td>
-<td style="text-align: left;">2023-07-13T19:54:14Z</td>
+<td style="text-align: left;">2025-07-25T21:30:09Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">236</td>
+<tr>
+<td style="text-align: left;">337</td>
+<td style="text-align: left;">oit-an-CU-theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/UCBoulder/oit-an-CU-theme"
+class="uri">https://github.com/UCBoulder/oit-an-CU-theme</a></td>
+<td style="text-align: left;">A ggplot2 theme with CU Boulder
+branding</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2020-11-02T18:39:48Z</td>
+<td style="text-align: left;">2024-08-09T19:52:39Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">338</td>
 <td style="text-align: left;">omni</td>
 <td style="text-align: left;"><a
 href="https://github.com/rfortherestofus/omni"
@@ -3233,10 +4632,10 @@ href="https://rfortherestofus.github.io/omni/"
 class="uri">https://rfortherestofus.github.io/omni/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-03-07T01:35:34Z</td>
-<td style="text-align: left;">2023-07-05T17:14:29Z</td>
+<td style="text-align: left;">2025-11-20T23:58:42Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">237</td>
+<tr>
+<td style="text-align: left;">339</td>
 <td style="text-align: left;">onroerenderfgoedtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/OnroerendErfgoed/onroerenderfgoedtheme"
@@ -3247,8 +4646,57 @@ class="uri">https://github.com/OnroerendErfgoed/onroerenderfgoedtheme</a></td>
 <td style="text-align: left;">2016-04-04T14:47:06Z</td>
 <td style="text-align: left;">2016-11-30T15:10:06Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">238</td>
+<tr>
+<td style="text-align: left;">340</td>
+<td style="text-align: left;">onsvplot</td>
+<td style="text-align: left;"><a
+href="https://github.com/pabsantos/onsvplot"
+class="uri">https://github.com/pabsantos/onsvplot</a></td>
+<td style="text-align: left;">National Road Safety Observatory (ONSV)
+Style for ‘ggplot2’ Graphics</td>
+<td style="text-align: left;"><a
+href="https://pabsantos.github.io/onsvplot/"
+class="uri">https://pabsantos.github.io/onsvplot/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-07-14T19:57:03Z</td>
+<td style="text-align: left;">2023-12-11T16:36:11Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">341</td>
+<td style="text-align: left;">onsvplot</td>
+<td style="text-align: left;"><a href="https://github.com/cran/onsvplot"
+class="uri">https://github.com/cran/onsvplot</a></td>
+<td
+style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
+onsvplot — National Road Safety Observatory (ONSV) Style for ‘ggplot2’ Graphics. Homepage: <a
+href="https://github.com/pabsantos/onsvplot/"
+class="uri">https://github.com/pabsantos/onsvplot/</a>
+Report bugs for this package: <a
+href="https://github.com/pabsantos/onsvplot/issues/"
+class="uri">https://github.com/pabsantos/onsvplot/issues/</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-09-05T20:31:02Z</td>
+<td style="text-align: left;">2023-09-05T20:31:07Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">342</td>
+<td style="text-align: left;">open-science-with-r</td>
+<td style="text-align: left;"><a
+href="https://github.com/carpentries-incubator/open-science-with-r"
+class="uri">https://github.com/carpentries-incubator/open-science-with-r</a></td>
+<td style="text-align: left;">Carpentry-style lesson on how to use R,
+RStudio together with git &amp; Github to promote Open Science
+practices.</td>
+<td style="text-align: left;"><a
+href="https://carpentries-incubator.github.io/open-science-with-r/"
+class="uri">https://carpentries-incubator.github.io/open-science-with-r/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2019-11-28T14:20:20Z</td>
+<td style="text-align: left;">2025-03-22T08:13:54Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">343</td>
 <td style="text-align: left;">ouRstyle</td>
 <td style="text-align: left;"><a
 href="https://github.com/PeterGrahamJersey/ouRstyle"
@@ -3259,8 +4707,8 @@ class="uri">https://github.com/PeterGrahamJersey/ouRstyle</a></td>
 <td style="text-align: left;">2019-06-08T09:53:18Z</td>
 <td style="text-align: left;">2019-07-07T11:10:27Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">239</td>
+<tr>
+<td style="text-align: left;">344</td>
 <td style="text-align: left;">p3themes</td>
 <td style="text-align: left;"><a
 href="https://github.com/p3lab/p3themes"
@@ -3273,8 +4721,8 @@ class="uri">https://p3lab.github.io/p3themes/</a></td>
 <td style="text-align: left;">2021-03-31T19:07:03Z</td>
 <td style="text-align: left;">2021-05-24T18:05:01Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">240</td>
+<tr>
+<td style="text-align: left;">345</td>
 <td style="text-align: left;">peopleanalytics</td>
 <td style="text-align: left;"><a
 href="https://github.com/eknud/peopleanalytics"
@@ -3286,8 +4734,20 @@ a Namely ggplot2 theme</td>
 <td style="text-align: left;">2017-03-05T19:48:07Z</td>
 <td style="text-align: left;">2019-02-12T18:36:52Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">241</td>
+<tr>
+<td style="text-align: left;">346</td>
+<td style="text-align: left;">petgg</td>
+<td style="text-align: left;"><a
+href="https://github.com/peteconomia/petgg"
+class="uri">https://github.com/peteconomia/petgg</a></td>
+<td style="text-align: left;">Pacote R para ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2020-12-01T20:36:29Z</td>
+<td style="text-align: left;">2021-07-28T13:08:21Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">347</td>
 <td style="text-align: left;">pilot</td>
 <td style="text-align: left;"><a
 href="https://github.com/olihawkins/pilot"
@@ -3298,10 +4758,38 @@ discrete color palette.</td>
 <td style="text-align: left;">BSD 3-Clause “New” or “Revised”
 License</td>
 <td style="text-align: left;">2019-04-06T13:14:25Z</td>
-<td style="text-align: left;">2023-05-30T10:14:37Z</td>
+<td style="text-align: left;">2025-10-14T07:57:01Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">242</td>
+<tr>
+<td style="text-align: left;">348</td>
+<td style="text-align: left;">plot_theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/ejparajon/plot_theme"
+class="uri">https://github.com/ejparajon/plot_theme</a></td>
+<td style="text-align: left;">This repo contains code used to create a
+custom ggplot2 theme in order to standardize graphical outputs.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-01-03T17:39:44Z</td>
+<td style="text-align: left;">2025-06-28T16:49:38Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">349</td>
+<td style="text-align: left;">plotnineseqsuite</td>
+<td style="text-align: left;"><a
+href="https://github.com/CaoTianze/plotnineseqsuite"
+class="uri">https://github.com/CaoTianze/plotnineseqsuite</a></td>
+<td style="text-align: left;">plotnineSeqSuite: a Python package for
+visualizing sequence data using ggplot2 style</td>
+<td style="text-align: left;"><a
+href="https://caotianze.github.io/plotnineseqsuite/"
+class="uri">https://caotianze.github.io/plotnineseqsuite/</a></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2023-05-05T06:47:51Z</td>
+<td style="text-align: left;">2025-10-06T09:19:06Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">350</td>
 <td style="text-align: left;">plotthemeR</td>
 <td style="text-align: left;"><a
 href="https://github.com/quantum-dan/plotthemeR"
@@ -3313,8 +4801,21 @@ for ggplot2.</td>
 <td style="text-align: left;">2022-02-28T17:35:18Z</td>
 <td style="text-align: left;">2022-02-28T17:35:48Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">243</td>
+<tr>
+<td style="text-align: left;">351</td>
+<td style="text-align: left;">plottools</td>
+<td style="text-align: left;"><a
+href="https://github.com/rosswilson-nz/plottools"
+class="uri">https://github.com/rosswilson-nz/plottools</a></td>
+<td style="text-align: left;">Extend <code>ggplot2</code> with themes,
+colour palettes, and geoms</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-09-23T22:54:58Z</td>
+<td style="text-align: left;">2025-10-24T03:10:15Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">352</td>
 <td style="text-align: left;">plotutils</td>
 <td style="text-align: left;"><a
 href="https://github.com/L-Groeninger/plotutils"
@@ -3325,8 +4826,8 @@ class="uri">https://github.com/L-Groeninger/plotutils</a></td>
 <td style="text-align: left;">2021-10-04T13:35:51Z</td>
 <td style="text-align: left;">2021-10-04T15:41:20Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">244</td>
+<tr>
+<td style="text-align: left;">353</td>
 <td style="text-align: left;">plummy</td>
 <td style="text-align: left;"><a
 href="https://github.com/royfrancis/plummy"
@@ -3337,10 +4838,10 @@ href="http://royfrancis.github.io/plummy/"
 class="uri">http://royfrancis.github.io/plummy/</a></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2023-05-05T16:05:02Z</td>
-<td style="text-align: left;">2023-05-05T16:15:21Z</td>
+<td style="text-align: left;">2025-11-28T16:09:24Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">245</td>
+<tr>
+<td style="text-align: left;">354</td>
 <td style="text-align: left;">posner_catalyst_presentation</td>
 <td style="text-align: left;"><a
 href="https://github.com/mrafa3/posner_catalyst_presentation"
@@ -3354,8 +4855,34 @@ class="uri">https://posnercenter.org/catalyst_entry/global-forecasting-a-tool-fo
 <td style="text-align: left;">2020-09-15T15:38:29Z</td>
 <td style="text-align: left;">2021-01-27T20:56:31Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">246</td>
+<tr>
+<td style="text-align: left;">355</td>
+<td style="text-align: left;">possibilitylabthemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/Possibility-Lab/possibilitylabthemes"
+class="uri">https://github.com/Possibility-Lab/possibilitylabthemes</a></td>
+<td style="text-align: left;">Possibility Lab’s ggplot2 theme</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2022-09-28T22:56:30Z</td>
+<td style="text-align: left;">2023-07-24T16:56:31Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">356</td>
+<td style="text-align: left;">projectStyleR</td>
+<td style="text-align: left;"><a
+href="https://github.com/HTGenomeAnalysisUnit/projectStyleR"
+class="uri">https://github.com/HTGenomeAnalysisUnit/projectStyleR</a></td>
+<td style="text-align: left;">utility package for R designed to enforce
+a consistent visual identity across all <code>ggplot2</code> plots
+generated for a scientific project</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-09-01T08:46:03Z</td>
+<td style="text-align: left;">2025-12-01T15:20:29Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">357</td>
 <td style="text-align: left;">quartomonothemer</td>
 <td style="text-align: left;"><a
 href="https://github.com/kazuyanagimoto/quartomonothemer"
@@ -3367,10 +4894,28 @@ href="http://kazuyanagimoto.com/quartomonothemer/"
 class="uri">http://kazuyanagimoto.com/quartomonothemer/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2023-02-06T23:04:48Z</td>
-<td style="text-align: left;">2023-05-25T21:27:01Z</td>
+<td style="text-align: left;">2025-08-03T14:05:18Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">247</td>
+<tr>
+<td style="text-align: left;">358</td>
+<td style="text-align: left;">r-visuals-by-owais</td>
+<td style="text-align: left;"><a
+href="https://github.com/econ-owais/r-visuals-by-owais"
+class="uri">https://github.com/econ-owais/r-visuals-by-owais</a></td>
+<td style="text-align: left;">This repository is a collection of R plots
+and data visualizations I’ve created using tools like ggplot2, base R,
+and other libraries. It showcases my work in statistical graphics,
+exploratory data analysis, and professional visualizations, mainly
+focused on themes related to economics and public policy.</td>
+<td style="text-align: left;"><a
+href="https://public.tableau.com/app/profile/owais.shah6191/vizzes"
+class="uri">https://public.tableau.com/app/profile/owais.shah6191/vizzes</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-04-07T03:09:51Z</td>
+<td style="text-align: left;">2025-09-17T07:03:51Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">359</td>
 <td style="text-align: left;">randplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/RANDCorporation/randplot"
@@ -3381,10 +4926,10 @@ uses.</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2021-09-02T16:43:08Z</td>
-<td style="text-align: left;">2023-04-27T15:56:18Z</td>
+<td style="text-align: left;">2025-10-31T12:39:18Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">248</td>
+<tr>
+<td style="text-align: left;">360</td>
 <td style="text-align: left;">ratlas</td>
 <td style="text-align: left;"><a
 href="https://github.com/atlas-aai/ratlas"
@@ -3395,10 +4940,10 @@ class="uri">https://github.com/atlas-aai/ratlas</a></td>
 class="uri">https://ratlas.netlify.app</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2018-09-26T16:14:04Z</td>
-<td style="text-align: left;">2023-03-11T12:21:00Z</td>
+<td style="text-align: left;">2025-12-03T09:08:48Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">249</td>
+<tr>
+<td style="text-align: left;">361</td>
 <td style="text-align: left;">rccthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/cancercentrum/rccthemes"
@@ -3412,8 +4957,8 @@ class="uri">https://cancercentrum.github.io/rccthemes/</a></td>
 <td style="text-align: left;">2022-12-20T08:44:34Z</td>
 <td style="text-align: left;">2022-12-20T09:01:26Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">250</td>
+<tr>
+<td style="text-align: left;">362</td>
 <td style="text-align: left;">rcookbook</td>
 <td style="text-align: left;"><a href="https://github.com/bbc/rcookbook"
 class="uri">https://github.com/bbc/rcookbook</a></td>
@@ -3423,10 +4968,10 @@ library</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2019-01-16T08:47:28Z</td>
-<td style="text-align: left;">2023-06-21T02:40:43Z</td>
+<td style="text-align: left;">2025-10-27T22:55:13Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">251</td>
+<tr>
+<td style="text-align: left;">363</td>
 <td style="text-align: left;">relper</td>
 <td style="text-align: left;"><a
 href="https://github.com/vbfelix/relper"
@@ -3438,10 +4983,10 @@ href="https://vbfelix.github.io/relper/"
 class="uri">https://vbfelix.github.io/relper/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-05-09T22:04:20Z</td>
-<td style="text-align: left;">2023-01-16T14:22:46Z</td>
+<td style="text-align: left;">2025-02-01T18:57:01Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">252</td>
+<tr>
+<td style="text-align: left;">364</td>
 <td style="text-align: left;">retrowave_theme</td>
 <td style="text-align: left;"><a
 href="https://github.com/jotunnch/retrowave_theme"
@@ -3453,8 +4998,8 @@ retrowave is all the rage these days</td>
 <td style="text-align: left;">2019-08-02T19:08:30Z</td>
 <td style="text-align: left;">2019-08-07T18:22:41Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">253</td>
+<tr>
+<td style="text-align: left;">365</td>
 <td style="text-align: left;">rkicolors</td>
 <td style="text-align: left;"><a
 href="https://github.com/lekroll/rkicolors"
@@ -3469,8 +5014,8 @@ class="uri">https://lekroll.github.io/rkicolors/</a></td>
 <td style="text-align: left;">2018-08-28T09:40:43Z</td>
 <td style="text-align: left;">2018-08-30T08:44:16Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">254</td>
+<tr>
+<td style="text-align: left;">366</td>
 <td style="text-align: left;">rltheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/mskyttner/rltheme"
@@ -3486,8 +5031,8 @@ v3.0</td>
 <td style="text-align: left;">2020-01-28T09:22:02Z</td>
 <td style="text-align: left;">2023-05-30T16:28:09Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">255</td>
+<tr>
+<td style="text-align: left;">367</td>
 <td style="text-align: left;">rnoaa</td>
 <td style="text-align: left;"><a
 href="https://github.com/Cesar-Urteaga/rnoaa"
@@ -3499,8 +5044,8 @@ earthquake data from the NOAA.</td>
 <td style="text-align: left;">2017-08-11T23:33:04Z</td>
 <td style="text-align: left;">2017-09-16T17:33:07Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">256</td>
+<tr>
+<td style="text-align: left;">368</td>
 <td style="text-align: left;">rockthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/johnmackintosh/rockthemes"
@@ -3512,10 +5057,23 @@ href="https://johnmackintosh.github.io/rockthemes/"
 class="uri">https://johnmackintosh.github.io/rockthemes/</a></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2020-10-07T22:59:23Z</td>
-<td style="text-align: left;">2022-12-08T02:37:45Z</td>
+<td style="text-align: left;">2025-03-22T08:13:55Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">257</td>
+<tr>
+<td style="text-align: left;">369</td>
+<td style="text-align: left;">rosepine-theme</td>
+<td style="text-align: left;"><a
+href="https://github.com/msjahid/rosepine-theme"
+class="uri">https://github.com/msjahid/rosepine-theme</a></td>
+<td style="text-align: left;">A custom ggplot2 theme inspired by the
+Rosé Pine aesthetic</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-11-27T12:41:59Z</td>
+<td style="text-align: left;">2024-12-19T14:18:07Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">370</td>
 <td style="text-align: left;">rphl</td>
 <td style="text-align: left;"><a
 href="https://github.com/CityOfPhiladelphia/rphl"
@@ -3528,8 +5086,8 @@ compatible with ggplot2..</td>
 <td style="text-align: left;">2019-10-11T14:23:54Z</td>
 <td style="text-align: left;">2021-07-09T16:46:27Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">258</td>
+<tr>
+<td style="text-align: left;">371</td>
 <td style="text-align: left;">s4ggthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/stats4good/s4ggthemes"
@@ -3541,8 +5099,8 @@ group</td>
 <td style="text-align: left;">2018-07-17T18:07:02Z</td>
 <td style="text-align: left;">2018-07-17T18:39:03Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">259</td>
+<tr>
+<td style="text-align: left;">372</td>
 <td style="text-align: left;">satrday-tw-ggtheme-intro</td>
 <td style="text-align: left;"><a
 href="https://github.com/shihjyun/satrday-tw-ggtheme-intro"
@@ -3554,8 +5112,8 @@ Own Plot Theme with ggplot2</td>
 <td style="text-align: left;">2020-10-17T01:43:52Z</td>
 <td style="text-align: left;">2020-10-17T01:49:11Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">260</td>
+<tr>
+<td style="text-align: left;">373</td>
 <td style="text-align: left;">sccthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/SCC-Planning/sccthemes"
@@ -3568,10 +5126,10 @@ href="https://scc-planning.github.io/scc-cookbook/"
 class="uri">https://scc-planning.github.io/scc-cookbook/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2022-09-28T12:56:57Z</td>
-<td style="text-align: left;">2023-06-08T08:33:12Z</td>
+<td style="text-align: left;">2024-05-15T16:33:46Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">261</td>
+<tr>
+<td style="text-align: left;">374</td>
 <td style="text-align: left;">schemeR</td>
 <td style="text-align: left;"><a
 href="https://github.com/schuyler-smith/schemeR"
@@ -3580,10 +5138,23 @@ class="uri">https://github.com/schuyler-smith/schemeR</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2023-04-11T15:23:49Z</td>
-<td style="text-align: left;">2023-04-11T16:27:32Z</td>
+<td style="text-align: left;">2024-12-05T13:23:20Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">262</td>
+<tr>
+<td style="text-align: left;">375</td>
+<td style="text-align: left;">scifi</td>
+<td style="text-align: left;"><a
+href="https://github.com/lovenum928/scifi"
+class="uri">https://github.com/lovenum928/scifi</a></td>
+<td style="text-align: left;">🦄 Scientific journal and sci-fi themed
+color palettes for ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-09-07T10:52:13Z</td>
+<td style="text-align: left;">2025-09-11T10:45:16Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">376</td>
 <td style="text-align: left;">sciplots</td>
 <td style="text-align: left;"><a
 href="https://github.com/garen-anderson/sciplots"
@@ -3594,8 +5165,22 @@ class="uri">https://github.com/garen-anderson/sciplots</a></td>
 <td style="text-align: left;">2021-11-16T18:55:48Z</td>
 <td style="text-align: left;">2021-11-16T20:08:04Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">263</td>
+<tr>
+<td style="text-align: left;">377</td>
+<td style="text-align: left;">seqriseR</td>
+<td style="text-align: left;"><a
+href="https://github.com/linruichai/seqriseR"
+class="uri">https://github.com/linruichai/seqriseR</a></td>
+<td style="text-align: left;">Extra ggplot themes and scales used on
+seqrise platform.</td>
+<td style="text-align: left;"><a href="https://seqrise.com/zh/index"
+class="uri">https://seqrise.com/zh/index</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2017-05-24T10:37:03Z</td>
+<td style="text-align: left;">2017-05-26T07:16:18Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">378</td>
 <td style="text-align: left;">severance</td>
 <td style="text-align: left;"><a
 href="https://github.com/ivelasq/severance"
@@ -3605,10 +5190,10 @@ palettes inspired by the show Severance</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2022-09-09T04:56:04Z</td>
-<td style="text-align: left;">2023-02-07T15:57:56Z</td>
+<td style="text-align: left;">2025-11-07T17:37:31Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">264</td>
+<tr>
+<td style="text-align: left;">379</td>
 <td style="text-align: left;">sfthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/amirmasoudabdol/sfthemes"
@@ -3621,25 +5206,25 @@ href="https://sfthemes.amirmasoudabdol.name"
 class="uri">https://sfthemes.amirmasoudabdol.name</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-08-17T15:05:47Z</td>
-<td style="text-align: left;">2023-03-28T10:35:16Z</td>
+<td style="text-align: left;">2025-10-06T09:32:52Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">265</td>
+<tr>
+<td style="text-align: left;">380</td>
 <td style="text-align: left;">sgplot</td>
 <td style="text-align: left;"><a
-href="https://github.com/DataScienceScotland/sgplot"
-class="uri">https://github.com/DataScienceScotland/sgplot</a></td>
-<td style="text-align: left;">Standard Graphic Styles for use in
-Scottish Government</td>
+href="https://github.com/ScotGovAnalysis/sgplot"
+class="uri">https://github.com/ScotGovAnalysis/sgplot</a></td>
+<td style="text-align: left;">Graphic styles and colours for Scottish
+Government plots</td>
 <td style="text-align: left;"><a
-href="https://datasciencescotland.github.io/sgplot/"
-class="uri">https://datasciencescotland.github.io/sgplot/</a></td>
+href="https://scotgovanalysis.github.io/sgplot/"
+class="uri">https://scotgovanalysis.github.io/sgplot/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2023-01-19T15:51:06Z</td>
-<td style="text-align: left;">2023-06-12T10:30:25Z</td>
+<td style="text-align: left;">2025-11-30T11:31:06Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">266</td>
+<tr>
+<td style="text-align: left;">381</td>
 <td style="text-align: left;">sgthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/statgarten/sgthemes"
@@ -3649,10 +5234,10 @@ ggplot2</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2023-01-02T06:35:40Z</td>
-<td style="text-align: left;">2023-06-08T00:50:10Z</td>
+<td style="text-align: left;">2025-10-14T01:54:58Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">267</td>
+<tr>
+<td style="text-align: left;">382</td>
 <td style="text-align: left;">shackettMisc</td>
 <td style="text-align: left;"><a
 href="https://github.com/shackett/shackettMisc"
@@ -3664,8 +5249,21 @@ themes) and data manipulation</td>
 <td style="text-align: left;">2016-09-09T16:05:25Z</td>
 <td style="text-align: left;">2016-09-09T16:07:37Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">268</td>
+<tr>
+<td style="text-align: left;">383</td>
+<td style="text-align: left;">shakiRa</td>
+<td style="text-align: left;"><a
+href="https://github.com/camartinezbu/shakiRa"
+class="uri">https://github.com/camartinezbu/shakiRa</a></td>
+<td style="text-align: left;">A R package that creates color palettes
+based on Shakira’s albums.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2021-05-21T23:28:45Z</td>
+<td style="text-align: left;">2023-08-27T02:40:32Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">384</td>
 <td style="text-align: left;">ssvTracks</td>
 <td style="text-align: left;"><a
 href="https://github.com/jrboyd/ssvTracks"
@@ -3675,10 +5273,10 @@ using seqsetvis (data.table and ggplot2)</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2022-07-12T19:09:05Z</td>
-<td style="text-align: left;">2023-03-14T13:45:44Z</td>
+<td style="text-align: left;">2025-04-20T14:05:53Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">269</td>
+<tr>
+<td style="text-align: left;">385</td>
 <td style="text-align: left;">statR</td>
 <td style="text-align: left;"><a
 href="https://github.com/statistikZH/statR"
@@ -3690,10 +5288,10 @@ href="https://statistikzh.github.io/statR/"
 class="uri">https://statistikzh.github.io/statR/</a></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2017-11-09T09:39:53Z</td>
-<td style="text-align: left;">2023-05-27T08:50:17Z</td>
+<td style="text-align: left;">2025-10-28T17:13:51Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">270</td>
+<tr>
+<td style="text-align: left;">386</td>
 <td style="text-align: left;">statThemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/STATWORX/statThemes"
@@ -3706,8 +5304,8 @@ class="uri">https://statworx.github.io/statThemes/</a></td>
 <td style="text-align: left;">2022-05-10T21:12:12Z</td>
 <td style="text-align: left;">2022-06-22T10:01:05Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">271</td>
+<tr>
+<td style="text-align: left;">387</td>
 <td style="text-align: left;">stevethemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/svmiller/stevethemes"
@@ -3718,10 +5316,10 @@ elements</td>
 class="uri">http://svmiller.com/stevethemes</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2023-01-22T14:52:33Z</td>
-<td style="text-align: left;">2023-04-30T21:39:47Z</td>
+<td style="text-align: left;">2025-03-22T10:25:30Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">272</td>
+<tr>
+<td style="text-align: left;">388</td>
 <td style="text-align: left;">stevethemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/cran/stevethemes"
@@ -3739,8 +5337,46 @@ class="uri">https://github.com/svmiller/stevethemes/issues</a></td>
 <td style="text-align: left;">2023-02-01T03:38:40Z</td>
 <td style="text-align: left;">2023-02-01T03:38:46Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">273</td>
+<tr>
+<td style="text-align: left;">389</td>
+<td style="text-align: left;">styleBreton</td>
+<td style="text-align: left;"><a
+href="https://github.com/juanlbreton/styleBreton"
+class="uri">https://github.com/juanlbreton/styleBreton</a></td>
+<td style="text-align: left;">R package for styling ggplot2 plots with
+Breton look and feel.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-09-21T21:14:59Z</td>
+<td style="text-align: left;">2025-09-18T23:26:44Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">390</td>
+<td style="text-align: left;">styler</td>
+<td style="text-align: left;"><a
+href="https://github.com/kazumov/styler"
+class="uri">https://github.com/kazumov/styler</a></td>
+<td style="text-align: left;">GGPlot2 color palette selector</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2019-11-26T23:15:52Z</td>
+<td style="text-align: left;">2019-11-26T23:29:09Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">391</td>
+<td style="text-align: left;">suezalla</td>
+<td style="text-align: left;"><a
+href="https://github.com/sucanavan/suezalla"
+class="uri">https://github.com/sucanavan/suezalla</a></td>
+<td style="text-align: left;">My custom ggplot2 theme and colour palette
+package</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-05-03T09:38:21Z</td>
+<td style="text-align: left;">2025-05-07T13:39:00Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">392</td>
 <td style="text-align: left;">syknappticThemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/knapply/syknappticThemes"
@@ -3751,8 +5387,8 @@ class="uri">https://github.com/knapply/syknappticThemes</a></td>
 <td style="text-align: left;">2018-01-28T19:47:44Z</td>
 <td style="text-align: left;">2018-01-28T20:35:05Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">274</td>
+<tr>
+<td style="text-align: left;">393</td>
 <td style="text-align: left;">tadaathemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/tadaadata/tadaathemes"
@@ -3763,10 +5399,23 @@ href="https://tadaadata.github.io/tadaathemes"
 class="uri">https://tadaadata.github.io/tadaathemes</a></td>
 <td style="text-align: left;">MIT License</td>
 <td style="text-align: left;">2020-05-08T00:02:44Z</td>
-<td style="text-align: left;">2020-11-09T16:52:35Z</td>
+<td style="text-align: left;">2024-02-01T08:30:30Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">275</td>
+<tr>
+<td style="text-align: left;">394</td>
+<td style="text-align: left;">tariffTheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/andreasljungstrm/tariffTheme"
+class="uri">https://github.com/andreasljungstrm/tariffTheme</a></td>
+<td style="text-align: left;">ggplot2 theme for visualising reciprocal
+tariffs</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2025-04-08T13:23:29Z</td>
+<td style="text-align: left;">2025-04-08T14:04:52Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">395</td>
 <td style="text-align: left;">taylor</td>
 <td style="text-align: left;"><a
 href="https://github.com/wjakethompson/taylor"
@@ -3777,10 +5426,10 @@ Taylor Swift songs, and ggplot2 helper functions</td>
 class="uri">https://taylor.wjakethompson.com</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2021-06-25T19:12:45Z</td>
-<td style="text-align: left;">2023-07-08T13:07:18Z</td>
+<td style="text-align: left;">2025-10-30T16:51:46Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">276</td>
+<tr>
+<td style="text-align: left;">396</td>
 <td style="text-align: left;">taylorswiftthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/mfgeary/taylorswiftthemes"
@@ -3792,8 +5441,21 @@ class="uri">https://github.com/mfgeary/taylorswiftthemes</a></td>
 <td style="text-align: left;">2023-04-17T21:42:03Z</td>
 <td style="text-align: left;">2023-05-18T03:26:44Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">277</td>
+<tr>
+<td style="text-align: left;">397</td>
+<td style="text-align: left;">ternary-zoom</td>
+<td style="text-align: left;"><a
+href="https://github.com/Zhiyu-Wei/ternary-zoom"
+class="uri">https://github.com/Zhiyu-Wei/ternary-zoom</a></td>
+<td style="text-align: left;">visualizes 3-dimensional compositional
+data in a 2D projected ternary-style plot using ggplot2.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-05-21T09:18:03Z</td>
+<td style="text-align: left;">2025-05-23T08:58:01Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">398</td>
 <td style="text-align: left;">tgamtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/globeandmail/tgamtheme"
@@ -3805,10 +5467,10 @@ href="https://globeandmail.github.io/tgamtheme"
 class="uri">https://globeandmail.github.io/tgamtheme</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2021-01-20T17:43:12Z</td>
-<td style="text-align: left;">2021-02-18T21:42:14Z</td>
+<td style="text-align: left;">2025-08-25T16:56:40Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">278</td>
+<tr>
+<td style="text-align: left;">399</td>
 <td style="text-align: left;">tgamtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/cran/tgamtheme"
@@ -3828,8 +5490,8 @@ class="uri">https://github.com/globeandmail/tgamtheme/issues</a></td>
 <td style="text-align: left;">2021-02-05T11:32:24Z</td>
 <td style="text-align: left;">2021-02-05T11:32:31Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">279</td>
+<tr>
+<td style="text-align: left;">400</td>
 <td style="text-align: left;">thematic</td>
 <td style="text-align: left;"><a
 href="https://github.com/rstudio/thematic"
@@ -3841,10 +5503,10 @@ href="https://rstudio.github.io/thematic/"
 class="uri">https://rstudio.github.io/thematic/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2020-03-06T23:01:11Z</td>
-<td style="text-align: left;">2023-04-13T16:43:31Z</td>
+<td style="text-align: left;">2025-12-04T14:11:23Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">280</td>
+<tr>
+<td style="text-align: left;">401</td>
 <td style="text-align: left;">thematic</td>
 <td style="text-align: left;"><a href="https://github.com/cran/thematic"
 class="uri">https://github.com/cran/thematic</a></td>
@@ -3853,15 +5515,60 @@ style="text-align: left;">:exclamation: This is a read-only mirror of the
 thematic — Unified and Automatic ‘Theming’ of ‘ggplot2’, ‘lattice’, and ‘base’ R Graphics. Homepage: <a
 href="https://rstudio.github.io/thematic/"
 class="uri">https://rstudio.github.io/thematic/</a>, <a
-href="https://github.com/rstudio/thematic#readme"
-class="uri">https://github.com/rstudio/thematic#readme</a></td>
+href="https://github.com/rstudio/thematic"
+class="uri">https://github.com/rstudio/thematic</a>
+Report bugs for this package: <a
+href="https://github.com/rstudio/thematic/iss"
+class="uri">https://github.com/rstudio/thematic/iss</a> …</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2021-01-29T18:03:36Z</td>
-<td style="text-align: left;">2021-10-14T18:50:51Z</td>
+<td style="text-align: left;">2025-09-30T02:00:33Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">281</td>
+<tr>
+<td style="text-align: left;">402</td>
+<td style="text-align: left;">theme61</td>
+<td style="text-align: left;"><a
+href="https://github.com/e61-Institute/theme61"
+class="uri">https://github.com/e61-Institute/theme61</a></td>
+<td style="text-align: left;">Create graphs in the e61 Institute
+style</td>
+<td style="text-align: left;"><a
+href="https://e61-institute.github.io/theme61/"
+class="uri">https://e61-institute.github.io/theme61/</a></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2022-04-07T03:53:28Z</td>
+<td style="text-align: left;">2025-11-30T11:35:25Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">403</td>
+<td style="text-align: left;">themeBCR</td>
+<td style="text-align: left;"><a
+href="https://github.com/ClassicCK/themeBCR"
+class="uri">https://github.com/ClassicCK/themeBCR</a></td>
+<td style="text-align: left;">A package for generating plots in ggplot2
+with the color schemes of the Bird Conservancy of the Rockies and the
+birder game Wingspan</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-08-23T19:05:58Z</td>
+<td style="text-align: left;">2023-08-23T22:01:56Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">404</td>
+<td style="text-align: left;">themeBaseball</td>
+<td style="text-align: left;"><a
+href="https://github.com/ClassicCK/themeBaseball"
+class="uri">https://github.com/ClassicCK/themeBaseball</a></td>
+<td style="text-align: left;">A package for generating plots in ggplot2
+with the color schemes of the Major League Baseball Franchises</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2023-08-23T21:57:06Z</td>
+<td style="text-align: left;">2023-08-23T21:57:59Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">405</td>
 <td style="text-align: left;">themeBayer</td>
 <td style="text-align: left;"><a
 href="https://github.com/Connor-Bayer/themeBayer"
@@ -3871,23 +5578,48 @@ adds theme colors for easy usage in R</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2022-11-17T18:33:54Z</td>
-<td style="text-align: left;">2023-03-30T05:46:30Z</td>
+<td style="text-align: left;">2025-07-09T15:06:19Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">282</td>
-<td style="text-align: left;">themeODA</td>
+<tr>
+<td style="text-align: left;">406</td>
+<td style="text-align: left;">themeFreecastle</td>
 <td style="text-align: left;"><a
-href="https://github.com/cu-boulder/themeODA"
-class="uri">https://github.com/cu-boulder/themeODA</a></td>
-<td style="text-align: left;">A ggplot2 theme with CU Boulder
-branding</td>
+href="https://github.com/LangeTo/themeFreecastle"
+class="uri">https://github.com/LangeTo/themeFreecastle</a></td>
+<td style="text-align: left;">Customized theme for ggplot2</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;">2020-11-02T18:39:48Z</td>
-<td style="text-align: left;">2020-11-02T20:07:50Z</td>
+<td style="text-align: left;">2023-05-04T10:48:20Z</td>
+<td style="text-align: left;">2023-09-15T18:45:56Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">283</td>
+<tr>
+<td style="text-align: left;">407</td>
+<td style="text-align: left;">themeKI</td>
+<td style="text-align: left;"><a
+href="https://github.com/vilgot-huhn/themeKI"
+class="uri">https://github.com/vilgot-huhn/themeKI</a></td>
+<td style="text-align: left;">custom ggplot2 theme with Karolinska
+Institutet colour palette and font</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2024-05-15T18:31:07Z</td>
+<td style="text-align: left;">2025-09-30T08:39:50Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">408</td>
+<td style="text-align: left;">themeSergio</td>
+<td style="text-align: left;"><a
+href="https://github.com/Sergiollaneza/themeSergio"
+class="uri">https://github.com/Sergiollaneza/themeSergio</a></td>
+<td style="text-align: left;">Package with my favourite ggplot2
+theme</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-09-07T23:49:28Z</td>
+<td style="text-align: left;">2024-09-09T08:43:01Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">409</td>
 <td style="text-align: left;">themeTom</td>
 <td style="text-align: left;"><a
 href="https://github.com/thmcmahon/themeTom"
@@ -3898,8 +5630,21 @@ class="uri">https://github.com/thmcmahon/themeTom</a></td>
 <td style="text-align: left;">2017-07-18T01:13:54Z</td>
 <td style="text-align: left;">2017-07-18T01:14:14Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">284</td>
+<tr>
+<td style="text-align: left;">410</td>
+<td style="text-align: left;">theme_adfg</td>
+<td style="text-align: left;"><a
+href="https://github.com/commfish/theme_adfg"
+class="uri">https://github.com/commfish/theme_adfg</a></td>
+<td style="text-align: left;">A ggplot2 theme for reproducible figures
+in R.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-09-04T17:07:16Z</td>
+<td style="text-align: left;">2025-09-23T22:46:00Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">411</td>
 <td style="text-align: left;">theme_bray</td>
 <td style="text-align: left;"><a
 href="https://github.com/fr-pscz/theme_bray"
@@ -3911,8 +5656,8 @@ matching my LaTeX theme.</td>
 <td style="text-align: left;">2021-10-18T16:38:05Z</td>
 <td style="text-align: left;">2021-10-19T18:07:38Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">285</td>
+<tr>
+<td style="text-align: left;">412</td>
 <td style="text-align: left;">theme_ebt</td>
 <td style="text-align: left;"><a
 href="https://github.com/BurkyVIE/theme_ebt"
@@ -3923,8 +5668,8 @@ class="uri">https://github.com/BurkyVIE/theme_ebt</a></td>
 <td style="text-align: left;">2019-04-19T06:06:05Z</td>
 <td style="text-align: left;">2021-03-03T18:16:50Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">286</td>
+<tr>
+<td style="text-align: left;">413</td>
 <td style="text-align: left;">theme_fivethirtyeight</td>
 <td style="text-align: left;"><a
 href="https://github.com/alex23lemm/theme_fivethirtyeight"
@@ -3934,10 +5679,10 @@ fivethirtyeight.com plots</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2014-07-29T08:47:00Z</td>
-<td style="text-align: left;">2023-05-30T21:55:43Z</td>
+<td style="text-align: left;">2024-10-13T20:59:43Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">287</td>
+<tr>
+<td style="text-align: left;">414</td>
 <td style="text-align: left;">theme_lessismore</td>
 <td style="text-align: left;"><a
 href="https://github.com/allan-ripley/theme_lessismore"
@@ -3949,8 +5694,20 @@ ready plots.</td>
 <td style="text-align: left;">2019-03-29T14:12:24Z</td>
 <td style="text-align: left;">2019-03-29T19:38:43Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">288</td>
+<tr>
+<td style="text-align: left;">415</td>
+<td style="text-align: left;">theme_m</td>
+<td style="text-align: left;"><a
+href="https://github.com/martinopertti/theme_m"
+class="uri">https://github.com/martinopertti/theme_m</a></td>
+<td style="text-align: left;">Tema personalizado de ggplot2</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2021-01-07T19:55:45Z</td>
+<td style="text-align: left;">2021-10-26T15:05:14Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">416</td>
 <td style="text-align: left;">theme_mapc</td>
 <td style="text-align: left;"><a
 href="https://github.com/aseemdeodhar/theme_mapc"
@@ -3962,8 +5719,45 @@ MAPC’s design language</td>
 <td style="text-align: left;">2020-12-06T14:52:21Z</td>
 <td style="text-align: left;">2020-12-17T16:04:25Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">289</td>
+<tr>
+<td style="text-align: left;">417</td>
+<td style="text-align: left;">theme_memorylab</td>
+<td style="text-align: left;"><a
+href="https://github.com/SlimStampen/theme_memorylab"
+class="uri">https://github.com/SlimStampen/theme_memorylab</a></td>
+<td style="text-align: left;">A ggplot2 theme for MemoryLab</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2023-12-01T15:20:10Z</td>
+<td style="text-align: left;">2023-12-01T15:20:49Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">418</td>
+<td style="text-align: left;">theme_oppenheimer</td>
+<td style="text-align: left;"><a
+href="https://github.com/TokiLiam/theme_oppenheimer"
+class="uri">https://github.com/TokiLiam/theme_oppenheimer</a></td>
+<td style="text-align: left;">An Oppenheimer inspired ggplot2 theme</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2023-07-23T16:43:28Z</td>
+<td style="text-align: left;">2023-07-23T18:09:58Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">419</td>
+<td style="text-align: left;">theme_pauli</td>
+<td style="text-align: left;"><a
+href="https://github.com/paulapereda/theme_pauli"
+class="uri">https://github.com/paulapereda/theme_pauli</a></td>
+<td style="text-align: left;">Tema de ggplot2 para gráficos
+personales</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-04-19T14:58:26Z</td>
+<td style="text-align: left;">2025-04-19T14:58:31Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">420</td>
 <td style="text-align: left;">theme_ubicomp</td>
 <td style="text-align: left;"><a
 href="https://github.com/nielsvanberkel/theme_ubicomp"
@@ -3975,8 +5769,20 @@ functions</td>
 <td style="text-align: left;">2017-02-03T08:59:40Z</td>
 <td style="text-align: left;">2019-09-23T23:03:10Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">290</td>
+<tr>
+<td style="text-align: left;">421</td>
+<td style="text-align: left;">theme_zach</td>
+<td style="text-align: left;"><a
+href="https://github.com/zachary-richardson16/theme_zach"
+class="uri">https://github.com/zachary-richardson16/theme_zach</a></td>
+<td style="text-align: left;">A custom, sleek ggplot2 theme in R</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-09-22T21:46:12Z</td>
+<td style="text-align: left;">2025-10-01T18:13:24Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">422</td>
 <td style="text-align: left;">themedenv</td>
 <td style="text-align: left;"><a
 href="https://github.com/eldenvo/themedenv"
@@ -3987,21 +5793,21 @@ class="uri">https://github.com/eldenvo/themedenv</a></td>
 <td style="text-align: left;">2018-02-18T17:23:05Z</td>
 <td style="text-align: left;">2018-03-13T18:38:08Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">291</td>
-<td style="text-align: left;">themedubois</td>
+<tr>
+<td style="text-align: left;">423</td>
+<td style="text-align: left;">themefurmanu</td>
 <td style="text-align: left;"><a
-href="https://github.com/brevinf1/themedubois"
-class="uri">https://github.com/brevinf1/themedubois</a></td>
-<td style="text-align: left;">Simple ggplot2 Theme to Replicate W.E.B.
-Du Bois’ Data Visuzliazations</td>
+href="https://github.com/scottamoore/themefurmanu"
+class="uri">https://github.com/scottamoore/themefurmanu</a></td>
+<td style="text-align: left;">Furman ggplot2 theme package with font
+fallback</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
-<td style="text-align: left;">2022-03-29T03:23:21Z</td>
-<td style="text-align: left;">2022-02-10T18:55:40Z</td>
+<td style="text-align: left;">2025-05-14T17:31:34Z</td>
+<td style="text-align: left;">2025-07-27T14:21:34Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">292</td>
+<tr>
+<td style="text-align: left;">424</td>
 <td style="text-align: left;">themejj</td>
 <td style="text-align: left;"><a
 href="https://github.com/JanaJarecki/themejj"
@@ -4012,8 +5818,8 @@ class="uri">https://github.com/JanaJarecki/themejj</a></td>
 <td style="text-align: left;">2016-12-21T09:26:57Z</td>
 <td style="text-align: left;">2020-09-02T09:29:56Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">293</td>
+<tr>
+<td style="text-align: left;">425</td>
 <td style="text-align: left;">themepubr</td>
 <td style="text-align: left;"><a
 href="https://github.com/Carolusian/themepubr"
@@ -4024,8 +5830,8 @@ class="uri">https://github.com/Carolusian/themepubr</a></td>
 <td style="text-align: left;">2017-10-24T15:11:39Z</td>
 <td style="text-align: left;">2017-10-24T15:12:03Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">294</td>
+<tr>
+<td style="text-align: left;">426</td>
 <td style="text-align: left;">themeresolved</td>
 <td style="text-align: left;"><a
 href="https://github.com/beresolved/themeresolved"
@@ -4037,8 +5843,8 @@ line with the company house style</td>
 <td style="text-align: left;">2019-10-16T08:14:27Z</td>
 <td style="text-align: left;">2022-10-11T10:18:49Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">295</td>
+<tr>
+<td style="text-align: left;">427</td>
 <td style="text-align: left;">themes360info</td>
 <td style="text-align: left;"><a
 href="https://github.com/360-info/themes360info"
@@ -4049,10 +5855,23 @@ that align with 360info style guides</td>
 <td style="text-align: left;">Creative Commons Attribution 4.0
 International</td>
 <td style="text-align: left;">2021-11-22T04:25:15Z</td>
-<td style="text-align: left;">2023-05-29T19:57:10Z</td>
+<td style="text-align: left;">2025-03-22T18:54:42Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">296</td>
+<tr>
+<td style="text-align: left;">428</td>
+<td style="text-align: left;">tidy-tuesday-style</td>
+<td style="text-align: left;"><a
+href="https://github.com/megpay/tidy-tuesday-style"
+class="uri">https://github.com/megpay/tidy-tuesday-style</a></td>
+<td style="text-align: left;">A repo to store ggplot2 style for
+tidytuesday plots</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MIT License</td>
+<td style="text-align: left;">2024-01-14T14:08:58Z</td>
+<td style="text-align: left;">2024-01-14T14:08:58Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">429</td>
 <td style="text-align: left;">tidy_tuesday</td>
 <td style="text-align: left;"><a
 href="https://github.com/mrafa3/tidy_tuesday"
@@ -4061,10 +5880,55 @@ class="uri">https://github.com/mrafa3/tidy_tuesday</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2020-09-21T19:25:02Z</td>
-<td style="text-align: left;">2022-12-17T04:23:32Z</td>
+<td style="text-align: left;">2024-07-15T17:15:57Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">297</td>
+<tr>
+<td style="text-align: left;">430</td>
+<td style="text-align: left;">tinythemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/eddelbuettel/tinythemes"
+class="uri">https://github.com/eddelbuettel/tinythemes</a></td>
+<td style="text-align: left;">Lightweight Repackaging of ‘Themes’ for
+‘ggplot2’</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-12-11T17:37:21Z</td>
+<td style="text-align: left;">2025-11-23T21:25:47Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">431</td>
+<td style="text-align: left;">tinythemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/cran/tinythemes"
+class="uri">https://github.com/cran/tinythemes</a></td>
+<td
+style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
+tinythemes — Lightweight Repackaging of ‘Themes’ for ‘ggplot2’. Homepage: <a
+href="https://github.com/eddelbuettel/tinythemes"
+class="uri">https://github.com/eddelbuettel/tinythemes</a>
+Report bugs for this package: <a
+href="https://github.com/eddelbuettel/tinythemes/issues"
+class="uri">https://github.com/eddelbuettel/tinythemes/issues</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-12-19T02:39:57Z</td>
+<td style="text-align: left;">2025-10-02T13:38:46Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">432</td>
+<td style="text-align: left;">toms_ggplot2_themes</td>
+<td style="text-align: left;"><a
+href="https://github.com/bd-41201/toms_ggplot2_themes"
+class="uri">https://github.com/bd-41201/toms_ggplot2_themes</a></td>
+<td style="text-align: left;">Some files that can be run to create
+better themes for certain graphics.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2015-04-08T20:56:00Z</td>
+<td style="text-align: left;">2015-04-08T21:04:53Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">433</td>
 <td style="text-align: left;">tpltheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/connorrothschild/tpltheme"
@@ -4076,8 +5940,24 @@ Policy Lab</td>
 <td style="text-align: left;">2019-07-15T16:56:17Z</td>
 <td style="text-align: left;">2022-08-30T07:07:06Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">298</td>
+<tr>
+<td style="text-align: left;">434</td>
+<td style="text-align: left;">tree-height-maps-meta</td>
+<td style="text-align: left;"><a
+href="https://github.com/milos-agathon/tree-height-maps-meta"
+class="uri">https://github.com/milos-agathon/tree-height-maps-meta</a></td>
+<td style="text-align: left;">In this repo, I’ll guide you through the
+process of downloading the latest tree canopy height data from Meta and
+the World Resources Institute, with a detailed resolution of 1 meter.
+You’ll learn how to create clear static maps using ggplot2 in both light
+and dark themes, as well as interactive maps with leaflet</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-05-12T15:33:04Z</td>
+<td style="text-align: left;">2025-03-01T22:14:16Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">435</td>
 <td style="text-align: left;">tvthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/Ryo-N7/tvthemes"
@@ -4089,10 +5969,10 @@ href="https://ryo-n7.github.io/tvthemes/"
 class="uri">https://ryo-n7.github.io/tvthemes/</a></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2019-03-31T04:54:54Z</td>
-<td style="text-align: left;">2023-06-26T03:19:36Z</td>
+<td style="text-align: left;">2025-11-10T12:47:49Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">299</td>
+<tr>
+<td style="text-align: left;">436</td>
 <td style="text-align: left;">tvthemes</td>
 <td style="text-align: left;"><a href="https://github.com/cran/tvthemes"
 class="uri">https://github.com/cran/tvthemes</a></td>
@@ -4107,10 +5987,10 @@ class="uri">https://github.com/Ryo-N7/tvthemes/issues</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2019-09-03T09:03:46Z</td>
-<td style="text-align: left;">2022-11-18T03:52:04Z</td>
+<td style="text-align: left;">2024-08-24T16:26:22Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">300</td>
+<tr>
+<td style="text-align: left;">437</td>
 <td style="text-align: left;">twriTemplates</td>
 <td style="text-align: left;"><a
 href="https://github.com/TxWRI/twriTemplates"
@@ -4124,8 +6004,8 @@ class="uri">https://txwri.github.io/twriTemplates/</a></td>
 <td style="text-align: left;">2021-05-25T20:48:24Z</td>
 <td style="text-align: left;">2022-02-07T17:59:23Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">301</td>
+<tr>
+<td style="text-align: left;">438</td>
 <td style="text-align: left;">ucsftheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/anobel/ucsftheme"
@@ -4137,8 +6017,8 @@ ggplot2</td>
 <td style="text-align: left;">2018-03-05T23:58:24Z</td>
 <td style="text-align: left;">2023-03-25T06:42:31Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">302</td>
+<tr>
+<td style="text-align: left;">439</td>
 <td style="text-align: left;">uganda_food_security_report</td>
 <td style="text-align: left;"><a
 href="https://github.com/mrafa3/uganda_food_security_report"
@@ -4152,8 +6032,8 @@ class="uri">https://s3-us-west-2.amazonaws.com/drupalwebsitepardee/pardee/public
 <td style="text-align: left;">2020-09-17T20:27:46Z</td>
 <td style="text-align: left;">2021-01-27T20:53:08Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">303</td>
+<tr>
+<td style="text-align: left;">440</td>
 <td style="text-align: left;">unam.theme</td>
 <td style="text-align: left;"><a
 href="https://github.com/alberto-mateos-mo/unam.theme"
@@ -4165,23 +6045,44 @@ International</td>
 <td style="text-align: left;">2020-01-19T04:36:03Z</td>
 <td style="text-align: left;">2020-07-31T03:26:18Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">304</td>
+<tr>
+<td style="text-align: left;">441</td>
 <td style="text-align: left;">unhcrthemes</td>
 <td style="text-align: left;"><a
-href="https://github.com/vidonne/unhcrthemes"
-class="uri">https://github.com/vidonne/unhcrthemes</a></td>
+href="https://github.com/unhcr-dataviz/unhcrthemes"
+class="uri">https://github.com/unhcr-dataviz/unhcrthemes</a></td>
 <td style="text-align: left;">UNHCR branded theme for ggplot2 and data
 visualization colour palettes</td>
 <td style="text-align: left;"><a
-href="https://vidonne.github.io/unhcrthemes/"
-class="uri">https://vidonne.github.io/unhcrthemes/</a></td>
+href="https://unhcr-dataviz.github.io/unhcrthemes/"
+class="uri">https://unhcr-dataviz.github.io/unhcrthemes/</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2021-01-28T13:38:55Z</td>
-<td style="text-align: left;">2023-02-24T09:39:30Z</td>
+<td style="text-align: left;">2025-12-03T13:12:10Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">305</td>
+<tr>
+<td style="text-align: left;">442</td>
+<td style="text-align: left;">unhcrthemes</td>
+<td style="text-align: left;"><a
+href="https://github.com/cran/unhcrthemes"
+class="uri">https://github.com/cran/unhcrthemes</a></td>
+<td
+style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
+unhcrthemes — UNHCR ‘ggplot2’ Theme and Colour Palettes. Homepage: <a
+href="https://github.com/unhcr-dataviz/unhcrthemes"
+class="uri">https://github.com/unhcr-dataviz/unhcrthemes</a>, <a
+href="https://unhcr-dataviz.github.io/unhcrthemes/"
+class="uri">https://unhcr-dataviz.github.io/unhcrthemes/</a>
+Report bugs for this package: <a
+href="https://github.com/unhcr-dataviz/unhcrthemes/issues"
+class="uri">https://github.com/unhcr-dataviz/unhcrthemes/issues</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2023-11-21T02:42:50Z</td>
+<td style="text-align: left;">2025-09-04T12:56:25Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">443</td>
 <td style="text-align: left;">urbnthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/UrbanInstitute/urbnthemes"
@@ -4193,10 +6094,10 @@ href="https://UrbanInstitute.github.io/urbnthemes/"
 class="uri">https://UrbanInstitute.github.io/urbnthemes/</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">2018-03-09T13:49:18Z</td>
-<td style="text-align: left;">2023-05-05T05:17:11Z</td>
+<td style="text-align: left;">2025-11-23T13:54:30Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">306</td>
+<tr>
+<td style="text-align: left;">444</td>
 <td style="text-align: left;">ussc_draft</td>
 <td style="text-align: left;"><a
 href="https://github.com/USStudiesCentre/ussc_draft"
@@ -4208,8 +6109,21 @@ themes and D3.js templates.</td>
 <td style="text-align: left;">2018-05-02T00:28:53Z</td>
 <td style="text-align: left;">2018-05-09T03:30:51Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">307</td>
+<tr>
+<td style="text-align: left;">445</td>
+<td style="text-align: left;">vagotheme</td>
+<td style="text-align: left;"><a
+href="https://github.com/zerogetsamgow/vagotheme"
+class="uri">https://github.com/zerogetsamgow/vagotheme</a></td>
+<td style="text-align: left;">ggplot2 themes and colour palettes that
+are Victorian Auditor-General’s Office style guide compliant.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2024-09-20T06:24:20Z</td>
+<td style="text-align: left;">2024-12-03T02:55:59Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">446</td>
 <td style="text-align: left;">vapoRwave</td>
 <td style="text-align: left;"><a
 href="https://github.com/moldach/vapoRwave"
@@ -4219,10 +6133,10 @@ for ggplot2💾👨‍🎤📺</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2019-02-10T00:12:39Z</td>
-<td style="text-align: left;">2023-06-30T15:18:43Z</td>
+<td style="text-align: left;">2025-11-22T05:40:05Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">308</td>
+<tr>
+<td style="text-align: left;">447</td>
 <td style="text-align: left;">visibly</td>
 <td style="text-align: left;"><a
 href="https://github.com/m-clark/visibly"
@@ -4234,10 +6148,10 @@ href="https://m-clark.github.io/visibly"
 class="uri">https://m-clark.github.io/visibly</a></td>
 <td style="text-align: left;">Other</td>
 <td style="text-align: left;">2018-06-10T15:52:32Z</td>
-<td style="text-align: left;">2023-01-19T01:45:28Z</td>
+<td style="text-align: left;">2025-09-22T10:14:53Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">309</td>
+<tr>
+<td style="text-align: left;">448</td>
 <td style="text-align: left;">visualizer</td>
 <td style="text-align: left;"><a
 href="https://github.com/duttashi/visualizer"
@@ -4247,10 +6161,26 @@ Feel free to show your :heart: by giving a star :star:</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">MIT License</td>
 <td style="text-align: left;">2017-05-08T08:49:15Z</td>
-<td style="text-align: left;">2021-04-27T07:13:40Z</td>
+<td style="text-align: left;">2025-10-06T09:21:28Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">310</td>
+<tr>
+<td style="text-align: left;">449</td>
+<td style="text-align: left;">volcano-plot-streamlit-plotnine</td>
+<td style="text-align: left;"><a
+href="https://github.com/Asimahafeez/volcano-plot-streamlit-plotnine"
+class="uri">https://github.com/Asimahafeez/volcano-plot-streamlit-plotnine</a></td>
+<td style="text-align: left;">A Streamlit web app for interactive
+Volcano Plot visualization of differential gene expression data, styled
+with plotnine (ggplot2 in Python). Upload RNA-seq results
+(log2FoldChange &amp; p-value), adjust thresholds, label top genes, and
+download publication-ready plots and results.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2025-08-23T20:33:16Z</td>
+<td style="text-align: left;">2025-08-23T21:13:08Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">450</td>
 <td style="text-align: left;">vthemes</td>
 <td style="text-align: left;"><a
 href="https://github.com/Yu-Group/vthemes"
@@ -4262,10 +6192,10 @@ href="https://yu-group.github.io/vthemes/"
 class="uri">https://yu-group.github.io/vthemes/</a></td>
 <td style="text-align: left;">GNU General Public License v3.0</td>
 <td style="text-align: left;">2022-03-05T01:09:58Z</td>
-<td style="text-align: left;">2023-01-10T19:30:56Z</td>
+<td style="text-align: left;">2023-09-05T20:05:45Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">311</td>
+<tr>
+<td style="text-align: left;">451</td>
 <td style="text-align: left;">waxtheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/Waxtiz/waxtheme"
@@ -4276,21 +6206,33 @@ class="uri">https://github.com/Waxtiz/waxtheme</a></td>
 <td style="text-align: left;">2022-10-07T15:39:36Z</td>
 <td style="text-align: left;">2022-10-24T09:36:15Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">312</td>
-<td style="text-align: left;">wfpthemes</td>
+<tr>
+<td style="text-align: left;">452</td>
+<td style="text-align: left;">wbplot</td>
 <td style="text-align: left;"><a
-href="https://github.com/WFP-VAM/wfpthemes"
-class="uri">https://github.com/WFP-VAM/wfpthemes</a></td>
-<td style="text-align: left;">WFP branded theme for ggplot2 and data
-visualization colour palettes</td>
+href="https://github.com/lsms-worldbank/wbplot"
+class="uri">https://github.com/lsms-worldbank/wbplot</a></td>
+<td style="text-align: left;">Provides ggplot2 themes and color palettes
+aligned with the World Bank’s visual identity 📈🌐</td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">2023-04-26T15:52:08Z</td>
-<td style="text-align: left;">2023-05-27T14:47:49Z</td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2024-07-27T20:20:24Z</td>
+<td style="text-align: left;">2024-10-29T16:18:06Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">313</td>
+<tr>
+<td style="text-align: left;">453</td>
+<td style="text-align: left;">wbplot</td>
+<td style="text-align: left;"><a
+href="https://github.com/worldbank/wbplot"
+class="uri">https://github.com/worldbank/wbplot</a></td>
+<td style="text-align: left;">World Bank ggplot2 theme</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-01-07T11:48:50Z</td>
+<td style="text-align: left;">2025-11-14T14:20:53Z</td>
+</tr>
+<tr>
+<td style="text-align: left;">454</td>
 <td style="text-align: left;">wwplot</td>
 <td style="text-align: left;"><a
 href="https://github.com/lizardburns/wwplot"
@@ -4302,47 +6244,53 @@ plots</td>
 <td style="text-align: left;">2022-01-04T14:38:17Z</td>
 <td style="text-align: left;">2022-01-04T14:41:37Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">314</td>
+<tr>
+<td style="text-align: left;">455</td>
 <td style="text-align: left;">xkcd</td>
 <td style="text-align: left;"><a href="https://github.com/cran/xkcd"
 class="uri">https://github.com/cran/xkcd</a></td>
 <td
 style="text-align: left;">:exclamation: This is a read-only mirror of the CRAN R package repository.
-xkcd — Plotting ggplot2 Graphics in an XKCD Style. Homepage: </td>
+xkcd — Plotting ‘ggplot2’ Graphics in an ‘XKCD’ Style. Homepage: <a
+href="https://github.com/ToledoEM/xkcd"
+class="uri">https://github.com/ToledoEM/xkcd</a>
+Report bugs for this package: <a
+href="https://github.com/ToledoEM/xkcd/issues"
+class="uri">https://github.com/ToledoEM/xkcd/issues</a></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Other</td>
 <td style="text-align: left;">2014-03-13T06:47:32Z</td>
-<td style="text-align: left;">2022-05-02T16:07:34Z</td>
+<td style="text-align: left;">2025-11-19T19:29:39Z</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">315</td>
-<td style="text-align: left;">zewplot</td>
-<td style="text-align: left;"><a
-href="https://github.com/benediktstelter/zewplot"
-class="uri">https://github.com/benediktstelter/zewplot</a></td>
-<td style="text-align: left;">This package implements ‘theme_zew’, a
-ggplot2 theme which can be used to create plots in uniform style.
-Additionally, the package includes color palette functions in corporate
-colors.</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">2023-04-28T15:53:40Z</td>
-<td style="text-align: left;">2023-07-11T20:13:32Z</td>
+<tr>
+<td style="text-align: left;">456</td>
+<td style="text-align: left;">xkcd</td>
+<td style="text-align: left;"><a href="https://github.com/ToledoEM/xkcd"
+class="uri">https://github.com/ToledoEM/xkcd</a></td>
+<td style="text-align: left;">This R package facilitates hand-drawn
+XKCD-style graphics using ggplot2 through custom geometric objects for
+jittered lines, segments, circles, and figures that capture the XKCD
+aesthetic. Compatible with ggplot version 4.0.2.</td>
+<td style="text-align: left;"><a href="https://toledoem.github.io/xkcd/"
+class="uri">https://toledoem.github.io/xkcd/</a></td>
+<td style="text-align: left;">Other</td>
+<td style="text-align: left;">2025-10-23T22:13:11Z</td>
+<td style="text-align: left;">2025-12-04T23:36:43Z</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">316</td>
+<tr>
+<td style="text-align: left;">457</td>
 <td style="text-align: left;">zueritheme</td>
 <td style="text-align: left;"><a
 href="https://github.com/StatistikStadtZuerich/zueritheme"
 class="uri">https://github.com/StatistikStadtZuerich/zueritheme</a></td>
 <td style="text-align: left;">zueritheme: Statistik Stadt Zurich ggplot2
 theme</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">BSD 3-Clause “New” or “Revised”
-License</td>
+<td style="text-align: left;"><a
+href="https://statistikstadtzuerich.github.io/zueritheme/"
+class="uri">https://statistikstadtzuerich.github.io/zueritheme/</a></td>
+<td style="text-align: left;">Other</td>
 <td style="text-align: left;">2022-11-24T14:07:30Z</td>
-<td style="text-align: left;">2023-03-01T09:42:23Z</td>
+<td style="text-align: left;">2025-11-23T11:33:32Z</td>
 </tr>
 </tbody>
 </table>
